@@ -1,2 +1,2 @@
-# SoftUni-Software-Engineering-
+# SoftUni-Software-Engineering
 Education as Software Engineer
