@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\06ThreeBrothers\bin\Debug\06ThreeBrothers.exe.config
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\06ThreeBrothers\bin\Debug\06ThreeBrothers.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\06ThreeBrothers\bin\Debug\06ThreeBrothers.pdb
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\06ThreeBrothers\obj\Debug\06ThreeBrothers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\06ThreeBrothers\obj\Debug\06ThreeBrothers.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\06ThreeBrothers\obj\Debug\06ThreeBrothers.pdb

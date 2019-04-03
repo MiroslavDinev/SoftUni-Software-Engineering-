@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\03SpeedInfo\bin\Debug\03SpeedInfo.exe.config
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\03SpeedInfo\bin\Debug\03SpeedInfo.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\03SpeedInfo\bin\Debug\03SpeedInfo.pdb
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\03SpeedInfo\obj\Debug\03SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\03SpeedInfo\obj\Debug\03SpeedInfo.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\03SpeedInfo\obj\Debug\03SpeedInfo.pdb

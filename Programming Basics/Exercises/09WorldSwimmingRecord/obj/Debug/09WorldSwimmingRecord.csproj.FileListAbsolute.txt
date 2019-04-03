@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\09WorldSwimmingRecord\bin\Debug\09WorldSwimmingRecord.exe.config
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\09WorldSwimmingRecord\bin\Debug\09WorldSwimmingRecord.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\09WorldSwimmingRecord\bin\Debug\09WorldSwimmingRecord.pdb
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\09WorldSwimmingRecord\obj\Debug\09WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\09WorldSwimmingRecord\obj\Debug\09WorldSwimmingRecord.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\09WorldSwimmingRecord\obj\Debug\09WorldSwimmingRecord.pdb

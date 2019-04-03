@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\04MetricConverter\bin\Debug\04MetricConverter.exe.config
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\04MetricConverter\bin\Debug\04MetricConverter.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\04MetricConverter\bin\Debug\04MetricConverter.pdb
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\04MetricConverter\obj\Debug\04MetricConverter.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\04MetricConverter\obj\Debug\04MetricConverter.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\04MetricConverter\obj\Debug\04MetricConverter.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\04MetricConverter\obj\Debug\04MetricConverter.pdb
