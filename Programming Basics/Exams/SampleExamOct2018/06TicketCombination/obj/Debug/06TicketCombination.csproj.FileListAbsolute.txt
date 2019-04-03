@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\06TicketCombination\obj\Debug\06TicketCombination.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\06TicketCombination\obj\Debug\06TicketCombination.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\06TicketCombination\bin\Debug\06TicketCombination.exe.config
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\06TicketCombination\bin\Debug\06TicketCombination.exe
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\06TicketCombination\bin\Debug\06TicketCombination.pdb
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\06TicketCombination\obj\Debug\06TicketCombination.exe
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\06TicketCombination\obj\Debug\06TicketCombination.pdb

@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\05FanShop\bin\Debug\05FanShop.exe.config
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\05FanShop\bin\Debug\05FanShop.exe
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\05FanShop\bin\Debug\05FanShop.pdb
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\05FanShop\obj\Debug\05FanShop.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\05FanShop\obj\Debug\05FanShop.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\05FanShop\obj\Debug\05FanShop.exe
+D:\Users\DINEV\source\repos\OnSideExamPreparation251118\05FanShop\obj\Debug\05FanShop.pdb

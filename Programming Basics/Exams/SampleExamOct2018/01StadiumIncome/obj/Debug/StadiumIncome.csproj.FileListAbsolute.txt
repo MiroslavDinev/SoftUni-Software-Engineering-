@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\VariousExamsProblems\StadiumIncome\bin\Debug\StadiumIncome.exe.config
+D:\Users\DINEV\source\repos\VariousExamsProblems\StadiumIncome\bin\Debug\StadiumIncome.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\StadiumIncome\bin\Debug\StadiumIncome.pdb
+D:\Users\DINEV\source\repos\VariousExamsProblems\StadiumIncome\obj\Debug\StadiumIncome.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\VariousExamsProblems\StadiumIncome\obj\Debug\StadiumIncome.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\StadiumIncome\obj\Debug\StadiumIncome.pdb

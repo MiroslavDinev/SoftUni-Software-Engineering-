@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\VariousExamsProblems\GroupStage\bin\Debug\GroupStage.exe.config
+D:\Users\DINEV\source\repos\VariousExamsProblems\GroupStage\bin\Debug\GroupStage.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\GroupStage\bin\Debug\GroupStage.pdb
+D:\Users\DINEV\source\repos\VariousExamsProblems\GroupStage\obj\Debug\GroupStage.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\VariousExamsProblems\GroupStage\obj\Debug\GroupStage.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\VariousExamsProblems\GroupStage\obj\Debug\GroupStage.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\GroupStage\obj\Debug\GroupStage.pdb

@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\VariousExamsProblems\BeerAndChips\bin\Debug\BeerAndChips.exe.config
+D:\Users\DINEV\source\repos\VariousExamsProblems\BeerAndChips\bin\Debug\BeerAndChips.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\BeerAndChips\bin\Debug\BeerAndChips.pdb
+D:\Users\DINEV\source\repos\VariousExamsProblems\BeerAndChips\obj\Debug\BeerAndChips.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\VariousExamsProblems\BeerAndChips\obj\Debug\BeerAndChips.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\BeerAndChips\obj\Debug\BeerAndChips.pdb

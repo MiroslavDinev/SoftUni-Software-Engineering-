@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\VariousExamsProblems\FootballSouvenirs\bin\Debug\FootballSouvenirs.exe.config
+D:\Users\DINEV\source\repos\VariousExamsProblems\FootballSouvenirs\bin\Debug\FootballSouvenirs.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\FootballSouvenirs\bin\Debug\FootballSouvenirs.pdb
+D:\Users\DINEV\source\repos\VariousExamsProblems\FootballSouvenirs\obj\Debug\FootballSouvenirs.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\VariousExamsProblems\FootballSouvenirs\obj\Debug\FootballSouvenirs.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\VariousExamsProblems\FootballSouvenirs\obj\Debug\FootballSouvenirs.exe
+D:\Users\DINEV\source\repos\VariousExamsProblems\FootballSouvenirs\obj\Debug\FootballSouvenirs.pdb
