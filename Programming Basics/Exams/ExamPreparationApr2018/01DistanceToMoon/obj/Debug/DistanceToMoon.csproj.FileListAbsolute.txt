@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\ExamPreparation1\DistanceToMoon\bin\Debug\DistanceToMoon.exe.config
+D:\Users\DINEV\source\repos\ExamPreparation1\DistanceToMoon\bin\Debug\DistanceToMoon.exe
+D:\Users\DINEV\source\repos\ExamPreparation1\DistanceToMoon\bin\Debug\DistanceToMoon.pdb
+D:\Users\DINEV\source\repos\ExamPreparation1\DistanceToMoon\obj\Debug\DistanceToMoon.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ExamPreparation1\DistanceToMoon\obj\Debug\DistanceToMoon.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparation1\DistanceToMoon\obj\Debug\DistanceToMoon.exe
+D:\Users\DINEV\source\repos\ExamPreparation1\DistanceToMoon\obj\Debug\DistanceToMoon.pdb

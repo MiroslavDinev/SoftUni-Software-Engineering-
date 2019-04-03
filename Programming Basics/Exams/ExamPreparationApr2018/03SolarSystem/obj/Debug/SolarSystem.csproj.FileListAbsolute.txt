@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparation1\SolarSystem\bin\Debug\SolarSystem.exe.config
+D:\Users\DINEV\source\repos\ExamPreparation1\SolarSystem\bin\Debug\SolarSystem.exe
+D:\Users\DINEV\source\repos\ExamPreparation1\SolarSystem\bin\Debug\SolarSystem.pdb
+D:\Users\DINEV\source\repos\ExamPreparation1\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparation1\SolarSystem\obj\Debug\SolarSystem.exe
+D:\Users\DINEV\source\repos\ExamPreparation1\SolarSystem\obj\Debug\SolarSystem.pdb

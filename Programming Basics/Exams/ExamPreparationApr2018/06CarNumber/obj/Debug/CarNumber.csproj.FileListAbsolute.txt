@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparation1\CarNumber\obj\Debug\CarNumber.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparation1\CarNumber\bin\Debug\CarNumber.exe.config
+D:\Users\DINEV\source\repos\ExamPreparation1\CarNumber\bin\Debug\CarNumber.exe
+D:\Users\DINEV\source\repos\ExamPreparation1\CarNumber\bin\Debug\CarNumber.pdb
+D:\Users\DINEV\source\repos\ExamPreparation1\CarNumber\obj\Debug\CarNumber.exe
+D:\Users\DINEV\source\repos\ExamPreparation1\CarNumber\obj\Debug\CarNumber.pdb
