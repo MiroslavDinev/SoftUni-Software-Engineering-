@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\13ShoppingMania\bin\Debug\13ShoppingMania.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\13ShoppingMania\bin\Debug\13ShoppingMania.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\13ShoppingMania\bin\Debug\13ShoppingMania.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\13ShoppingMania\obj\Debug\13ShoppingMania.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\13ShoppingMania\obj\Debug\13ShoppingMania.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\13ShoppingMania\obj\Debug\13ShoppingMania.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\13ShoppingMania\obj\Debug\13ShoppingMania.pdb

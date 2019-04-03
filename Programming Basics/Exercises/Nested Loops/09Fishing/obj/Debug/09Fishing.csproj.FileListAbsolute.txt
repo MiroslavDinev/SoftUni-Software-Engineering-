@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\09Fishing\bin\Debug\09Fishing.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\09Fishing\bin\Debug\09Fishing.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\09Fishing\bin\Debug\09Fishing.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\09Fishing\obj\Debug\09Fishing.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\09Fishing\obj\Debug\09Fishing.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\09Fishing\obj\Debug\09Fishing.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\09Fishing\obj\Debug\09Fishing.pdb

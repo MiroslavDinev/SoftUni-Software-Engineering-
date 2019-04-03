@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\04Coding\bin\Debug\04Coding.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\04Coding\bin\Debug\04Coding.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\04Coding\bin\Debug\04Coding.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\04Coding\obj\Debug\04Coding.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\04Coding\obj\Debug\04Coding.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\04Coding\obj\Debug\04Coding.pdb

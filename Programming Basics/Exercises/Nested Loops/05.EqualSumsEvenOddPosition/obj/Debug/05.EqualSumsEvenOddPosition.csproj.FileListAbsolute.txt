@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\05.EqualSumsEvenOddPosition\bin\Debug\05.EqualSumsEvenOddPosition.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\05.EqualSumsEvenOddPosition\bin\Debug\05.EqualSumsEvenOddPosition.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\05.EqualSumsEvenOddPosition\bin\Debug\05.EqualSumsEvenOddPosition.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\05.EqualSumsEvenOddPosition\obj\Debug\05.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\05.EqualSumsEvenOddPosition\obj\Debug\05.EqualSumsEvenOddPosition.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\05.EqualSumsEvenOddPosition\obj\Debug\05.EqualSumsEvenOddPosition.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\05.EqualSumsEvenOddPosition\obj\Debug\05.EqualSumsEvenOddPosition.csprojAssemblyReference.cache

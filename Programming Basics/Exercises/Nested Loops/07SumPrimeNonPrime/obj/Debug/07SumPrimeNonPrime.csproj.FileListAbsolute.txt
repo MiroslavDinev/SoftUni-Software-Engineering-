@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\07SumPrimeNonPrime\bin\Debug\07SumPrimeNonPrime.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\07SumPrimeNonPrime\bin\Debug\07SumPrimeNonPrime.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\07SumPrimeNonPrime\bin\Debug\07SumPrimeNonPrime.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\07SumPrimeNonPrime\obj\Debug\07SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\07SumPrimeNonPrime\obj\Debug\07SumPrimeNonPrime.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\07SumPrimeNonPrime\obj\Debug\07SumPrimeNonPrime.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\07SumPrimeNonPrime\obj\Debug\07SumPrimeNonPrime.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\02NumberPyramid\bin\Debug\02NumberPyramid.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\02NumberPyramid\bin\Debug\02NumberPyramid.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\02NumberPyramid\bin\Debug\02NumberPyramid.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\02NumberPyramid\obj\Debug\02NumberPyramid.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\02NumberPyramid\obj\Debug\02NumberPyramid.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\02NumberPyramid\obj\Debug\02NumberPyramid.pdb

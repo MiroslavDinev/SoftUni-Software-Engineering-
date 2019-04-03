@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\03NumberTable\bin\Debug\03NumberTable.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\03NumberTable\bin\Debug\03NumberTable.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\03NumberTable\bin\Debug\03NumberTable.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\03NumberTable\obj\Debug\03NumberTable.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\03NumberTable\obj\Debug\03NumberTable.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\03NumberTable\obj\Debug\03NumberTable.pdb

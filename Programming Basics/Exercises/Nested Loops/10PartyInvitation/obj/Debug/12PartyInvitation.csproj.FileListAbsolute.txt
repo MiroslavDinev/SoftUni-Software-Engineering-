@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\12PartyInvitation\bin\Debug\12PartyInvitation.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\12PartyInvitation\bin\Debug\12PartyInvitation.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\12PartyInvitation\bin\Debug\12PartyInvitation.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\12PartyInvitation\obj\Debug\12PartyInvitation.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\12PartyInvitation\obj\Debug\12PartyInvitation.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\12PartyInvitation\obj\Debug\12PartyInvitation.pdb

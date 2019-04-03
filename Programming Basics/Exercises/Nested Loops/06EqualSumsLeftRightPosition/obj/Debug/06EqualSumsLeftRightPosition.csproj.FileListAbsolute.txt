@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\06EqualSumsLeftRightPosition\bin\Debug\06EqualSumsLeftRightPosition.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\06EqualSumsLeftRightPosition\bin\Debug\06EqualSumsLeftRightPosition.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\06EqualSumsLeftRightPosition\bin\Debug\06EqualSumsLeftRightPosition.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\06EqualSumsLeftRightPosition\obj\Debug\06EqualSumsLeftRightPosition.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\06EqualSumsLeftRightPosition\obj\Debug\06EqualSumsLeftRightPosition.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\06EqualSumsLeftRightPosition\obj\Debug\06EqualSumsLeftRightPosition.pdb

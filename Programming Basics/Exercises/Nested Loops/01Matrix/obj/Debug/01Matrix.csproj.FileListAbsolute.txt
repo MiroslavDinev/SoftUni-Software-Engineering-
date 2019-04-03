@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\01Matrix\bin\Debug\01Matrix.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\01Matrix\bin\Debug\01Matrix.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\01Matrix\bin\Debug\01Matrix.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\01Matrix\obj\Debug\01Matrix.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\01Matrix\obj\Debug\01Matrix.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\01Matrix\obj\Debug\01Matrix.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\01Matrix\obj\Debug\01Matrix.pdb

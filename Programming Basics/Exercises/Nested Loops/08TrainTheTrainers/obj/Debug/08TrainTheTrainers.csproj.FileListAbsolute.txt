@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\08TrainTheTrainers\bin\Debug\08TrainTheTrainers.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\08TrainTheTrainers\bin\Debug\08TrainTheTrainers.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\08TrainTheTrainers\bin\Debug\08TrainTheTrainers.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\08TrainTheTrainers\obj\Debug\08TrainTheTrainers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\08TrainTheTrainers\obj\Debug\08TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\08TrainTheTrainers\obj\Debug\08TrainTheTrainers.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\08TrainTheTrainers\obj\Debug\08TrainTheTrainers.pdb

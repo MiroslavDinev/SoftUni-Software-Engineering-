@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\NestedLoopsExercise\11SpecialNumbers\bin\Debug\11SpecialNumbers.exe.config
+D:\Users\DINEV\source\repos\NestedLoopsExercise\11SpecialNumbers\bin\Debug\11SpecialNumbers.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\11SpecialNumbers\bin\Debug\11SpecialNumbers.pdb
+D:\Users\DINEV\source\repos\NestedLoopsExercise\11SpecialNumbers\obj\Debug\11SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedLoopsExercise\11SpecialNumbers\obj\Debug\11SpecialNumbers.exe
+D:\Users\DINEV\source\repos\NestedLoopsExercise\11SpecialNumbers\obj\Debug\11SpecialNumbers.pdb
