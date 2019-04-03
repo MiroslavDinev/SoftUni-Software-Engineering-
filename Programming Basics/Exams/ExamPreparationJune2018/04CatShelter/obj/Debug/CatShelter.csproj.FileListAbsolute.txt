@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatShelter\bin\Debug\CatShelter.exe.config
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatShelter\bin\Debug\CatShelter.exe
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatShelter\bin\Debug\CatShelter.pdb
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatShelter\obj\Debug\CatShelter.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatShelter\obj\Debug\CatShelter.exe
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatShelter\obj\Debug\CatShelter.pdb

@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatLife\bin\Debug\CatLife.exe.config
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatLife\bin\Debug\CatLife.exe
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatLife\bin\Debug\CatLife.pdb
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatLife\obj\Debug\CatLife.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatLife\obj\Debug\CatLife.exe
+D:\Users\DINEV\source\repos\ExamPreparationJune\CatLife\obj\Debug\CatLife.pdb

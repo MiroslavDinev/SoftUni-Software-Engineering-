@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparationJune\CreditSystem\bin\Debug\CreditSystem.exe.config
+D:\Users\DINEV\source\repos\ExamPreparationJune\CreditSystem\bin\Debug\CreditSystem.exe
+D:\Users\DINEV\source\repos\ExamPreparationJune\CreditSystem\bin\Debug\CreditSystem.pdb
+D:\Users\DINEV\source\repos\ExamPreparationJune\CreditSystem\obj\Debug\CreditSystem.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparationJune\CreditSystem\obj\Debug\CreditSystem.exe
+D:\Users\DINEV\source\repos\ExamPreparationJune\CreditSystem\obj\Debug\CreditSystem.pdb
