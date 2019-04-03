@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparationMay\PCStore\bin\Debug\PCStore.exe.config
+D:\Users\DINEV\source\repos\ExamPreparationMay\PCStore\bin\Debug\PCStore.exe
+D:\Users\DINEV\source\repos\ExamPreparationMay\PCStore\bin\Debug\PCStore.pdb
+D:\Users\DINEV\source\repos\ExamPreparationMay\PCStore\obj\Debug\PCStore.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparationMay\PCStore\obj\Debug\PCStore.exe
+D:\Users\DINEV\source\repos\ExamPreparationMay\PCStore\obj\Debug\PCStore.pdb

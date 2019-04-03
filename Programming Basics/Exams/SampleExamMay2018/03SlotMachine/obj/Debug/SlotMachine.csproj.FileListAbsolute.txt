@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparationMay\SlotMachine\bin\Debug\SlotMachine.exe.config
+D:\Users\DINEV\source\repos\ExamPreparationMay\SlotMachine\bin\Debug\SlotMachine.exe
+D:\Users\DINEV\source\repos\ExamPreparationMay\SlotMachine\bin\Debug\SlotMachine.pdb
+D:\Users\DINEV\source\repos\ExamPreparationMay\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparationMay\SlotMachine\obj\Debug\SlotMachine.exe
+D:\Users\DINEV\source\repos\ExamPreparationMay\SlotMachine\obj\Debug\SlotMachine.pdb

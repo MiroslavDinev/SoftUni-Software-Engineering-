@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ExamPreparationMay\Cake\bin\Debug\Cake.exe.config
+D:\Users\DINEV\source\repos\ExamPreparationMay\Cake\bin\Debug\Cake.exe
+D:\Users\DINEV\source\repos\ExamPreparationMay\Cake\bin\Debug\Cake.pdb
+D:\Users\DINEV\source\repos\ExamPreparationMay\Cake\obj\Debug\Cake.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ExamPreparationMay\Cake\obj\Debug\Cake.exe
+D:\Users\DINEV\source\repos\ExamPreparationMay\Cake\obj\Debug\Cake.pdb
