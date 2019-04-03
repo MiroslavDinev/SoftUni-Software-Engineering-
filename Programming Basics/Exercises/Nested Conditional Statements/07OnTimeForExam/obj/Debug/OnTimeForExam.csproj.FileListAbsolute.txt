@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\OnTimeForExam\obj\Debug\OnTimeForExam.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\OnTimeForExam\obj\Debug\OnTimeForExam.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\OnTimeForExam\bin\Debug\OnTimeForExam.exe
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\OnTimeForExam\bin\Debug\OnTimeForExam.pdb
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\OnTimeForExam\obj\Debug\OnTimeForExam.exe
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\OnTimeForExam\obj\Debug\OnTimeForExam.pdb

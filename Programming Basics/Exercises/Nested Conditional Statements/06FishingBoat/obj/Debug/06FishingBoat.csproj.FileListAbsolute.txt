@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\VariousExercises\06FishingBoat\bin\Debug\06FishingBoat.exe.config
+D:\Users\DINEV\source\repos\VariousExercises\06FishingBoat\bin\Debug\06FishingBoat.exe
+D:\Users\DINEV\source\repos\VariousExercises\06FishingBoat\bin\Debug\06FishingBoat.pdb
+D:\Users\DINEV\source\repos\VariousExercises\06FishingBoat\obj\Debug\06FishingBoat.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\VariousExercises\06FishingBoat\obj\Debug\06FishingBoat.exe
+D:\Users\DINEV\source\repos\VariousExercises\06FishingBoat\obj\Debug\06FishingBoat.pdb

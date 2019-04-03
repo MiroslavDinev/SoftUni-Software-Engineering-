@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExercises\PointOnSideOfTriangle\bin\Debug\PointOnSideOfTriangle.exe.config
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExercises\PointOnSideOfTriangle\bin\Debug\PointOnSideOfTriangle.exe
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExercises\PointOnSideOfTriangle\bin\Debug\PointOnSideOfTriangle.pdb
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExercises\PointOnSideOfTriangle\obj\Debug\PointOnSideOfTriangle.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExercises\PointOnSideOfTriangle\obj\Debug\PointOnSideOfTriangle.exe
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExercises\PointOnSideOfTriangle\obj\Debug\PointOnSideOfTriangle.pdb

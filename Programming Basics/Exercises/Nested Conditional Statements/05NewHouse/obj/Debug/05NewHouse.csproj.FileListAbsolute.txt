@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\VariousExercises\05NewHouse\bin\Debug\05NewHouse.exe.config
+D:\Users\DINEV\source\repos\VariousExercises\05NewHouse\bin\Debug\05NewHouse.exe
+D:\Users\DINEV\source\repos\VariousExercises\05NewHouse\bin\Debug\05NewHouse.pdb
+D:\Users\DINEV\source\repos\VariousExercises\05NewHouse\obj\Debug\05NewHouse.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\VariousExercises\05NewHouse\obj\Debug\05NewHouse.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\VariousExercises\05NewHouse\obj\Debug\05NewHouse.exe
+D:\Users\DINEV\source\repos\VariousExercises\05NewHouse\obj\Debug\05NewHouse.pdb

@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\VariousExercises\SummerOutfit\bin\Debug\SummerOutfit.exe.config
+D:\Users\DINEV\source\repos\VariousExercises\SummerOutfit\bin\Debug\SummerOutfit.exe
+D:\Users\DINEV\source\repos\VariousExercises\SummerOutfit\bin\Debug\SummerOutfit.pdb
+D:\Users\DINEV\source\repos\VariousExercises\SummerOutfit\obj\Debug\SummerOutfit.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\VariousExercises\SummerOutfit\obj\Debug\SummerOutfit.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\VariousExercises\SummerOutfit\obj\Debug\SummerOutfit.exe
+D:\Users\DINEV\source\repos\VariousExercises\SummerOutfit\obj\Debug\SummerOutfit.pdb

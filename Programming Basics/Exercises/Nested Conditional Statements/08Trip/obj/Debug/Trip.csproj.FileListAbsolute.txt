@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\Trip\bin\Debug\Trip.exe.config
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\Trip\bin\Debug\Trip.exe
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\Trip\bin\Debug\Trip.pdb
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\Trip\obj\Debug\Trip.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\Trip\obj\Debug\Trip.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\Trip\obj\Debug\Trip.exe
+D:\Users\DINEV\source\repos\NestedConditionalStatementsExamProblems\Trip\obj\Debug\Trip.pdb
