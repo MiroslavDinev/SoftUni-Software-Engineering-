@@ -1,6 +1,0 @@
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.exe.config
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.pdb
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\02BonusScore\obj\Debug\02BonusScore.csproj.CoreCompileInputs.cache
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\02BonusScore\obj\Debug\02BonusScore.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\02BonusScore\obj\Debug\02BonusScore.pdb

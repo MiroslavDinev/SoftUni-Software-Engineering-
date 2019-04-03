@@ -1,7 +1,0 @@
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\07Scholarship\bin\Debug\07Scholarship.exe.config
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\07Scholarship\bin\Debug\07Scholarship.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\07Scholarship\bin\Debug\07Scholarship.pdb
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\07Scholarship\obj\Debug\07Scholarship.csprojAssemblyReference.cache
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\07Scholarship\obj\Debug\07Scholarship.csproj.CoreCompileInputs.cache
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\07Scholarship\obj\Debug\07Scholarship.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\07Scholarship\obj\Debug\07Scholarship.pdb

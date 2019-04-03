@@ -1,7 +1,0 @@
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\08Choreography\bin\Debug\08Choreography.exe.config
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\08Choreography\bin\Debug\08Choreography.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\08Choreography\bin\Debug\08Choreography.pdb
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\08Choreography\obj\Debug\08Choreography.csprojAssemblyReference.cache
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\08Choreography\obj\Debug\08Choreography.csproj.CoreCompileInputs.cache
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\08Choreography\obj\Debug\08Choreography.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\08Choreography\obj\Debug\08Choreography.pdb

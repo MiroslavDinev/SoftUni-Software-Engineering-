@@ -1,7 +1,0 @@
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\05Time+15Minutes\bin\Debug\05Time+15Minutes.exe.config
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\05Time+15Minutes\bin\Debug\05Time+15Minutes.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\05Time+15Minutes\bin\Debug\05Time+15Minutes.pdb
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\05Time+15Minutes\obj\Debug\05Time+15Minutes.csprojAssemblyReference.cache
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\05Time+15Minutes\obj\Debug\05Time+15Minutes.csproj.CoreCompileInputs.cache
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\05Time+15Minutes\obj\Debug\05Time+15Minutes.exe
-D:\Users\DINEV\source\repos\ConditionalStatementsHomework\05Time+15Minutes\obj\Debug\05Time+15Minutes.pdb
