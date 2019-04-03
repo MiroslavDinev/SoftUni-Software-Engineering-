@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ForLoopExercise\02HalfSumElement\bin\Debug\02HalfSumElement.exe.config
+D:\Users\DINEV\source\repos\ForLoopExercise\02HalfSumElement\bin\Debug\02HalfSumElement.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\02HalfSumElement\bin\Debug\02HalfSumElement.pdb
+D:\Users\DINEV\source\repos\ForLoopExercise\02HalfSumElement\obj\Debug\02HalfSumElement.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ForLoopExercise\02HalfSumElement\obj\Debug\02HalfSumElement.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\02HalfSumElement\obj\Debug\02HalfSumElement.pdb

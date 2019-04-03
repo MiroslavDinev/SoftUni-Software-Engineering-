@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ForLoopExercise\07Salary\bin\Debug\07Salary.exe.config
+D:\Users\DINEV\source\repos\ForLoopExercise\07Salary\bin\Debug\07Salary.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\07Salary\bin\Debug\07Salary.pdb
+D:\Users\DINEV\source\repos\ForLoopExercise\07Salary\obj\Debug\07Salary.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ForLoopExercise\07Salary\obj\Debug\07Salary.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\07Salary\obj\Debug\07Salary.pdb

@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\ForLoopExercise\01NumbersEndingIn7\bin\Debug\01NumbersEndingIn7.exe.config
+D:\Users\DINEV\source\repos\ForLoopExercise\01NumbersEndingIn7\bin\Debug\01NumbersEndingIn7.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\01NumbersEndingIn7\bin\Debug\01NumbersEndingIn7.pdb
+D:\Users\DINEV\source\repos\ForLoopExercise\01NumbersEndingIn7\obj\Debug\01NumbersEndingIn7.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ForLoopExercise\01NumbersEndingIn7\obj\Debug\01NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ForLoopExercise\01NumbersEndingIn7\obj\Debug\01NumbersEndingIn7.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\01NumbersEndingIn7\obj\Debug\01NumbersEndingIn7.pdb

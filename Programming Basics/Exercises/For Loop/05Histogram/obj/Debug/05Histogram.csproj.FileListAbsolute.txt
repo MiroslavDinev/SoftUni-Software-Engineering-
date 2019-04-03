@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ForLoopExercise\05Histogram\bin\Debug\05Histogram.exe.config
+D:\Users\DINEV\source\repos\ForLoopExercise\05Histogram\bin\Debug\05Histogram.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\05Histogram\bin\Debug\05Histogram.pdb
+D:\Users\DINEV\source\repos\ForLoopExercise\05Histogram\obj\Debug\05Histogram.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ForLoopExercise\05Histogram\obj\Debug\05Histogram.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\05Histogram\obj\Debug\05Histogram.pdb

@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ForLoopExercise\03.OddEvenPosition\bin\Debug\03.OddEvenPosition.exe.config
+D:\Users\DINEV\source\repos\ForLoopExercise\03.OddEvenPosition\bin\Debug\03.OddEvenPosition.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\03.OddEvenPosition\bin\Debug\03.OddEvenPosition.pdb
+D:\Users\DINEV\source\repos\ForLoopExercise\03.OddEvenPosition\obj\Debug\03.OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ForLoopExercise\03.OddEvenPosition\obj\Debug\03.OddEvenPosition.exe
+D:\Users\DINEV\source\repos\ForLoopExercise\03.OddEvenPosition\obj\Debug\03.OddEvenPosition.pdb
