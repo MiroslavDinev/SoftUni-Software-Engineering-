@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\01SumSeconds\bin\Debug\01SumSeconds.exe.config
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\01SumSeconds\bin\Debug\01SumSeconds.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\01SumSeconds\bin\Debug\01SumSeconds.pdb
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\01SumSeconds\obj\Debug\01SumSeconds.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\01SumSeconds\obj\Debug\01SumSeconds.exe
+D:\Users\DINEV\source\repos\ConditionalStatementsHomework\01SumSeconds\obj\Debug\01SumSeconds.pdb
