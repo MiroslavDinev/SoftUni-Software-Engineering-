@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\WhileLoopExercise\06Cake\bin\Debug\06Cake.exe.config
+D:\Users\DINEV\source\repos\WhileLoopExercise\06Cake\bin\Debug\06Cake.exe
+D:\Users\DINEV\source\repos\WhileLoopExercise\06Cake\bin\Debug\06Cake.pdb
+D:\Users\DINEV\source\repos\WhileLoopExercise\06Cake\obj\Debug\06Cake.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\WhileLoopExercise\06Cake\obj\Debug\06Cake.exe
+D:\Users\DINEV\source\repos\WhileLoopExercise\06Cake\obj\Debug\06Cake.pdb

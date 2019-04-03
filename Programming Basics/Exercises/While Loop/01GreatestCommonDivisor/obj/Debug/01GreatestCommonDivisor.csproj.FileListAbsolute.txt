@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\WhileLoopExercise\01GreatestCommonDivisor\bin\Debug\01GreatestCommonDivisor.exe.config
+D:\Users\DINEV\source\repos\WhileLoopExercise\01GreatestCommonDivisor\bin\Debug\01GreatestCommonDivisor.exe
+D:\Users\DINEV\source\repos\WhileLoopExercise\01GreatestCommonDivisor\bin\Debug\01GreatestCommonDivisor.pdb
+D:\Users\DINEV\source\repos\WhileLoopExercise\01GreatestCommonDivisor\obj\Debug\01GreatestCommonDivisor.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\WhileLoopExercise\01GreatestCommonDivisor\obj\Debug\01GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\WhileLoopExercise\01GreatestCommonDivisor\obj\Debug\01GreatestCommonDivisor.exe
+D:\Users\DINEV\source\repos\WhileLoopExercise\01GreatestCommonDivisor\obj\Debug\01GreatestCommonDivisor.pdb

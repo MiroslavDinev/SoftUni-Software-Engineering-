@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\WhileLoopExercise\05Coins\bin\Debug\05Coins.exe.config
+D:\Users\DINEV\source\repos\WhileLoopExercise\05Coins\bin\Debug\05Coins.exe
+D:\Users\DINEV\source\repos\WhileLoopExercise\05Coins\bin\Debug\05Coins.pdb
+D:\Users\DINEV\source\repos\WhileLoopExercise\05Coins\obj\Debug\05Coins.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\WhileLoopExercise\05Coins\obj\Debug\05Coins.exe
+D:\Users\DINEV\source\repos\WhileLoopExercise\05Coins\obj\Debug\05Coins.pdb
