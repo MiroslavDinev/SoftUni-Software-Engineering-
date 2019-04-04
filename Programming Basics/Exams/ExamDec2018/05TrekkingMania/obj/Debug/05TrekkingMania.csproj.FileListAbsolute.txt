@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\Solution1\05TrekkingMania\bin\Debug\05TrekkingMania.exe.config
+D:\Users\DINEV\source\repos\Solution1\05TrekkingMania\bin\Debug\05TrekkingMania.exe
+D:\Users\DINEV\source\repos\Solution1\05TrekkingMania\bin\Debug\05TrekkingMania.pdb
+D:\Users\DINEV\source\repos\Solution1\05TrekkingMania\obj\Debug\05TrekkingMania.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Solution1\05TrekkingMania\obj\Debug\05TrekkingMania.exe
+D:\Users\DINEV\source\repos\Solution1\05TrekkingMania\obj\Debug\05TrekkingMania.pdb

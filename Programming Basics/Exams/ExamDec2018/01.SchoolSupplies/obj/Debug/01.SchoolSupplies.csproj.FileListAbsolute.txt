@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\Solution1\01.SchoolSupplies\bin\Debug\01.SchoolSupplies.exe.config
+D:\Users\DINEV\source\repos\Solution1\01.SchoolSupplies\bin\Debug\01.SchoolSupplies.exe
+D:\Users\DINEV\source\repos\Solution1\01.SchoolSupplies\bin\Debug\01.SchoolSupplies.pdb
+D:\Users\DINEV\source\repos\Solution1\01.SchoolSupplies\obj\Debug\01.SchoolSupplies.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Solution1\01.SchoolSupplies\obj\Debug\01.SchoolSupplies.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Solution1\01.SchoolSupplies\obj\Debug\01.SchoolSupplies.exe
+D:\Users\DINEV\source\repos\Solution1\01.SchoolSupplies\obj\Debug\01.SchoolSupplies.pdb

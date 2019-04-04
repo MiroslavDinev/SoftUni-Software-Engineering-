@@ -1,0 +1,6 @@
+D:\Users\DINEV\source\repos\Solution1\04Everest\bin\Debug\04Everest.exe.config
+D:\Users\DINEV\source\repos\Solution1\04Everest\bin\Debug\04Everest.exe
+D:\Users\DINEV\source\repos\Solution1\04Everest\bin\Debug\04Everest.pdb
+D:\Users\DINEV\source\repos\Solution1\04Everest\obj\Debug\04Everest.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Solution1\04Everest\obj\Debug\04Everest.exe
+D:\Users\DINEV\source\repos\Solution1\04Everest\obj\Debug\04Everest.pdb

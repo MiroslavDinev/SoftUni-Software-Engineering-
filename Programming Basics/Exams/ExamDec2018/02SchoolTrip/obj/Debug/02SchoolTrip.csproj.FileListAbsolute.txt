@@ -1,0 +1,7 @@
+D:\Users\DINEV\source\repos\Solution1\02SchoolTrip\bin\Debug\02SchoolTrip.exe.config
+D:\Users\DINEV\source\repos\Solution1\02SchoolTrip\bin\Debug\02SchoolTrip.exe
+D:\Users\DINEV\source\repos\Solution1\02SchoolTrip\bin\Debug\02SchoolTrip.pdb
+D:\Users\DINEV\source\repos\Solution1\02SchoolTrip\obj\Debug\02SchoolTrip.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Solution1\02SchoolTrip\obj\Debug\02SchoolTrip.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Solution1\02SchoolTrip\obj\Debug\02SchoolTrip.exe
+D:\Users\DINEV\source\repos\Solution1\02SchoolTrip\obj\Debug\02SchoolTrip.pdb
