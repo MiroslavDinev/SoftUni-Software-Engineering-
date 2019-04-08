@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\bin\Debug\netcoreapp2.1\12EvenNumber.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\bin\Debug\netcoreapp2.1\12EvenNumber.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\bin\Debug\netcoreapp2.1\12EvenNumber.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\bin\Debug\netcoreapp2.1\12EvenNumber.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\bin\Debug\netcoreapp2.1\12EvenNumber.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\obj\Debug\netcoreapp2.1\12EvenNumber.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\obj\Debug\netcoreapp2.1\12EvenNumber.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\obj\Debug\netcoreapp2.1\12EvenNumber.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\obj\Debug\netcoreapp2.1\12EvenNumber.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\12EvenNumber\obj\Debug\netcoreapp2.1\12EvenNumber.pdb

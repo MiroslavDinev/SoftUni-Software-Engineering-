@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\bin\Debug\netcoreapp2.1\06ForeignLanguages.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\bin\Debug\netcoreapp2.1\06ForeignLanguages.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\bin\Debug\netcoreapp2.1\06ForeignLanguages.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\bin\Debug\netcoreapp2.1\06ForeignLanguages.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\bin\Debug\netcoreapp2.1\06ForeignLanguages.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\obj\Debug\netcoreapp2.1\06ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\obj\Debug\netcoreapp2.1\06ForeignLanguages.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\obj\Debug\netcoreapp2.1\06ForeignLanguages.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\obj\Debug\netcoreapp2.1\06ForeignLanguages.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\06ForeignLanguages\obj\Debug\netcoreapp2.1\06ForeignLanguages.pdb

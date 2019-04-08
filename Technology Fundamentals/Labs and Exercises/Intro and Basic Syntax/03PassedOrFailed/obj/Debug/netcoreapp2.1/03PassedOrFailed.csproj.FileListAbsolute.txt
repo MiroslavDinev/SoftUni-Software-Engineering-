@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\bin\Debug\netcoreapp2.1\03PassedOrFailed.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\bin\Debug\netcoreapp2.1\03PassedOrFailed.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\bin\Debug\netcoreapp2.1\03PassedOrFailed.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\bin\Debug\netcoreapp2.1\03PassedOrFailed.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\bin\Debug\netcoreapp2.1\03PassedOrFailed.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\obj\Debug\netcoreapp2.1\03PassedOrFailed.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\obj\Debug\netcoreapp2.1\03PassedOrFailed.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\obj\Debug\netcoreapp2.1\03PassedOrFailed.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\obj\Debug\netcoreapp2.1\03PassedOrFailed.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\03PassedOrFailed\obj\Debug\netcoreapp2.1\03PassedOrFailed.pdb

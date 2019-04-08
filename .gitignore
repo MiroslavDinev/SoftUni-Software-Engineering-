@@ -2,3 +2,4 @@
 *.pdb
 *.cache
 *.config
+*.dll

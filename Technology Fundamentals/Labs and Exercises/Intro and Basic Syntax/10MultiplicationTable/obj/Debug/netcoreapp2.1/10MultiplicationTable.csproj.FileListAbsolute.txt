@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\bin\Debug\netcoreapp2.1\10MultiplicationTable.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\bin\Debug\netcoreapp2.1\10MultiplicationTable.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\bin\Debug\netcoreapp2.1\10MultiplicationTable.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\bin\Debug\netcoreapp2.1\10MultiplicationTable.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\bin\Debug\netcoreapp2.1\10MultiplicationTable.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\obj\Debug\netcoreapp2.1\10MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\obj\Debug\netcoreapp2.1\10MultiplicationTable.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\obj\Debug\netcoreapp2.1\10MultiplicationTable.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\obj\Debug\netcoreapp2.1\10MultiplicationTable.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\10MultiplicationTable\obj\Debug\netcoreapp2.1\10MultiplicationTable.pdb

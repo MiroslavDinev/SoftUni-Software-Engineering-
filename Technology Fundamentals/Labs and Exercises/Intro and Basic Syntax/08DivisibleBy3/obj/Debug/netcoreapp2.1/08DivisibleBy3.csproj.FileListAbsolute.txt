@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\bin\Debug\netcoreapp2.1\08DivisibleBy3.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\bin\Debug\netcoreapp2.1\08DivisibleBy3.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\bin\Debug\netcoreapp2.1\08DivisibleBy3.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\bin\Debug\netcoreapp2.1\08DivisibleBy3.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\bin\Debug\netcoreapp2.1\08DivisibleBy3.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\obj\Debug\netcoreapp2.1\08DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\obj\Debug\netcoreapp2.1\08DivisibleBy3.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\obj\Debug\netcoreapp2.1\08DivisibleBy3.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\obj\Debug\netcoreapp2.1\08DivisibleBy3.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\08DivisibleBy3\obj\Debug\netcoreapp2.1\08DivisibleBy3.pdb

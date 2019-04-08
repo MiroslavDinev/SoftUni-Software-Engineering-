@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\bin\Debug\netcoreapp2.1\04BackIn30Minutes.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\bin\Debug\netcoreapp2.1\04BackIn30Minutes.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\bin\Debug\netcoreapp2.1\04BackIn30Minutes.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\bin\Debug\netcoreapp2.1\04BackIn30Minutes.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\bin\Debug\netcoreapp2.1\04BackIn30Minutes.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\obj\Debug\netcoreapp2.1\04BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\obj\Debug\netcoreapp2.1\04BackIn30Minutes.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\obj\Debug\netcoreapp2.1\04BackIn30Minutes.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\obj\Debug\netcoreapp2.1\04BackIn30Minutes.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\04BackIn30Minutes\obj\Debug\netcoreapp2.1\04BackIn30Minutes.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\bin\Debug\netcoreapp2.1\09SumOfOddNumbers.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\bin\Debug\netcoreapp2.1\09SumOfOddNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\bin\Debug\netcoreapp2.1\09SumOfOddNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\bin\Debug\netcoreapp2.1\09SumOfOddNumbers.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\bin\Debug\netcoreapp2.1\09SumOfOddNumbers.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\obj\Debug\netcoreapp2.1\09SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\obj\Debug\netcoreapp2.1\09SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\obj\Debug\netcoreapp2.1\09SumOfOddNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\obj\Debug\netcoreapp2.1\09SumOfOddNumbers.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\09SumOfOddNumbers\obj\Debug\netcoreapp2.1\09SumOfOddNumbers.pdb

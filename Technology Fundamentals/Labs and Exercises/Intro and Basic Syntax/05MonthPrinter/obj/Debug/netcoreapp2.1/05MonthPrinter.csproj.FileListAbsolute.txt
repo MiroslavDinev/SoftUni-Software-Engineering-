@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\bin\Debug\netcoreapp2.1\05MonthPrinter.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\bin\Debug\netcoreapp2.1\05MonthPrinter.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\bin\Debug\netcoreapp2.1\05MonthPrinter.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\bin\Debug\netcoreapp2.1\05MonthPrinter.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\bin\Debug\netcoreapp2.1\05MonthPrinter.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\obj\Debug\netcoreapp2.1\05MonthPrinter.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\obj\Debug\netcoreapp2.1\05MonthPrinter.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\obj\Debug\netcoreapp2.1\05MonthPrinter.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\obj\Debug\netcoreapp2.1\05MonthPrinter.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\05MonthPrinter\obj\Debug\netcoreapp2.1\05MonthPrinter.pdb

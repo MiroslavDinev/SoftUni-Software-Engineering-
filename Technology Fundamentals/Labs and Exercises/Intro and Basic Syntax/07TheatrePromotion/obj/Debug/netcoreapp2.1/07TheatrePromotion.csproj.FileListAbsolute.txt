@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\bin\Debug\netcoreapp2.1\07TheatrePromotion.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\bin\Debug\netcoreapp2.1\07TheatrePromotion.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\bin\Debug\netcoreapp2.1\07TheatrePromotion.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\bin\Debug\netcoreapp2.1\07TheatrePromotion.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\bin\Debug\netcoreapp2.1\07TheatrePromotion.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\obj\Debug\netcoreapp2.1\07TheatrePromotion.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\obj\Debug\netcoreapp2.1\07TheatrePromotion.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\obj\Debug\netcoreapp2.1\07TheatrePromotion.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\obj\Debug\netcoreapp2.1\07TheatrePromotion.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\07TheatrePromotion\obj\Debug\netcoreapp2.1\07TheatrePromotion.pdb

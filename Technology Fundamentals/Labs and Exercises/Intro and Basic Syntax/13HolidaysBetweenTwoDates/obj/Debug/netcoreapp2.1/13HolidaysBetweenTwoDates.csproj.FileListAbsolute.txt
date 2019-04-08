@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\13HolidaysBetweenTwoDates.pdb

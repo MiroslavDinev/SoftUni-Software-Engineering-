@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\bin\Debug\netcoreapp2.1\01StudentInformation.deps.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\bin\Debug\netcoreapp2.1\01StudentInformation.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\bin\Debug\netcoreapp2.1\01StudentInformation.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\bin\Debug\netcoreapp2.1\01StudentInformation.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\bin\Debug\netcoreapp2.1\01StudentInformation.pdb
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\obj\Debug\netcoreapp2.1\01StudentInformation.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\obj\Debug\netcoreapp2.1\01StudentInformation.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\obj\Debug\netcoreapp2.1\01StudentInformation.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\obj\Debug\netcoreapp2.1\01StudentInformation.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\obj\Debug\netcoreapp2.1\01StudentInformation.dll
+D:\Users\DINEV\source\repos\TF-IntroAndBasicSyntaxLab\01StudentInformation\obj\Debug\netcoreapp2.1\01StudentInformation.pdb
