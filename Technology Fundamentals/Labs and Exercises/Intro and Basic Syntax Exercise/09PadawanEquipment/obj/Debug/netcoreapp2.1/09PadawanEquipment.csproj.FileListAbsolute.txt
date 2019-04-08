@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\bin\Debug\netcoreapp2.1\09PadawanEquipment.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\bin\Debug\netcoreapp2.1\09PadawanEquipment.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\bin\Debug\netcoreapp2.1\09PadawanEquipment.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\bin\Debug\netcoreapp2.1\09PadawanEquipment.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\bin\Debug\netcoreapp2.1\09PadawanEquipment.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\obj\Debug\netcoreapp2.1\09PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\obj\Debug\netcoreapp2.1\09PadawanEquipment.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\obj\Debug\netcoreapp2.1\09PadawanEquipment.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\obj\Debug\netcoreapp2.1\09PadawanEquipment.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\09PadawanEquipment\obj\Debug\netcoreapp2.1\09PadawanEquipment.pdb

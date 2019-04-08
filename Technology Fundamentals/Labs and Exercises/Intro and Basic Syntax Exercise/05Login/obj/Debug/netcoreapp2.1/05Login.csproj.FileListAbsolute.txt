@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\bin\Debug\netcoreapp2.1\05Login.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\bin\Debug\netcoreapp2.1\05Login.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\bin\Debug\netcoreapp2.1\05Login.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\bin\Debug\netcoreapp2.1\05Login.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\bin\Debug\netcoreapp2.1\05Login.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\obj\Debug\netcoreapp2.1\05Login.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\obj\Debug\netcoreapp2.1\05Login.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\obj\Debug\netcoreapp2.1\05Login.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\obj\Debug\netcoreapp2.1\05Login.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\05Login\obj\Debug\netcoreapp2.1\05Login.pdb

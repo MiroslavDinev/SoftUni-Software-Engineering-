@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\bin\Debug\netcoreapp2.1\03Vacation.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\bin\Debug\netcoreapp2.1\03Vacation.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\bin\Debug\netcoreapp2.1\03Vacation.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\bin\Debug\netcoreapp2.1\03Vacation.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\bin\Debug\netcoreapp2.1\03Vacation.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\obj\Debug\netcoreapp2.1\03Vacation.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\obj\Debug\netcoreapp2.1\03Vacation.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\obj\Debug\netcoreapp2.1\03Vacation.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\obj\Debug\netcoreapp2.1\03Vacation.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\obj\Debug\netcoreapp2.1\03Vacation.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\03Vacation\obj\Debug\netcoreapp2.1\03Vacation.pdb

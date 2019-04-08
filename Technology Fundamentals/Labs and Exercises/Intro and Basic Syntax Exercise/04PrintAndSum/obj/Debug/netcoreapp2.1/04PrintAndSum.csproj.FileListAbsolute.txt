@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\bin\Debug\netcoreapp2.1\04PrintAndSum.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\bin\Debug\netcoreapp2.1\04PrintAndSum.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\bin\Debug\netcoreapp2.1\04PrintAndSum.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\bin\Debug\netcoreapp2.1\04PrintAndSum.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\bin\Debug\netcoreapp2.1\04PrintAndSum.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\obj\Debug\netcoreapp2.1\04PrintAndSum.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\obj\Debug\netcoreapp2.1\04PrintAndSum.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\obj\Debug\netcoreapp2.1\04PrintAndSum.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\obj\Debug\netcoreapp2.1\04PrintAndSum.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\04PrintAndSum\obj\Debug\netcoreapp2.1\04PrintAndSum.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\obj\Debug\netcoreapp2.1\08TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\obj\Debug\netcoreapp2.1\08TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\obj\Debug\netcoreapp2.1\08TriangleOfNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\bin\Debug\netcoreapp2.1\08TriangleOfNumbers.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\bin\Debug\netcoreapp2.1\08TriangleOfNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\bin\Debug\netcoreapp2.1\08TriangleOfNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\bin\Debug\netcoreapp2.1\08TriangleOfNumbers.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\bin\Debug\netcoreapp2.1\08TriangleOfNumbers.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\obj\Debug\netcoreapp2.1\08TriangleOfNumbers.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\08TriangleOfNumbers\obj\Debug\netcoreapp2.1\08TriangleOfNumbers.pdb

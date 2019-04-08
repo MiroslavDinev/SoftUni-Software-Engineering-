@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\bin\Debug\netcoreapp2.1\10RageExpenses.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\bin\Debug\netcoreapp2.1\10RageExpenses.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\bin\Debug\netcoreapp2.1\10RageExpenses.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\bin\Debug\netcoreapp2.1\10RageExpenses.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\bin\Debug\netcoreapp2.1\10RageExpenses.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\obj\Debug\netcoreapp2.1\10RageExpenses.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\obj\Debug\netcoreapp2.1\10RageExpenses.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\obj\Debug\netcoreapp2.1\10RageExpenses.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\obj\Debug\netcoreapp2.1\10RageExpenses.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\10RageExpenses\obj\Debug\netcoreapp2.1\10RageExpenses.pdb

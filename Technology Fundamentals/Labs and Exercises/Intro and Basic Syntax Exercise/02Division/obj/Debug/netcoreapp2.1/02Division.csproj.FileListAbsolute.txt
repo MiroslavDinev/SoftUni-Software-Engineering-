@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\bin\Debug\netcoreapp2.1\02Division.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\bin\Debug\netcoreapp2.1\02Division.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\bin\Debug\netcoreapp2.1\02Division.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\bin\Debug\netcoreapp2.1\02Division.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\bin\Debug\netcoreapp2.1\02Division.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\obj\Debug\netcoreapp2.1\02Division.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\obj\Debug\netcoreapp2.1\02Division.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\obj\Debug\netcoreapp2.1\02Division.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\obj\Debug\netcoreapp2.1\02Division.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\obj\Debug\netcoreapp2.1\02Division.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\02Division\obj\Debug\netcoreapp2.1\02Division.pdb

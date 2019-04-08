@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\bin\Debug\netcoreapp2.1\01Ages.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\bin\Debug\netcoreapp2.1\01Ages.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\bin\Debug\netcoreapp2.1\01Ages.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\bin\Debug\netcoreapp2.1\01Ages.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\bin\Debug\netcoreapp2.1\01Ages.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\obj\Debug\netcoreapp2.1\01Ages.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\obj\Debug\netcoreapp2.1\01Ages.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\obj\Debug\netcoreapp2.1\01Ages.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\obj\Debug\netcoreapp2.1\01Ages.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\obj\Debug\netcoreapp2.1\01Ages.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxExercise\01Ages\obj\Debug\netcoreapp2.1\01Ages.pdb
