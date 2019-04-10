@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\bin\Debug\netcoreapp2.1\01DataTypeFinder.deps.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\bin\Debug\netcoreapp2.1\01DataTypeFinder.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\bin\Debug\netcoreapp2.1\01DataTypeFinder.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\bin\Debug\netcoreapp2.1\01DataTypeFinder.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\bin\Debug\netcoreapp2.1\01DataTypeFinder.pdb
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\obj\Debug\netcoreapp2.1\01DataTypeFinder.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\obj\Debug\netcoreapp2.1\01DataTypeFinder.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\obj\Debug\netcoreapp2.1\01DataTypeFinder.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\obj\Debug\netcoreapp2.1\01DataTypeFinder.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\obj\Debug\netcoreapp2.1\01DataTypeFinder.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\01DataTypeFinder\obj\Debug\netcoreapp2.1\01DataTypeFinder.pdb

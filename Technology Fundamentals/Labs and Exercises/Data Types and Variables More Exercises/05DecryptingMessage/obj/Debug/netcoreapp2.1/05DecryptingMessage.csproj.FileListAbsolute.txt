@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\bin\Debug\netcoreapp2.1\05DecryptingMessage.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\bin\Debug\netcoreapp2.1\05DecryptingMessage.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\bin\Debug\netcoreapp2.1\05DecryptingMessage.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\bin\Debug\netcoreapp2.1\05DecryptingMessage.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\bin\Debug\netcoreapp2.1\05DecryptingMessage.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\obj\Debug\netcoreapp2.1\05DecryptingMessage.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\obj\Debug\netcoreapp2.1\05DecryptingMessage.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\obj\Debug\netcoreapp2.1\05DecryptingMessage.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\obj\Debug\netcoreapp2.1\05DecryptingMessage.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\05DecryptingMessage\obj\Debug\netcoreapp2.1\05DecryptingMessage.pdb

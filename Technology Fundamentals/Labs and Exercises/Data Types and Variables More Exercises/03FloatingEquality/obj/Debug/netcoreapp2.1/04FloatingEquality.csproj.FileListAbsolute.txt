@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\bin\Debug\netcoreapp2.1\04FloatingEquality.deps.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\bin\Debug\netcoreapp2.1\04FloatingEquality.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\bin\Debug\netcoreapp2.1\04FloatingEquality.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\bin\Debug\netcoreapp2.1\04FloatingEquality.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\bin\Debug\netcoreapp2.1\04FloatingEquality.pdb
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\obj\Debug\netcoreapp2.1\04FloatingEquality.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\obj\Debug\netcoreapp2.1\04FloatingEquality.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\obj\Debug\netcoreapp2.1\04FloatingEquality.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\obj\Debug\netcoreapp2.1\04FloatingEquality.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\04FloatingEquality\obj\Debug\netcoreapp2.1\04FloatingEquality.pdb

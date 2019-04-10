@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\bin\Debug\netcoreapp2.1\06BalancedBrackets.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\bin\Debug\netcoreapp2.1\06BalancedBrackets.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\bin\Debug\netcoreapp2.1\06BalancedBrackets.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\bin\Debug\netcoreapp2.1\06BalancedBrackets.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\bin\Debug\netcoreapp2.1\06BalancedBrackets.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\obj\Debug\netcoreapp2.1\06BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\obj\Debug\netcoreapp2.1\06BalancedBrackets.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\obj\Debug\netcoreapp2.1\06BalancedBrackets.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\obj\Debug\netcoreapp2.1\06BalancedBrackets.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06BalancedBrackets\obj\Debug\netcoreapp2.1\06BalancedBrackets.pdb

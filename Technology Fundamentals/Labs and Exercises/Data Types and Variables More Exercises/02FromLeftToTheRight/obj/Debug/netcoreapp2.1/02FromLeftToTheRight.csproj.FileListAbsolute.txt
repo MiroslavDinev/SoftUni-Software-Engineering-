@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\bin\Debug\netcoreapp2.1\02FromLeftToTheRight.deps.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\bin\Debug\netcoreapp2.1\02FromLeftToTheRight.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\bin\Debug\netcoreapp2.1\02FromLeftToTheRight.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\bin\Debug\netcoreapp2.1\02FromLeftToTheRight.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\bin\Debug\netcoreapp2.1\02FromLeftToTheRight.pdb
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\obj\Debug\netcoreapp2.1\02FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\obj\Debug\netcoreapp2.1\02FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\obj\Debug\netcoreapp2.1\02FromLeftToTheRight.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\obj\Debug\netcoreapp2.1\02FromLeftToTheRight.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\02FromLeftToTheRight\obj\Debug\netcoreapp2.1\02FromLeftToTheRight.pdb

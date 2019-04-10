@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.deps.json
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersInReverseOrder.pdb

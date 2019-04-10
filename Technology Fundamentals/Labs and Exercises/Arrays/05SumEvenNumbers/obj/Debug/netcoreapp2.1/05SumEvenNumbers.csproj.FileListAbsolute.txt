@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\bin\Debug\netcoreapp2.1\05SumEvenNumbers.deps.json
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\bin\Debug\netcoreapp2.1\05SumEvenNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\bin\Debug\netcoreapp2.1\05SumEvenNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\bin\Debug\netcoreapp2.1\05SumEvenNumbers.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\bin\Debug\netcoreapp2.1\05SumEvenNumbers.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\obj\Debug\netcoreapp2.1\05SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\obj\Debug\netcoreapp2.1\05SumEvenNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\obj\Debug\netcoreapp2.1\05SumEvenNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\obj\Debug\netcoreapp2.1\05SumEvenNumbers.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\05SumEvenNumbers\obj\Debug\netcoreapp2.1\05SumEvenNumbers.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\bin\Debug\netcoreapp2.1\05RefactoringPrimeChecker.deps.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\bin\Debug\netcoreapp2.1\05RefactoringPrimeChecker.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\bin\Debug\netcoreapp2.1\05RefactoringPrimeChecker.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\bin\Debug\netcoreapp2.1\05RefactoringPrimeChecker.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\bin\Debug\netcoreapp2.1\05RefactoringPrimeChecker.pdb
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\obj\Debug\netcoreapp2.1\05RefactoringPrimeChecker.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\obj\Debug\netcoreapp2.1\05RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\obj\Debug\netcoreapp2.1\05RefactoringPrimeChecker.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\obj\Debug\netcoreapp2.1\05RefactoringPrimeChecker.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\obj\Debug\netcoreapp2.1\05RefactoringPrimeChecker.dll
+D:\Users\DINEV\source\repos\DataTypeAndVariablesMoreExercise\05RefactoringPrimeChecker\obj\Debug\netcoreapp2.1\05RefactoringPrimeChecker.pdb

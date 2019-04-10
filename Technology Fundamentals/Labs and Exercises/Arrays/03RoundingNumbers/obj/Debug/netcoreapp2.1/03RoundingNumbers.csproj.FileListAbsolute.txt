@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\bin\Debug\netcoreapp2.1\03RoundingNumbers.deps.json
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\bin\Debug\netcoreapp2.1\03RoundingNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\bin\Debug\netcoreapp2.1\03RoundingNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\bin\Debug\netcoreapp2.1\03RoundingNumbers.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\bin\Debug\netcoreapp2.1\03RoundingNumbers.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\obj\Debug\netcoreapp2.1\03RoundingNumbers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\obj\Debug\netcoreapp2.1\03RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\obj\Debug\netcoreapp2.1\03RoundingNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\obj\Debug\netcoreapp2.1\03RoundingNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\obj\Debug\netcoreapp2.1\03RoundingNumbers.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\03RoundingNumbers\obj\Debug\netcoreapp2.1\03RoundingNumbers.pdb

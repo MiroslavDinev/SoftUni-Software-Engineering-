@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\bin\Debug\netcoreapp2.1\08CondenseArrayToNumber.deps.json
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\bin\Debug\netcoreapp2.1\08CondenseArrayToNumber.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\bin\Debug\netcoreapp2.1\08CondenseArrayToNumber.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\bin\Debug\netcoreapp2.1\08CondenseArrayToNumber.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\bin\Debug\netcoreapp2.1\08CondenseArrayToNumber.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\obj\Debug\netcoreapp2.1\08CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\obj\Debug\netcoreapp2.1\08CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\obj\Debug\netcoreapp2.1\08CondenseArrayToNumber.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\obj\Debug\netcoreapp2.1\08CondenseArrayToNumber.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\obj\Debug\netcoreapp2.1\08CondenseArrayToNumber.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\08CondenseArrayToNumber\obj\Debug\netcoreapp2.1\08CondenseArrayToNumber.csprojAssemblyReference.cache

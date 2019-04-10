@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.deps.json
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\06.EvenAndOddSubtraction.pdb

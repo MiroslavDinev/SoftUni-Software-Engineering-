@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.deps.json
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\04ReverseArrayOfStrings.deps.json
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\04ReverseArrayOfStrings.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\04ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\04ReverseArrayOfStrings.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\04ReverseArrayOfStrings.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\04ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\04ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\04ReverseArrayOfStrings.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\04ReverseArrayOfStrings.dll
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\04ReverseArrayOfStrings.pdb
+D:\Users\DINEV\source\repos\Arrays-Lab\04ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\04ReverseArrayOfStrings.csprojAssemblyReference.cache
