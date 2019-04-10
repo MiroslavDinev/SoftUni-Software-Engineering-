@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\bin\Debug\netcoreapp2.1\06EqualSum.deps.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\bin\Debug\netcoreapp2.1\06EqualSum.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\bin\Debug\netcoreapp2.1\06EqualSum.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\bin\Debug\netcoreapp2.1\06EqualSum.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\bin\Debug\netcoreapp2.1\06EqualSum.pdb
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\obj\Debug\netcoreapp2.1\06EqualSum.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\obj\Debug\netcoreapp2.1\06EqualSum.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\obj\Debug\netcoreapp2.1\06EqualSum.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\obj\Debug\netcoreapp2.1\06EqualSum.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\obj\Debug\netcoreapp2.1\06EqualSum.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\06EqualSum\obj\Debug\netcoreapp2.1\06EqualSum.pdb

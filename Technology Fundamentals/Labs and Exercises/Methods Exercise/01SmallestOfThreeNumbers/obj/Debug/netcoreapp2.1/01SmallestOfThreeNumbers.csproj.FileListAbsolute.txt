@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.deps.json
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.dll
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.pdb
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.dll
+D:\Users\DINEV\source\repos\MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\netcoreapp2.1\01SmallestOfThreeNumbers.pdb

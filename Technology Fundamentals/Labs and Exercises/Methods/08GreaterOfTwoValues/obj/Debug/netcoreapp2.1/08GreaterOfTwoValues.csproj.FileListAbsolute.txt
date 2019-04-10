@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.1\08GreaterOfTwoValues.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.1\08GreaterOfTwoValues.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.1\08GreaterOfTwoValues.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.1\08GreaterOfTwoValues.dll
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\bin\Debug\netcoreapp2.1\08GreaterOfTwoValues.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.1\08GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.1\08GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.1\08GreaterOfTwoValues.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.1\08GreaterOfTwoValues.dll
+D:\Users\DINEV\source\repos\Methods-Lab\08GreaterOfTwoValues\obj\Debug\netcoreapp2.1\08GreaterOfTwoValues.pdb

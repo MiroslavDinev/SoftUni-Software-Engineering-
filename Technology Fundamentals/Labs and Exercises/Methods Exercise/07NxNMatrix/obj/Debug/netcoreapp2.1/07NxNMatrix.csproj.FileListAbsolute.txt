@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\bin\Debug\netcoreapp2.1\07NxNMatrix.deps.json
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\bin\Debug\netcoreapp2.1\07NxNMatrix.runtimeconfig.json
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\bin\Debug\netcoreapp2.1\07NxNMatrix.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\bin\Debug\netcoreapp2.1\07NxNMatrix.dll
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\bin\Debug\netcoreapp2.1\07NxNMatrix.pdb
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\obj\Debug\netcoreapp2.1\07NxNMatrix.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\obj\Debug\netcoreapp2.1\07NxNMatrix.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\obj\Debug\netcoreapp2.1\07NxNMatrix.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\obj\Debug\netcoreapp2.1\07NxNMatrix.dll
+D:\Users\DINEV\source\repos\MethodsExercise\07NxNMatrix\obj\Debug\netcoreapp2.1\07NxNMatrix.pdb

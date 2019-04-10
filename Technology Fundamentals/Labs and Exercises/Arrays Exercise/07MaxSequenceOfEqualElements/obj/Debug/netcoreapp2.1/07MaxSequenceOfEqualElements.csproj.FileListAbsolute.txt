@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.deps.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.pdb
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\07MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.1\07MaxSequenceOfEqualElements.pdb

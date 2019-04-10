@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\01SignOfIntegerNumbers.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\01SignOfIntegerNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\01SignOfIntegerNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\01SignOfIntegerNumbers.dll
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\01SignOfIntegerNumbers.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\01SignOfIntegerNumbers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\01SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\01SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\01SignOfIntegerNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\01SignOfIntegerNumbers.dll
+D:\Users\DINEV\source\repos\Methods-Lab\01SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\01SignOfIntegerNumbers.pdb

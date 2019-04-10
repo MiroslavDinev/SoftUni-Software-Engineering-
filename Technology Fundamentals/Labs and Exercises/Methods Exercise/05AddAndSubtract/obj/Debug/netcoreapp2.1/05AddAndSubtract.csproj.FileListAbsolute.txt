@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\bin\Debug\netcoreapp2.1\05AddAndSubtract.deps.json
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\bin\Debug\netcoreapp2.1\05AddAndSubtract.runtimeconfig.json
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\bin\Debug\netcoreapp2.1\05AddAndSubtract.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\bin\Debug\netcoreapp2.1\05AddAndSubtract.dll
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\bin\Debug\netcoreapp2.1\05AddAndSubtract.pdb
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\obj\Debug\netcoreapp2.1\05AddAndSubtract.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\obj\Debug\netcoreapp2.1\05AddAndSubtract.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\obj\Debug\netcoreapp2.1\05AddAndSubtract.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\obj\Debug\netcoreapp2.1\05AddAndSubtract.dll
+D:\Users\DINEV\source\repos\MethodsExercise\05AddAndSubtract\obj\Debug\netcoreapp2.1\05AddAndSubtract.pdb

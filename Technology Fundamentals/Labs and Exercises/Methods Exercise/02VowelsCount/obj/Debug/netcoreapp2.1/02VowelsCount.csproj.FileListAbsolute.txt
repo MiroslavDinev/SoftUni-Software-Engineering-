@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\bin\Debug\netcoreapp2.1\02VowelsCount.deps.json
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\bin\Debug\netcoreapp2.1\02VowelsCount.runtimeconfig.json
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\bin\Debug\netcoreapp2.1\02VowelsCount.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\bin\Debug\netcoreapp2.1\02VowelsCount.dll
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\bin\Debug\netcoreapp2.1\02VowelsCount.pdb
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\obj\Debug\netcoreapp2.1\02VowelsCount.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\obj\Debug\netcoreapp2.1\02VowelsCount.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\obj\Debug\netcoreapp2.1\02VowelsCount.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\obj\Debug\netcoreapp2.1\02VowelsCount.dll
+D:\Users\DINEV\source\repos\MethodsExercise\02VowelsCount\obj\Debug\netcoreapp2.1\02VowelsCount.pdb

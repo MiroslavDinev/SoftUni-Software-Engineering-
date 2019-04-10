@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\bin\Debug\netcoreapp2.1\07MathPower.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\bin\Debug\netcoreapp2.1\07MathPower.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\bin\Debug\netcoreapp2.1\07MathPower.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\bin\Debug\netcoreapp2.1\07MathPower.dll
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\bin\Debug\netcoreapp2.1\07MathPower.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\obj\Debug\netcoreapp2.1\07MathPower.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\obj\Debug\netcoreapp2.1\07MathPower.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\obj\Debug\netcoreapp2.1\07MathPower.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\obj\Debug\netcoreapp2.1\07MathPower.dll
+D:\Users\DINEV\source\repos\Methods-Lab\07MathPower\obj\Debug\netcoreapp2.1\07MathPower.pdb

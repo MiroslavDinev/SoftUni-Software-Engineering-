@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\bin\Debug\netcoreapp2.1\10LadyBugs.deps.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\bin\Debug\netcoreapp2.1\10LadyBugs.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\bin\Debug\netcoreapp2.1\10LadyBugs.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\bin\Debug\netcoreapp2.1\10LadyBugs.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\bin\Debug\netcoreapp2.1\10LadyBugs.pdb
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\obj\Debug\netcoreapp2.1\10LadyBugs.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\obj\Debug\netcoreapp2.1\10LadyBugs.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\obj\Debug\netcoreapp2.1\10LadyBugs.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\obj\Debug\netcoreapp2.1\10LadyBugs.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\obj\Debug\netcoreapp2.1\10LadyBugs.pdb
+D:\Users\DINEV\source\repos\Arrays-Exercise\10LadyBugs\obj\Debug\netcoreapp2.1\10LadyBugs.csprojAssemblyReference.cache

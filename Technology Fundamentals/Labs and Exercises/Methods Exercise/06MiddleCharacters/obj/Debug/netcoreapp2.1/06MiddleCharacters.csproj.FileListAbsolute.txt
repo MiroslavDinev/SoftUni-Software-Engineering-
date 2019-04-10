@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\bin\Debug\netcoreapp2.1\06MiddleCharacters.deps.json
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\bin\Debug\netcoreapp2.1\06MiddleCharacters.runtimeconfig.json
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\bin\Debug\netcoreapp2.1\06MiddleCharacters.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\bin\Debug\netcoreapp2.1\06MiddleCharacters.dll
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\bin\Debug\netcoreapp2.1\06MiddleCharacters.pdb
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\obj\Debug\netcoreapp2.1\06MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\obj\Debug\netcoreapp2.1\06MiddleCharacters.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\obj\Debug\netcoreapp2.1\06MiddleCharacters.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\obj\Debug\netcoreapp2.1\06MiddleCharacters.dll
+D:\Users\DINEV\source\repos\MethodsExercise\06MiddleCharacters\obj\Debug\netcoreapp2.1\06MiddleCharacters.pdb

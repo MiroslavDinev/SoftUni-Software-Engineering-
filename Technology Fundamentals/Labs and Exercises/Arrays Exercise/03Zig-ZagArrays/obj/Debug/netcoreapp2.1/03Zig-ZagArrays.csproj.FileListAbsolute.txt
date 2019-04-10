@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp2.1\03Zig-ZagArrays.deps.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp2.1\03Zig-ZagArrays.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp2.1\03Zig-ZagArrays.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp2.1\03Zig-ZagArrays.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp2.1\03Zig-ZagArrays.pdb
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp2.1\03Zig-ZagArrays.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp2.1\03Zig-ZagArrays.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp2.1\03Zig-ZagArrays.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp2.1\03Zig-ZagArrays.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp2.1\03Zig-ZagArrays.pdb

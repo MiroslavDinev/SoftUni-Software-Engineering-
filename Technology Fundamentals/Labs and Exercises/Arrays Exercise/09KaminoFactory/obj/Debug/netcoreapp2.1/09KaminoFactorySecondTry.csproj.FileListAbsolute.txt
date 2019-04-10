@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\bin\Debug\netcoreapp2.1\09KaminoFactorySecondTry.deps.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\bin\Debug\netcoreapp2.1\09KaminoFactorySecondTry.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\bin\Debug\netcoreapp2.1\09KaminoFactorySecondTry.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\bin\Debug\netcoreapp2.1\09KaminoFactorySecondTry.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\bin\Debug\netcoreapp2.1\09KaminoFactorySecondTry.pdb
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\obj\Debug\netcoreapp2.1\09KaminoFactorySecondTry.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\obj\Debug\netcoreapp2.1\09KaminoFactorySecondTry.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\obj\Debug\netcoreapp2.1\09KaminoFactorySecondTry.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\obj\Debug\netcoreapp2.1\09KaminoFactorySecondTry.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\obj\Debug\netcoreapp2.1\09KaminoFactorySecondTry.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\09KaminoFactorySecondTry\obj\Debug\netcoreapp2.1\09KaminoFactorySecondTry.pdb

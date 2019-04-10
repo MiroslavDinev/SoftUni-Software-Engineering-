@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\bin\Debug\netcoreapp2.1\11MathOperations.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\bin\Debug\netcoreapp2.1\11MathOperations.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\bin\Debug\netcoreapp2.1\11MathOperations.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\bin\Debug\netcoreapp2.1\11MathOperations.dll
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\bin\Debug\netcoreapp2.1\11MathOperations.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\obj\Debug\netcoreapp2.1\11MathOperations.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\obj\Debug\netcoreapp2.1\11MathOperations.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\obj\Debug\netcoreapp2.1\11MathOperations.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\obj\Debug\netcoreapp2.1\11MathOperations.dll
+D:\Users\DINEV\source\repos\Methods-Lab\11MathOperations\obj\Debug\netcoreapp2.1\11MathOperations.pdb

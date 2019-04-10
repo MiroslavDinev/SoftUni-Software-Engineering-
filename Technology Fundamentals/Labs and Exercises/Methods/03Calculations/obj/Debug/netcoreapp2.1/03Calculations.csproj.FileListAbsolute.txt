@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.dll
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\bin\Debug\netcoreapp2.1\03Calculations.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.dll
+D:\Users\DINEV\source\repos\Methods-Lab\03Calculations\obj\Debug\netcoreapp2.1\03Calculations.pdb

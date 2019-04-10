@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\bin\Debug\netcoreapp2.1\06CalculateRectangleArea.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\bin\Debug\netcoreapp2.1\06CalculateRectangleArea.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\bin\Debug\netcoreapp2.1\06CalculateRectangleArea.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\bin\Debug\netcoreapp2.1\06CalculateRectangleArea.dll
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\bin\Debug\netcoreapp2.1\06CalculateRectangleArea.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\obj\Debug\netcoreapp2.1\06CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\obj\Debug\netcoreapp2.1\06CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\obj\Debug\netcoreapp2.1\06CalculateRectangleArea.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\obj\Debug\netcoreapp2.1\06CalculateRectangleArea.dll
+D:\Users\DINEV\source\repos\Methods-Lab\06CalculateRectangleArea\obj\Debug\netcoreapp2.1\06CalculateRectangleArea.pdb

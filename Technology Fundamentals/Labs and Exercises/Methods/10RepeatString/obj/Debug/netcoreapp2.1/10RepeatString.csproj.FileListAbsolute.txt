@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\bin\Debug\netcoreapp2.1\10RepeatString.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\bin\Debug\netcoreapp2.1\10RepeatString.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\bin\Debug\netcoreapp2.1\10RepeatString.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\bin\Debug\netcoreapp2.1\10RepeatString.dll
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\bin\Debug\netcoreapp2.1\10RepeatString.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\obj\Debug\netcoreapp2.1\10RepeatString.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\obj\Debug\netcoreapp2.1\10RepeatString.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\obj\Debug\netcoreapp2.1\10RepeatString.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\obj\Debug\netcoreapp2.1\10RepeatString.dll
+D:\Users\DINEV\source\repos\Methods-Lab\10RepeatString\obj\Debug\netcoreapp2.1\10RepeatString.pdb

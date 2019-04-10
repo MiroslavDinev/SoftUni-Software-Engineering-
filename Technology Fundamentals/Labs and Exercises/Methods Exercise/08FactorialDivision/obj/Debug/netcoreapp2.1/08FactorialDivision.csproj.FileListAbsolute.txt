@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\bin\Debug\netcoreapp2.1\08FactorialDivision.deps.json
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\bin\Debug\netcoreapp2.1\08FactorialDivision.runtimeconfig.json
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\bin\Debug\netcoreapp2.1\08FactorialDivision.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\bin\Debug\netcoreapp2.1\08FactorialDivision.dll
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\bin\Debug\netcoreapp2.1\08FactorialDivision.pdb
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\obj\Debug\netcoreapp2.1\08FactorialDivision.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\obj\Debug\netcoreapp2.1\08FactorialDivision.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\obj\Debug\netcoreapp2.1\08FactorialDivision.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\obj\Debug\netcoreapp2.1\08FactorialDivision.dll
+D:\Users\DINEV\source\repos\MethodsExercise\08FactorialDivision\obj\Debug\netcoreapp2.1\08FactorialDivision.pdb

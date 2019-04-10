@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp2.1\04ArrayRotation.deps.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp2.1\04ArrayRotation.runtimeconfig.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp2.1\04ArrayRotation.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp2.1\04ArrayRotation.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp2.1\04ArrayRotation.pdb
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp2.1\04ArrayRotation.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp2.1\04ArrayRotation.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp2.1\04ArrayRotation.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp2.1\04ArrayRotation.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp2.1\04ArrayRotation.dll
+D:\Users\DINEV\source\repos\Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp2.1\04ArrayRotation.pdb

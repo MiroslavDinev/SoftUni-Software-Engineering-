@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\bin\Debug\netcoreapp2.1\11ArrayManipulator.deps.json
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\bin\Debug\netcoreapp2.1\11ArrayManipulator.runtimeconfig.json
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\bin\Debug\netcoreapp2.1\11ArrayManipulator.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\bin\Debug\netcoreapp2.1\11ArrayManipulator.dll
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\bin\Debug\netcoreapp2.1\11ArrayManipulator.pdb
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\obj\Debug\netcoreapp2.1\11ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\obj\Debug\netcoreapp2.1\11ArrayManipulator.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\obj\Debug\netcoreapp2.1\11ArrayManipulator.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\obj\Debug\netcoreapp2.1\11ArrayManipulator.dll
+D:\Users\DINEV\source\repos\MethodsExercise\11ArrayManipulator\obj\Debug\netcoreapp2.1\11ArrayManipulator.pdb

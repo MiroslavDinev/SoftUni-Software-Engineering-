@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\bin\Debug\netcoreapp2.1\05Orders.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\bin\Debug\netcoreapp2.1\05Orders.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\bin\Debug\netcoreapp2.1\05Orders.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\bin\Debug\netcoreapp2.1\05Orders.dll
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\bin\Debug\netcoreapp2.1\05Orders.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\obj\Debug\netcoreapp2.1\05Orders.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\obj\Debug\netcoreapp2.1\05Orders.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\obj\Debug\netcoreapp2.1\05Orders.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\obj\Debug\netcoreapp2.1\05Orders.dll
+D:\Users\DINEV\source\repos\Methods-Lab\05Orders\obj\Debug\netcoreapp2.1\05Orders.pdb

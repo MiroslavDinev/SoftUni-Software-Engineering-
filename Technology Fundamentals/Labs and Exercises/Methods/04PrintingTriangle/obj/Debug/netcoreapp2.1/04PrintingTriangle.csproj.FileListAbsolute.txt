@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\bin\Debug\netcoreapp2.1\04PrintingTriangle.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\bin\Debug\netcoreapp2.1\04PrintingTriangle.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\bin\Debug\netcoreapp2.1\04PrintingTriangle.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\bin\Debug\netcoreapp2.1\04PrintingTriangle.dll
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\bin\Debug\netcoreapp2.1\04PrintingTriangle.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\obj\Debug\netcoreapp2.1\04PrintingTriangle.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\obj\Debug\netcoreapp2.1\04PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\obj\Debug\netcoreapp2.1\04PrintingTriangle.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\obj\Debug\netcoreapp2.1\04PrintingTriangle.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\obj\Debug\netcoreapp2.1\04PrintingTriangle.dll
+D:\Users\DINEV\source\repos\Methods-Lab\04PrintingTriangle\obj\Debug\netcoreapp2.1\04PrintingTriangle.pdb

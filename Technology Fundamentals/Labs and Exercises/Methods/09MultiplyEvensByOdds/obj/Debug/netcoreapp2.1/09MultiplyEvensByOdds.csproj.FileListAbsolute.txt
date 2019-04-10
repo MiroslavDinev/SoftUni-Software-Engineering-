@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.1\09MultiplyEvensByOdds.deps.json
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.1\09MultiplyEvensByOdds.runtimeconfig.json
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.1\09MultiplyEvensByOdds.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.1\09MultiplyEvensByOdds.dll
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\bin\Debug\netcoreapp2.1\09MultiplyEvensByOdds.pdb
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.1\09MultiplyEvensByOdds.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.1\09MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.1\09MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.1\09MultiplyEvensByOdds.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.1\09MultiplyEvensByOdds.dll
+D:\Users\DINEV\source\repos\Methods-Lab\09MultiplyEvensByOdds\obj\Debug\netcoreapp2.1\09MultiplyEvensByOdds.pdb
