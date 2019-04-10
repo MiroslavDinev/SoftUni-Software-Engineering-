@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\bin\Debug\netcoreapp2.1\05Messages.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\bin\Debug\netcoreapp2.1\05Messages.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\bin\Debug\netcoreapp2.1\05Messages.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\bin\Debug\netcoreapp2.1\05Messages.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\bin\Debug\netcoreapp2.1\05Messages.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\obj\Debug\netcoreapp2.1\05Messages.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\obj\Debug\netcoreapp2.1\05Messages.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\obj\Debug\netcoreapp2.1\05Messages.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\obj\Debug\netcoreapp2.1\05Messages.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\05Messages\obj\Debug\netcoreapp2.1\05Messages.pdb

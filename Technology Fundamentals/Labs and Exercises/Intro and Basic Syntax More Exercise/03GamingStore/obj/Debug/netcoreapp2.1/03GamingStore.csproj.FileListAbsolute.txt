@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\bin\Debug\netcoreapp2.1\03GamingStore.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\bin\Debug\netcoreapp2.1\03GamingStore.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\bin\Debug\netcoreapp2.1\03GamingStore.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\bin\Debug\netcoreapp2.1\03GamingStore.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\bin\Debug\netcoreapp2.1\03GamingStore.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\obj\Debug\netcoreapp2.1\03GamingStore.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\obj\Debug\netcoreapp2.1\03GamingStore.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\obj\Debug\netcoreapp2.1\03GamingStore.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\obj\Debug\netcoreapp2.1\03GamingStore.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\03GamingStore\obj\Debug\netcoreapp2.1\03GamingStore.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.1\03ExactSumOfRealNumbers.pdb

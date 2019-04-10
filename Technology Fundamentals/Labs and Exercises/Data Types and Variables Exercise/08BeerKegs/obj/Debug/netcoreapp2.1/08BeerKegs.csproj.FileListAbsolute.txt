@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\bin\Debug\netcoreapp2.1\08BeerKegs.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\bin\Debug\netcoreapp2.1\08BeerKegs.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\bin\Debug\netcoreapp2.1\08BeerKegs.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\bin\Debug\netcoreapp2.1\08BeerKegs.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\bin\Debug\netcoreapp2.1\08BeerKegs.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\obj\Debug\netcoreapp2.1\08BeerKegs.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\obj\Debug\netcoreapp2.1\08BeerKegs.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\obj\Debug\netcoreapp2.1\08BeerKegs.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\obj\Debug\netcoreapp2.1\08BeerKegs.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\08BeerKegs\obj\Debug\netcoreapp2.1\08BeerKegs.pdb

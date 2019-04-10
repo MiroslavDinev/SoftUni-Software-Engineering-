@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp2.1\10LowerOrUpper.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp2.1\10LowerOrUpper.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp2.1\10LowerOrUpper.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp2.1\10LowerOrUpper.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp2.1\10LowerOrUpper.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp2.1\10LowerOrUpper.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp2.1\10LowerOrUpper.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp2.1\10LowerOrUpper.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp2.1\10LowerOrUpper.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp2.1\10LowerOrUpper.pdb

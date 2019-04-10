@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\bin\Debug\netcoreapp2.1\04SumOfChars.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\bin\Debug\netcoreapp2.1\04SumOfChars.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\bin\Debug\netcoreapp2.1\04SumOfChars.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\bin\Debug\netcoreapp2.1\04SumOfChars.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\bin\Debug\netcoreapp2.1\04SumOfChars.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\obj\Debug\netcoreapp2.1\04SumOfChars.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\obj\Debug\netcoreapp2.1\04SumOfChars.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\obj\Debug\netcoreapp2.1\04SumOfChars.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\obj\Debug\netcoreapp2.1\04SumOfChars.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\04SumOfChars\obj\Debug\netcoreapp2.1\04SumOfChars.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\bin\Debug\netcoreapp2.1\09SpiceMustFlow.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\bin\Debug\netcoreapp2.1\09SpiceMustFlow.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\bin\Debug\netcoreapp2.1\09SpiceMustFlow.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\bin\Debug\netcoreapp2.1\09SpiceMustFlow.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\bin\Debug\netcoreapp2.1\09SpiceMustFlow.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\obj\Debug\netcoreapp2.1\09SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\obj\Debug\netcoreapp2.1\09SpiceMustFlow.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\obj\Debug\netcoreapp2.1\09SpiceMustFlow.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\obj\Debug\netcoreapp2.1\09SpiceMustFlow.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\09SpiceMustFlow\obj\Debug\netcoreapp2.1\09SpiceMustFlow.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06TriplesOfLatinLetters.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06TriplesOfLatinLetters.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06TriplesOfLatinLetters.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06TriplesOfLatinLetters.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\bin\Debug\netcoreapp2.1\06TriplesOfLatinLetters.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06TriplesOfLatinLetters.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06TriplesOfLatinLetters.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\06TriplesOfLatinLetters\obj\Debug\netcoreapp2.1\06TriplesOfLatinLetters.pdb

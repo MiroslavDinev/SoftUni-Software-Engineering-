@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\bin\Debug\netcoreapp2.1\11Snowballs.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\bin\Debug\netcoreapp2.1\11Snowballs.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\bin\Debug\netcoreapp2.1\11Snowballs.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\bin\Debug\netcoreapp2.1\11Snowballs.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\bin\Debug\netcoreapp2.1\11Snowballs.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\obj\Debug\netcoreapp2.1\11Snowballs.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\obj\Debug\netcoreapp2.1\11Snowballs.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\obj\Debug\netcoreapp2.1\11Snowballs.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\obj\Debug\netcoreapp2.1\11Snowballs.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\11Snowballs\obj\Debug\netcoreapp2.1\11Snowballs.pdb

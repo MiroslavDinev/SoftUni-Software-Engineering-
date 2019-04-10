@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12RefactorSpecialNumbers.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12RefactorSpecialNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12RefactorSpecialNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12RefactorSpecialNumbers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\12RefactorSpecialNumbers.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12RefactorSpecialNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12RefactorSpecialNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12RefactorSpecialNumbers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\12RefactorSpecialNumbers.pdb

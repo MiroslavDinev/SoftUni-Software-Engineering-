@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\01ConvertMetersToKilometers.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\01ConvertMetersToKilometers.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\01ConvertMetersToKilometers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\01ConvertMetersToKilometers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\01ConvertMetersToKilometers.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\01ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\01ConvertMetersToKilometers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\01ConvertMetersToKilometers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\01ConvertMetersToKilometers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\01ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\01ConvertMetersToKilometers.pdb

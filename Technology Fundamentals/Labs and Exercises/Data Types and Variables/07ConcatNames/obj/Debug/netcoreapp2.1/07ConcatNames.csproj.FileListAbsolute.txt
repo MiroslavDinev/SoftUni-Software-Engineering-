@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\bin\Debug\netcoreapp2.1\07ConcatNames.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\bin\Debug\netcoreapp2.1\07ConcatNames.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\bin\Debug\netcoreapp2.1\07ConcatNames.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\bin\Debug\netcoreapp2.1\07ConcatNames.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\bin\Debug\netcoreapp2.1\07ConcatNames.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\obj\Debug\netcoreapp2.1\07ConcatNames.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\obj\Debug\netcoreapp2.1\07ConcatNames.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\obj\Debug\netcoreapp2.1\07ConcatNames.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\obj\Debug\netcoreapp2.1\07ConcatNames.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\07ConcatNames\obj\Debug\netcoreapp2.1\07ConcatNames.pdb

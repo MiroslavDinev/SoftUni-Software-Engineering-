@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\bin\Debug\netcoreapp2.1\03Elevator.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\bin\Debug\netcoreapp2.1\03Elevator.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\bin\Debug\netcoreapp2.1\03Elevator.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\bin\Debug\netcoreapp2.1\03Elevator.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\bin\Debug\netcoreapp2.1\03Elevator.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\obj\Debug\netcoreapp2.1\03Elevator.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\obj\Debug\netcoreapp2.1\03Elevator.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\obj\Debug\netcoreapp2.1\03Elevator.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\obj\Debug\netcoreapp2.1\03Elevator.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\03Elevator\obj\Debug\netcoreapp2.1\03Elevator.pdb

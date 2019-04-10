@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp2.1\02PoundsToDollars.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp2.1\02PoundsToDollars.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp2.1\02PoundsToDollars.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp2.1\02PoundsToDollars.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp2.1\02PoundsToDollars.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp2.1\02PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp2.1\02PoundsToDollars.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp2.1\02PoundsToDollars.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp2.1\02PoundsToDollars.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp2.1\02PoundsToDollars.pdb

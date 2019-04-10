@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\bin\Debug\netcoreapp2.1\01IntegerOperations.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\bin\Debug\netcoreapp2.1\01IntegerOperations.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\bin\Debug\netcoreapp2.1\01IntegerOperations.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\bin\Debug\netcoreapp2.1\01IntegerOperations.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\bin\Debug\netcoreapp2.1\01IntegerOperations.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\obj\Debug\netcoreapp2.1\01IntegerOperations.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\obj\Debug\netcoreapp2.1\01IntegerOperations.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\obj\Debug\netcoreapp2.1\01IntegerOperations.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\obj\Debug\netcoreapp2.1\01IntegerOperations.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\01IntegerOperations\obj\Debug\netcoreapp2.1\01IntegerOperations.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp2.1\05SpecialNumbers.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp2.1\05SpecialNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp2.1\05SpecialNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp2.1\05SpecialNumbers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp2.1\05SpecialNumbers.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp2.1\05SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp2.1\05SpecialNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp2.1\05SpecialNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp2.1\05SpecialNumbers.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp2.1\05SpecialNumbers.pdb

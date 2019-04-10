@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\bin\Debug\netcoreapp2.1\07WaterOverflow.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\bin\Debug\netcoreapp2.1\07WaterOverflow.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\bin\Debug\netcoreapp2.1\07WaterOverflow.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\bin\Debug\netcoreapp2.1\07WaterOverflow.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\bin\Debug\netcoreapp2.1\07WaterOverflow.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\obj\Debug\netcoreapp2.1\07WaterOverflow.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\obj\Debug\netcoreapp2.1\07WaterOverflow.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\obj\Debug\netcoreapp2.1\07WaterOverflow.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\obj\Debug\netcoreapp2.1\07WaterOverflow.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\07WaterOverflow\obj\Debug\netcoreapp2.1\07WaterOverflow.pdb

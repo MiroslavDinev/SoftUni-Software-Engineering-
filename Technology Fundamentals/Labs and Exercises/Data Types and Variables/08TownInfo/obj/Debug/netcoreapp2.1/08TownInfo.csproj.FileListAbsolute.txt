@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\bin\Debug\netcoreapp2.1\08TownInfo.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\bin\Debug\netcoreapp2.1\08TownInfo.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\bin\Debug\netcoreapp2.1\08TownInfo.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\bin\Debug\netcoreapp2.1\08TownInfo.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\bin\Debug\netcoreapp2.1\08TownInfo.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\obj\Debug\netcoreapp2.1\08TownInfo.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\obj\Debug\netcoreapp2.1\08TownInfo.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\obj\Debug\netcoreapp2.1\08TownInfo.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\obj\Debug\netcoreapp2.1\08TownInfo.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\08TownInfo\obj\Debug\netcoreapp2.1\08TownInfo.pdb

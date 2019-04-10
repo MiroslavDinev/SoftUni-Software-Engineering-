@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.1\11RefactorVolumeOfPyramid.pdb

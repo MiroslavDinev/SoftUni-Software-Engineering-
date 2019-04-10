@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\bin\Debug\netcoreapp2.1\09CharsToString.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\bin\Debug\netcoreapp2.1\09CharsToString.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\bin\Debug\netcoreapp2.1\09CharsToString.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\bin\Debug\netcoreapp2.1\09CharsToString.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\bin\Debug\netcoreapp2.1\09CharsToString.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\obj\Debug\netcoreapp2.1\09CharsToString.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\obj\Debug\netcoreapp2.1\09CharsToString.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\obj\Debug\netcoreapp2.1\09CharsToString.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\obj\Debug\netcoreapp2.1\09CharsToString.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\09CharsToString\obj\Debug\netcoreapp2.1\09CharsToString.pdb

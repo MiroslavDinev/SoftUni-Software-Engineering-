@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\bin\Debug\netcoreapp2.1\10PokeMon.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\bin\Debug\netcoreapp2.1\10PokeMon.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\bin\Debug\netcoreapp2.1\10PokeMon.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\bin\Debug\netcoreapp2.1\10PokeMon.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\bin\Debug\netcoreapp2.1\10PokeMon.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\obj\Debug\netcoreapp2.1\10PokeMon.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\obj\Debug\netcoreapp2.1\10PokeMon.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\obj\Debug\netcoreapp2.1\10PokeMon.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\obj\Debug\netcoreapp2.1\10PokeMon.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\10PokeMon\obj\Debug\netcoreapp2.1\10PokeMon.pdb

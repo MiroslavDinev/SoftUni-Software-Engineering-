@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\bin\Debug\netcoreapp2.1\02SumDigits.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\bin\Debug\netcoreapp2.1\02SumDigits.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\bin\Debug\netcoreapp2.1\02SumDigits.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\bin\Debug\netcoreapp2.1\02SumDigits.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\bin\Debug\netcoreapp2.1\02SumDigits.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\obj\Debug\netcoreapp2.1\02SumDigits.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\obj\Debug\netcoreapp2.1\02SumDigits.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\obj\Debug\netcoreapp2.1\02SumDigits.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\obj\Debug\netcoreapp2.1\02SumDigits.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariablesExercise\02SumDigits\obj\Debug\netcoreapp2.1\02SumDigits.pdb

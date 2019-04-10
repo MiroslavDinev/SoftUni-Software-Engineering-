@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\bin\Debug\netcoreapp2.1\04CenturiesToMinutes.deps.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\bin\Debug\netcoreapp2.1\04CenturiesToMinutes.runtimeconfig.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\bin\Debug\netcoreapp2.1\04CenturiesToMinutes.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\bin\Debug\netcoreapp2.1\04CenturiesToMinutes.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\bin\Debug\netcoreapp2.1\04CenturiesToMinutes.pdb
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\obj\Debug\netcoreapp2.1\04CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\obj\Debug\netcoreapp2.1\04CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\obj\Debug\netcoreapp2.1\04CenturiesToMinutes.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\obj\Debug\netcoreapp2.1\04CenturiesToMinutes.dll
+D:\Users\DINEV\source\repos\DataTypesAndVariables\04CenturiesToMinutes\obj\Debug\netcoreapp2.1\04CenturiesToMinutes.pdb

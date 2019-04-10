@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\bin\Debug\netcoreapp2.1\04ReverseString.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\bin\Debug\netcoreapp2.1\04ReverseString.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\bin\Debug\netcoreapp2.1\04ReverseString.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\bin\Debug\netcoreapp2.1\04ReverseString.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\bin\Debug\netcoreapp2.1\04ReverseString.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\obj\Debug\netcoreapp2.1\04ReverseString.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\obj\Debug\netcoreapp2.1\04ReverseString.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\obj\Debug\netcoreapp2.1\04ReverseString.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\obj\Debug\netcoreapp2.1\04ReverseString.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\04ReverseString\obj\Debug\netcoreapp2.1\04ReverseString.pdb

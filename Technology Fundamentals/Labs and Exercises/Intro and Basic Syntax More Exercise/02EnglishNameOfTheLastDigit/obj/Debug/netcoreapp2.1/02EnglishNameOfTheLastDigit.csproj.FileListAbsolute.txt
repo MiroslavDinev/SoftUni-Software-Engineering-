@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\02EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.1\02EnglishNameOfTheLastDigit.pdb

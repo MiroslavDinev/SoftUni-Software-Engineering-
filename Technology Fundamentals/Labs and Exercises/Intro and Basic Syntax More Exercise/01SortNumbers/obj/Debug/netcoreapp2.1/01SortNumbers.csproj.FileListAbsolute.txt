@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\bin\Debug\netcoreapp2.1\01SortNumbers.deps.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\bin\Debug\netcoreapp2.1\01SortNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\bin\Debug\netcoreapp2.1\01SortNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\bin\Debug\netcoreapp2.1\01SortNumbers.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\bin\Debug\netcoreapp2.1\01SortNumbers.pdb
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\obj\Debug\netcoreapp2.1\01SortNumbers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\obj\Debug\netcoreapp2.1\01SortNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\obj\Debug\netcoreapp2.1\01SortNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\obj\Debug\netcoreapp2.1\01SortNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\obj\Debug\netcoreapp2.1\01SortNumbers.dll
+D:\Users\DINEV\source\repos\IntroAndBasicSyntaxMoreExercise\01SortNumbers\obj\Debug\netcoreapp2.1\01SortNumbers.pdb
