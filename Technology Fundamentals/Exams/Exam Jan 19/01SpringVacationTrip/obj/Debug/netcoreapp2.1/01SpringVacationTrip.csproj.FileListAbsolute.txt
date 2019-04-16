@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\bin\Debug\netcoreapp2.1\01SpringVacationTrip.deps.json
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\bin\Debug\netcoreapp2.1\01SpringVacationTrip.runtimeconfig.json
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\bin\Debug\netcoreapp2.1\01SpringVacationTrip.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\bin\Debug\netcoreapp2.1\01SpringVacationTrip.dll
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\bin\Debug\netcoreapp2.1\01SpringVacationTrip.pdb
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\obj\Debug\netcoreapp2.1\01SpringVacationTrip.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\obj\Debug\netcoreapp2.1\01SpringVacationTrip.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\obj\Debug\netcoreapp2.1\01SpringVacationTrip.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\obj\Debug\netcoreapp2.1\01SpringVacationTrip.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\obj\Debug\netcoreapp2.1\01SpringVacationTrip.dll
+D:\Users\DINEV\source\repos\MidExam\01SpringVacationTrip\obj\Debug\netcoreapp2.1\01SpringVacationTrip.pdb

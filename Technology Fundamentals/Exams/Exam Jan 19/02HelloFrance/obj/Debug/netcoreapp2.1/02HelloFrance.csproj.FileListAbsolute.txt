@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\bin\Debug\netcoreapp2.1\02HelloFrance.deps.json
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\bin\Debug\netcoreapp2.1\02HelloFrance.runtimeconfig.json
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\bin\Debug\netcoreapp2.1\02HelloFrance.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\bin\Debug\netcoreapp2.1\02HelloFrance.dll
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\bin\Debug\netcoreapp2.1\02HelloFrance.pdb
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\obj\Debug\netcoreapp2.1\02HelloFrance.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\obj\Debug\netcoreapp2.1\02HelloFrance.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\obj\Debug\netcoreapp2.1\02HelloFrance.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\obj\Debug\netcoreapp2.1\02HelloFrance.dll
+D:\Users\DINEV\source\repos\MidExam\02HelloFrance\obj\Debug\netcoreapp2.1\02HelloFrance.pdb

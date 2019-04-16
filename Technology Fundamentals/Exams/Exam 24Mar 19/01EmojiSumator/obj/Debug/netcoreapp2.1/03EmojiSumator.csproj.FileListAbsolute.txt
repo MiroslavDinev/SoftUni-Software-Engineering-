@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\bin\Debug\netcoreapp2.1\03EmojiSumator.deps.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\bin\Debug\netcoreapp2.1\03EmojiSumator.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\bin\Debug\netcoreapp2.1\03EmojiSumator.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\bin\Debug\netcoreapp2.1\03EmojiSumator.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\bin\Debug\netcoreapp2.1\03EmojiSumator.pdb
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\obj\Debug\netcoreapp2.1\03EmojiSumator.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\obj\Debug\netcoreapp2.1\03EmojiSumator.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\obj\Debug\netcoreapp2.1\03EmojiSumator.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\obj\Debug\netcoreapp2.1\03EmojiSumator.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\03EmojiSumator\obj\Debug\netcoreapp2.1\03EmojiSumator.pdb

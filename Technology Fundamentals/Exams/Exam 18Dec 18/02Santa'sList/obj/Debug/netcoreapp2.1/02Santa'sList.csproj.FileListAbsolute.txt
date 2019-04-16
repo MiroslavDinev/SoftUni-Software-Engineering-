@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\bin\Debug\netcoreapp2.1\02Santa'sList.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\bin\Debug\netcoreapp2.1\02Santa'sList.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\bin\Debug\netcoreapp2.1\02Santa'sList.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\bin\Debug\netcoreapp2.1\02Santa'sList.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\bin\Debug\netcoreapp2.1\02Santa'sList.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\obj\Debug\netcoreapp2.1\02Santa'sList.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\obj\Debug\netcoreapp2.1\02Santa'sList.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\obj\Debug\netcoreapp2.1\02Santa'sList.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\obj\Debug\netcoreapp2.1\02Santa'sList.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02Santa'sList\obj\Debug\netcoreapp2.1\02Santa'sList.pdb

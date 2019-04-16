@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\bin\Debug\netcoreapp2.1\01VaporWinterSale.deps.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\bin\Debug\netcoreapp2.1\01VaporWinterSale.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\bin\Debug\netcoreapp2.1\01VaporWinterSale.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\bin\Debug\netcoreapp2.1\01VaporWinterSale.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\bin\Debug\netcoreapp2.1\01VaporWinterSale.pdb
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\obj\Debug\netcoreapp2.1\01VaporWinterSale.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\obj\Debug\netcoreapp2.1\01VaporWinterSale.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\obj\Debug\netcoreapp2.1\01VaporWinterSale.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\obj\Debug\netcoreapp2.1\01VaporWinterSale.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\obj\Debug\netcoreapp2.1\01VaporWinterSale.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01VaporWinterSale\obj\Debug\netcoreapp2.1\01VaporWinterSale.pdb

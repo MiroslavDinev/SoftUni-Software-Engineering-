@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\bin\Debug\netcoreapp2.1\03QuestsJournal.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\bin\Debug\netcoreapp2.1\03QuestsJournal.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\bin\Debug\netcoreapp2.1\03QuestsJournal.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\bin\Debug\netcoreapp2.1\03QuestsJournal.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\bin\Debug\netcoreapp2.1\03QuestsJournal.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\obj\Debug\netcoreapp2.1\03QuestsJournal.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\obj\Debug\netcoreapp2.1\03QuestsJournal.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\obj\Debug\netcoreapp2.1\03QuestsJournal.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\obj\Debug\netcoreapp2.1\03QuestsJournal.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03QuestsJournal\obj\Debug\netcoreapp2.1\03QuestsJournal.pdb

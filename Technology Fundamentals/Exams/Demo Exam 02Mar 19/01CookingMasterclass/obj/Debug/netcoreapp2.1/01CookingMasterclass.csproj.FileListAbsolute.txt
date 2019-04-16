@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\bin\Debug\netcoreapp2.1\01CookingMasterclass.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\bin\Debug\netcoreapp2.1\01CookingMasterclass.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\bin\Debug\netcoreapp2.1\01CookingMasterclass.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\bin\Debug\netcoreapp2.1\01CookingMasterclass.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\bin\Debug\netcoreapp2.1\01CookingMasterclass.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\obj\Debug\netcoreapp2.1\01CookingMasterclass.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\obj\Debug\netcoreapp2.1\01CookingMasterclass.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\obj\Debug\netcoreapp2.1\01CookingMasterclass.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\obj\Debug\netcoreapp2.1\01CookingMasterclass.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\obj\Debug\netcoreapp2.1\01CookingMasterclass.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01CookingMasterclass\obj\Debug\netcoreapp2.1\01CookingMasterclass.pdb

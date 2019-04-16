@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\bin\Debug\netcoreapp2.1\03PresentDelivery.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\bin\Debug\netcoreapp2.1\03PresentDelivery.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\bin\Debug\netcoreapp2.1\03PresentDelivery.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\bin\Debug\netcoreapp2.1\03PresentDelivery.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\bin\Debug\netcoreapp2.1\03PresentDelivery.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\obj\Debug\netcoreapp2.1\03PresentDelivery.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\obj\Debug\netcoreapp2.1\03PresentDelivery.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\obj\Debug\netcoreapp2.1\03PresentDelivery.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\obj\Debug\netcoreapp2.1\03PresentDelivery.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\obj\Debug\netcoreapp2.1\03PresentDelivery.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03PresentDelivery\obj\Debug\netcoreapp2.1\03PresentDelivery.pdb

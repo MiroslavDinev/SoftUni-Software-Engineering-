@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\bin\Debug\netcoreapp2.1\02DungeonestDark.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\bin\Debug\netcoreapp2.1\02DungeonestDark.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\bin\Debug\netcoreapp2.1\02DungeonestDark.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\bin\Debug\netcoreapp2.1\02DungeonestDark.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\bin\Debug\netcoreapp2.1\02DungeonestDark.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\obj\Debug\netcoreapp2.1\02DungeonestDark.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\obj\Debug\netcoreapp2.1\02DungeonestDark.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\obj\Debug\netcoreapp2.1\02DungeonestDark.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\obj\Debug\netcoreapp2.1\02DungeonestDark.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02DungeonestDark\obj\Debug\netcoreapp2.1\02DungeonestDark.pdb

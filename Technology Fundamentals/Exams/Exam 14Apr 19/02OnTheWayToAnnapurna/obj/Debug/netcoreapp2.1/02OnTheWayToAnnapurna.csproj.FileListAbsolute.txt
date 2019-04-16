@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.deps.json
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.dll
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.pdb
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.dll
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\02OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\02OnTheWayToAnnapurna.pdb

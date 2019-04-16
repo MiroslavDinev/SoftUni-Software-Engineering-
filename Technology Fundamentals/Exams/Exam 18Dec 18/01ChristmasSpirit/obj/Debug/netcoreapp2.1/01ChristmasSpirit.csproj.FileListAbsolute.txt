@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\bin\Debug\netcoreapp2.1\01ChristmasSpirit.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\bin\Debug\netcoreapp2.1\01ChristmasSpirit.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\bin\Debug\netcoreapp2.1\01ChristmasSpirit.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\bin\Debug\netcoreapp2.1\01ChristmasSpirit.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\bin\Debug\netcoreapp2.1\01ChristmasSpirit.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\obj\Debug\netcoreapp2.1\01ChristmasSpirit.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\obj\Debug\netcoreapp2.1\01ChristmasSpirit.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\obj\Debug\netcoreapp2.1\01ChristmasSpirit.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\obj\Debug\netcoreapp2.1\01ChristmasSpirit.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01ChristmasSpirit\obj\Debug\netcoreapp2.1\01ChristmasSpirit.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\bin\Debug\netcoreapp2.1\02SongEncryption.deps.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\bin\Debug\netcoreapp2.1\02SongEncryption.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\bin\Debug\netcoreapp2.1\02SongEncryption.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\bin\Debug\netcoreapp2.1\02SongEncryption.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\bin\Debug\netcoreapp2.1\02SongEncryption.pdb
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\obj\Debug\netcoreapp2.1\02SongEncryption.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\obj\Debug\netcoreapp2.1\02SongEncryption.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\obj\Debug\netcoreapp2.1\02SongEncryption.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\obj\Debug\netcoreapp2.1\02SongEncryption.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\obj\Debug\netcoreapp2.1\02SongEncryption.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02SongEncryption\obj\Debug\netcoreapp2.1\02SongEncryption.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\bin\Debug\netcoreapp2.1\01Dictionary.deps.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\bin\Debug\netcoreapp2.1\01Dictionary.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\bin\Debug\netcoreapp2.1\01Dictionary.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\bin\Debug\netcoreapp2.1\01Dictionary.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\bin\Debug\netcoreapp2.1\01Dictionary.pdb
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\obj\Debug\netcoreapp2.1\01Dictionary.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\obj\Debug\netcoreapp2.1\01Dictionary.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\obj\Debug\netcoreapp2.1\01Dictionary.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\obj\Debug\netcoreapp2.1\01Dictionary.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Dictionary\obj\Debug\netcoreapp2.1\01Dictionary.pdb

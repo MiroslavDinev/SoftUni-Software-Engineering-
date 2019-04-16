@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MidExam\03LastStop\bin\Debug\netcoreapp2.1\03LastStop.deps.json
+D:\Users\DINEV\source\repos\MidExam\03LastStop\bin\Debug\netcoreapp2.1\03LastStop.runtimeconfig.json
+D:\Users\DINEV\source\repos\MidExam\03LastStop\bin\Debug\netcoreapp2.1\03LastStop.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MidExam\03LastStop\bin\Debug\netcoreapp2.1\03LastStop.dll
+D:\Users\DINEV\source\repos\MidExam\03LastStop\bin\Debug\netcoreapp2.1\03LastStop.pdb
+D:\Users\DINEV\source\repos\MidExam\03LastStop\obj\Debug\netcoreapp2.1\03LastStop.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MidExam\03LastStop\obj\Debug\netcoreapp2.1\03LastStop.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MidExam\03LastStop\obj\Debug\netcoreapp2.1\03LastStop.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MidExam\03LastStop\obj\Debug\netcoreapp2.1\03LastStop.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MidExam\03LastStop\obj\Debug\netcoreapp2.1\03LastStop.dll
+D:\Users\DINEV\source\repos\MidExam\03LastStop\obj\Debug\netcoreapp2.1\03LastStop.pdb

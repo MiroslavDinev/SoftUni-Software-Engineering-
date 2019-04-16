@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\bin\Debug\netcoreapp2.1\02BreadFactory.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\bin\Debug\netcoreapp2.1\02BreadFactory.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\bin\Debug\netcoreapp2.1\02BreadFactory.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\bin\Debug\netcoreapp2.1\02BreadFactory.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\bin\Debug\netcoreapp2.1\02BreadFactory.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\obj\Debug\netcoreapp2.1\02BreadFactory.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\obj\Debug\netcoreapp2.1\02BreadFactory.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\obj\Debug\netcoreapp2.1\02BreadFactory.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\obj\Debug\netcoreapp2.1\02BreadFactory.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\obj\Debug\netcoreapp2.1\02BreadFactory.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\02BreadFactory\obj\Debug\netcoreapp2.1\02BreadFactory.csprojAssemblyReference.cache

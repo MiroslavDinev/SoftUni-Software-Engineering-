@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\bin\Debug\netcoreapp2.1\Problem1Again.deps.json
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\bin\Debug\netcoreapp2.1\Problem1Again.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\bin\Debug\netcoreapp2.1\Problem1Again.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\bin\Debug\netcoreapp2.1\Problem1Again.dll
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\bin\Debug\netcoreapp2.1\Problem1Again.pdb
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\obj\Debug\netcoreapp2.1\Problem1Again.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\obj\Debug\netcoreapp2.1\Problem1Again.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\obj\Debug\netcoreapp2.1\Problem1Again.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\obj\Debug\netcoreapp2.1\Problem1Again.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\obj\Debug\netcoreapp2.1\Problem1Again.dll
+D:\Users\DINEV\source\repos\TFFinalExam14Apr19\Problem1Again\obj\Debug\netcoreapp2.1\Problem1Again.pdb

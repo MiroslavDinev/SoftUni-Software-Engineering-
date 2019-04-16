@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\bin\Debug\netcoreapp2.1\01PartyProfit.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\bin\Debug\netcoreapp2.1\01PartyProfit.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\bin\Debug\netcoreapp2.1\01PartyProfit.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\bin\Debug\netcoreapp2.1\01PartyProfit.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\bin\Debug\netcoreapp2.1\01PartyProfit.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\obj\Debug\netcoreapp2.1\01PartyProfit.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\obj\Debug\netcoreapp2.1\01PartyProfit.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\obj\Debug\netcoreapp2.1\01PartyProfit.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\obj\Debug\netcoreapp2.1\01PartyProfit.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\01PartyProfit\obj\Debug\netcoreapp2.1\01PartyProfit.pdb

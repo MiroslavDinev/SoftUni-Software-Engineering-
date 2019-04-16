@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\bin\Debug\netcoreapp2.1\02Deciphering.deps.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\bin\Debug\netcoreapp2.1\02Deciphering.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\bin\Debug\netcoreapp2.1\02Deciphering.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\bin\Debug\netcoreapp2.1\02Deciphering.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\bin\Debug\netcoreapp2.1\02Deciphering.pdb
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\obj\Debug\netcoreapp2.1\02Deciphering.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\obj\Debug\netcoreapp2.1\02Deciphering.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\obj\Debug\netcoreapp2.1\02Deciphering.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\obj\Debug\netcoreapp2.1\02Deciphering.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\02Deciphering\obj\Debug\netcoreapp2.1\02Deciphering.pdb

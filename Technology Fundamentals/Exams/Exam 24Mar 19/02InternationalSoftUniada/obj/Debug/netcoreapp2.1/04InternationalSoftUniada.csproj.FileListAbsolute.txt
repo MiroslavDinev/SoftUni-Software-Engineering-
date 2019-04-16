@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\bin\Debug\netcoreapp2.1\04InternationalSoftUniada.deps.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\bin\Debug\netcoreapp2.1\04InternationalSoftUniada.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\bin\Debug\netcoreapp2.1\04InternationalSoftUniada.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\bin\Debug\netcoreapp2.1\04InternationalSoftUniada.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\bin\Debug\netcoreapp2.1\04InternationalSoftUniada.pdb
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\obj\Debug\netcoreapp2.1\04InternationalSoftUniada.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\obj\Debug\netcoreapp2.1\04InternationalSoftUniada.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\obj\Debug\netcoreapp2.1\04InternationalSoftUniada.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\obj\Debug\netcoreapp2.1\04InternationalSoftUniada.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\04InternationalSoftUniada\obj\Debug\netcoreapp2.1\04InternationalSoftUniada.pdb

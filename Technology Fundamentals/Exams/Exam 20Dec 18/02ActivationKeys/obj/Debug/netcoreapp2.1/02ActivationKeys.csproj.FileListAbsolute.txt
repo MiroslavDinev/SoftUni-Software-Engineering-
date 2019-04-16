@@ -1,0 +1,10 @@
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\bin\Debug\netcoreapp2.1\02ActivationKeys.deps.json
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\bin\Debug\netcoreapp2.1\02ActivationKeys.runtimeconfig.json
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\bin\Debug\netcoreapp2.1\02ActivationKeys.runtimeconfig.dev.json
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\bin\Debug\netcoreapp2.1\02ActivationKeys.dll
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\bin\Debug\netcoreapp2.1\02ActivationKeys.pdb
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\obj\Debug\netcoreapp2.1\02ActivationKeys.csproj.CoreCompileInputs.cache
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\obj\Debug\netcoreapp2.1\02ActivationKeys.AssemblyInfoInputs.cache
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\obj\Debug\netcoreapp2.1\02ActivationKeys.AssemblyInfo.cs
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\obj\Debug\netcoreapp2.1\02ActivationKeys.dll
+D:\users\dinev\source\repos\TFFinalExamPreparation\02ActivationKeys\obj\Debug\netcoreapp2.1\02ActivationKeys.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\bin\Debug\netcoreapp2.1\03CookingFactory.deps.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\bin\Debug\netcoreapp2.1\03CookingFactory.runtimeconfig.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\bin\Debug\netcoreapp2.1\03CookingFactory.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\bin\Debug\netcoreapp2.1\03CookingFactory.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\bin\Debug\netcoreapp2.1\03CookingFactory.pdb
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\obj\Debug\netcoreapp2.1\03CookingFactory.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\obj\Debug\netcoreapp2.1\03CookingFactory.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\obj\Debug\netcoreapp2.1\03CookingFactory.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\obj\Debug\netcoreapp2.1\03CookingFactory.dll
+D:\Users\DINEV\source\repos\TF-MidExam-Prep\03CookingFactory\obj\Debug\netcoreapp2.1\03CookingFactory.pdb

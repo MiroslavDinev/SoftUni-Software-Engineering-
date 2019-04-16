@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\bin\Debug\netcoreapp2.1\01Concert.deps.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\bin\Debug\netcoreapp2.1\01Concert.runtimeconfig.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\bin\Debug\netcoreapp2.1\01Concert.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\bin\Debug\netcoreapp2.1\01Concert.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\bin\Debug\netcoreapp2.1\01Concert.pdb
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\obj\Debug\netcoreapp2.1\01Concert.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\obj\Debug\netcoreapp2.1\01Concert.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\obj\Debug\netcoreapp2.1\01Concert.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\obj\Debug\netcoreapp2.1\01Concert.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\obj\Debug\netcoreapp2.1\01Concert.dll
+D:\Users\DINEV\source\repos\TFFinalExamPreparation\01Concert\obj\Debug\netcoreapp2.1\01Concert.pdb
