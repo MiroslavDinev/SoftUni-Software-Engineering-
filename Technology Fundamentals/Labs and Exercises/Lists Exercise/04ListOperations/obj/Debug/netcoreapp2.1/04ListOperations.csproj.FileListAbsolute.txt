@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\bin\Debug\netcoreapp2.1\04ListOperations.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\bin\Debug\netcoreapp2.1\04ListOperations.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\bin\Debug\netcoreapp2.1\04ListOperations.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\bin\Debug\netcoreapp2.1\04ListOperations.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\bin\Debug\netcoreapp2.1\04ListOperations.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\obj\Debug\netcoreapp2.1\04ListOperations.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\obj\Debug\netcoreapp2.1\04ListOperations.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\obj\Debug\netcoreapp2.1\04ListOperations.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\obj\Debug\netcoreapp2.1\04ListOperations.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\04ListOperations\obj\Debug\netcoreapp2.1\04ListOperations.pdb

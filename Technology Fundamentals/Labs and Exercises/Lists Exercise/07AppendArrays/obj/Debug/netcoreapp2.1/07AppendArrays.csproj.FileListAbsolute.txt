@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\bin\Debug\netcoreapp2.1\07AppendArrays.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\bin\Debug\netcoreapp2.1\07AppendArrays.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\bin\Debug\netcoreapp2.1\07AppendArrays.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\bin\Debug\netcoreapp2.1\07AppendArrays.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\bin\Debug\netcoreapp2.1\07AppendArrays.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\obj\Debug\netcoreapp2.1\07AppendArrays.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\obj\Debug\netcoreapp2.1\07AppendArrays.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\obj\Debug\netcoreapp2.1\07AppendArrays.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\obj\Debug\netcoreapp2.1\07AppendArrays.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\07AppendArrays\obj\Debug\netcoreapp2.1\07AppendArrays.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\bin\Debug\netcoreapp2.1\06ListManipulationBasics.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\bin\Debug\netcoreapp2.1\06ListManipulationBasics.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\bin\Debug\netcoreapp2.1\06ListManipulationBasics.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\bin\Debug\netcoreapp2.1\06ListManipulationBasics.dll
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\bin\Debug\netcoreapp2.1\06ListManipulationBasics.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\obj\Debug\netcoreapp2.1\06ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\obj\Debug\netcoreapp2.1\06ListManipulationBasics.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\obj\Debug\netcoreapp2.1\06ListManipulationBasics.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\obj\Debug\netcoreapp2.1\06ListManipulationBasics.dll
+D:\Users\DINEV\source\repos\Lists-Lab\06ListManipulationBasics\obj\Debug\netcoreapp2.1\06ListManipulationBasics.pdb

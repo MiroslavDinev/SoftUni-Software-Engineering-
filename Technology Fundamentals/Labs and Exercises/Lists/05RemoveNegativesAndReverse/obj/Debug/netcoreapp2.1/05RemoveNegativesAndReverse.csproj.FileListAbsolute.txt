@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.dll
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.dll
+D:\Users\DINEV\source\repos\Lists-Lab\05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\05RemoveNegativesAndReverse.pdb

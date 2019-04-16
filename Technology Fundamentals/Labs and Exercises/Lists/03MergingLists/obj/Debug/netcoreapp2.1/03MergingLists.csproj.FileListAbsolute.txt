@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\bin\Debug\netcoreapp2.1\03MergingLists.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\bin\Debug\netcoreapp2.1\03MergingLists.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\bin\Debug\netcoreapp2.1\03MergingLists.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\bin\Debug\netcoreapp2.1\03MergingLists.dll
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\bin\Debug\netcoreapp2.1\03MergingLists.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\obj\Debug\netcoreapp2.1\03MergingLists.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\obj\Debug\netcoreapp2.1\03MergingLists.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\obj\Debug\netcoreapp2.1\03MergingLists.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\obj\Debug\netcoreapp2.1\03MergingLists.dll
+D:\Users\DINEV\source\repos\Lists-Lab\03MergingLists\obj\Debug\netcoreapp2.1\03MergingLists.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.dll
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.dll
+D:\Users\DINEV\source\repos\Lists-Lab\01SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01SumAdjacentEqualNumbers.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\bin\Debug\netcoreapp2.1\01Train.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\bin\Debug\netcoreapp2.1\01Train.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\bin\Debug\netcoreapp2.1\01Train.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\bin\Debug\netcoreapp2.1\01Train.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\bin\Debug\netcoreapp2.1\01Train.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\obj\Debug\netcoreapp2.1\01Train.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\obj\Debug\netcoreapp2.1\01Train.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\obj\Debug\netcoreapp2.1\01Train.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\obj\Debug\netcoreapp2.1\01Train.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\obj\Debug\netcoreapp2.1\01Train.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\01Train\obj\Debug\netcoreapp2.1\01Train.pdb

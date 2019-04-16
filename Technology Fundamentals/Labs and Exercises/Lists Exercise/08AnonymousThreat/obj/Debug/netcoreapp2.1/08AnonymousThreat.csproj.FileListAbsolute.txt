@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\bin\Debug\netcoreapp2.1\08AnonymousThreat.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\bin\Debug\netcoreapp2.1\08AnonymousThreat.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\bin\Debug\netcoreapp2.1\08AnonymousThreat.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\bin\Debug\netcoreapp2.1\08AnonymousThreat.dll
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\bin\Debug\netcoreapp2.1\08AnonymousThreat.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\obj\Debug\netcoreapp2.1\08AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\obj\Debug\netcoreapp2.1\08AnonymousThreat.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\obj\Debug\netcoreapp2.1\08AnonymousThreat.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\obj\Debug\netcoreapp2.1\08AnonymousThreat.dll
+D:\Users\DINEV\source\repos\Lists-Lab\08AnonymousThreat\obj\Debug\netcoreapp2.1\08AnonymousThreat.pdb

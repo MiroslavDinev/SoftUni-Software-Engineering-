@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\bin\Debug\netcoreapp2.1\04MixedUpLists.deps.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\bin\Debug\netcoreapp2.1\04MixedUpLists.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\bin\Debug\netcoreapp2.1\04MixedUpLists.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\bin\Debug\netcoreapp2.1\04MixedUpLists.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\bin\Debug\netcoreapp2.1\04MixedUpLists.pdb
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\obj\Debug\netcoreapp2.1\04MixedUpLists.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\obj\Debug\netcoreapp2.1\04MixedUpLists.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\obj\Debug\netcoreapp2.1\04MixedUpLists.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\obj\Debug\netcoreapp2.1\04MixedUpLists.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\obj\Debug\netcoreapp2.1\04MixedUpLists.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\04MixedUpLists\obj\Debug\netcoreapp2.1\04MixedUpLists.pdb

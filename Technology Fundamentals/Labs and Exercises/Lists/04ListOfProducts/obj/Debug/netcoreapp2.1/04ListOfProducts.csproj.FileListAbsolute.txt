@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\bin\Debug\netcoreapp2.1\04ListOfProducts.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\bin\Debug\netcoreapp2.1\04ListOfProducts.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\bin\Debug\netcoreapp2.1\04ListOfProducts.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\bin\Debug\netcoreapp2.1\04ListOfProducts.dll
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\bin\Debug\netcoreapp2.1\04ListOfProducts.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\obj\Debug\netcoreapp2.1\04ListOfProducts.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\obj\Debug\netcoreapp2.1\04ListOfProducts.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\obj\Debug\netcoreapp2.1\04ListOfProducts.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\obj\Debug\netcoreapp2.1\04ListOfProducts.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\obj\Debug\netcoreapp2.1\04ListOfProducts.dll
+D:\Users\DINEV\source\repos\Lists-Lab\04ListOfProducts\obj\Debug\netcoreapp2.1\04ListOfProducts.pdb

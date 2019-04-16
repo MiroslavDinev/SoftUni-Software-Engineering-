@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\bin\Debug\netcoreapp2.1\02ChangeList.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\bin\Debug\netcoreapp2.1\02ChangeList.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\bin\Debug\netcoreapp2.1\02ChangeList.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\bin\Debug\netcoreapp2.1\02ChangeList.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\bin\Debug\netcoreapp2.1\02ChangeList.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\obj\Debug\netcoreapp2.1\02ChangeList.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\obj\Debug\netcoreapp2.1\02ChangeList.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\obj\Debug\netcoreapp2.1\02ChangeList.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\obj\Debug\netcoreapp2.1\02ChangeList.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\obj\Debug\netcoreapp2.1\02ChangeList.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\02ChangeList\obj\Debug\netcoreapp2.1\02ChangeList.pdb

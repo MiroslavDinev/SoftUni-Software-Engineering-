@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\10SoftUniCoursePlanning.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\10SoftUniCoursePlanning.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\10SoftUniCoursePlanning.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\10SoftUniCoursePlanning.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\10SoftUniCoursePlanning.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\10SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\10SoftUniCoursePlanning.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\10SoftUniCoursePlanning.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\10SoftUniCoursePlanning.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\10SoftUniCoursePlanning.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\10SoftUniCoursePlanning.csprojAssemblyReference.cache

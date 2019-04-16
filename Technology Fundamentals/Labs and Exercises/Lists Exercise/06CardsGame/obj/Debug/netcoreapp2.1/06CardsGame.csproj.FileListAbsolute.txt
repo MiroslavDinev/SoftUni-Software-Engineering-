@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\bin\Debug\netcoreapp2.1\06CardsGame.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\bin\Debug\netcoreapp2.1\06CardsGame.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\bin\Debug\netcoreapp2.1\06CardsGame.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\bin\Debug\netcoreapp2.1\06CardsGame.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\bin\Debug\netcoreapp2.1\06CardsGame.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\obj\Debug\netcoreapp2.1\06CardsGame.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\obj\Debug\netcoreapp2.1\06CardsGame.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\obj\Debug\netcoreapp2.1\06CardsGame.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\obj\Debug\netcoreapp2.1\06CardsGame.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\obj\Debug\netcoreapp2.1\06CardsGame.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\06CardsGame\obj\Debug\netcoreapp2.1\06CardsGame.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\bin\Debug\netcoreapp2.1\01Messaging.deps.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\bin\Debug\netcoreapp2.1\01Messaging.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\bin\Debug\netcoreapp2.1\01Messaging.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\bin\Debug\netcoreapp2.1\01Messaging.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\bin\Debug\netcoreapp2.1\01Messaging.pdb
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\obj\Debug\netcoreapp2.1\01Messaging.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\obj\Debug\netcoreapp2.1\01Messaging.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\obj\Debug\netcoreapp2.1\01Messaging.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\obj\Debug\netcoreapp2.1\01Messaging.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\obj\Debug\netcoreapp2.1\01Messaging.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\01Messaging\obj\Debug\netcoreapp2.1\01Messaging.pdb

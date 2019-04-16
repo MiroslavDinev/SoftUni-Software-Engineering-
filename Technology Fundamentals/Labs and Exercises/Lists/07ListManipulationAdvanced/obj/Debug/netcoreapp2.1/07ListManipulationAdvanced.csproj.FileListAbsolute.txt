@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07ListManipulationAdvanced.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07ListManipulationAdvanced.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07ListManipulationAdvanced.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07ListManipulationAdvanced.dll
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07ListManipulationAdvanced.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07ListManipulationAdvanced.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07ListManipulationAdvanced.dll
+D:\Users\DINEV\source\repos\Lists-Lab\07ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07ListManipulationAdvanced.pdb

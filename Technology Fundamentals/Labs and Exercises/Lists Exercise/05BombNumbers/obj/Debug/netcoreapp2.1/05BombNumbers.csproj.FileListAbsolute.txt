@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\bin\Debug\netcoreapp2.1\05BombNumbers.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\bin\Debug\netcoreapp2.1\05BombNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\bin\Debug\netcoreapp2.1\05BombNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\bin\Debug\netcoreapp2.1\05BombNumbers.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\bin\Debug\netcoreapp2.1\05BombNumbers.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\obj\Debug\netcoreapp2.1\05BombNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\obj\Debug\netcoreapp2.1\05BombNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\obj\Debug\netcoreapp2.1\05BombNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\obj\Debug\netcoreapp2.1\05BombNumbers.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\05BombNumbers\obj\Debug\netcoreapp2.1\05BombNumbers.pdb

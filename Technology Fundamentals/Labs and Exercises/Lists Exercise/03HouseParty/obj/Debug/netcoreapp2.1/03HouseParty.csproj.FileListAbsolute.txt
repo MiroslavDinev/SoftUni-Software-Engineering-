@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\bin\Debug\netcoreapp2.1\03HouseParty.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\bin\Debug\netcoreapp2.1\03HouseParty.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\bin\Debug\netcoreapp2.1\03HouseParty.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\bin\Debug\netcoreapp2.1\03HouseParty.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\bin\Debug\netcoreapp2.1\03HouseParty.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\obj\Debug\netcoreapp2.1\03HouseParty.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\obj\Debug\netcoreapp2.1\03HouseParty.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\obj\Debug\netcoreapp2.1\03HouseParty.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\obj\Debug\netcoreapp2.1\03HouseParty.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\03HouseParty\obj\Debug\netcoreapp2.1\03HouseParty.pdb

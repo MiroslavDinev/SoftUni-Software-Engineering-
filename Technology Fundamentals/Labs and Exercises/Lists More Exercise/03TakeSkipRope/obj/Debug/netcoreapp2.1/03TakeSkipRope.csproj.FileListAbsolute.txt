@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\bin\Debug\netcoreapp2.1\03TakeSkipRope.deps.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\bin\Debug\netcoreapp2.1\03TakeSkipRope.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\bin\Debug\netcoreapp2.1\03TakeSkipRope.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\bin\Debug\netcoreapp2.1\03TakeSkipRope.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\bin\Debug\netcoreapp2.1\03TakeSkipRope.pdb
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\obj\Debug\netcoreapp2.1\03TakeSkipRope.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\obj\Debug\netcoreapp2.1\03TakeSkipRope.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\obj\Debug\netcoreapp2.1\03TakeSkipRope.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\obj\Debug\netcoreapp2.1\03TakeSkipRope.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\obj\Debug\netcoreapp2.1\03TakeSkipRope.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\03TakeSkipRope\obj\Debug\netcoreapp2.1\03TakeSkipRope.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\bin\Debug\netcoreapp2.1\05DrumSet.deps.json
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\bin\Debug\netcoreapp2.1\05DrumSet.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\bin\Debug\netcoreapp2.1\05DrumSet.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\bin\Debug\netcoreapp2.1\05DrumSet.dll
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\bin\Debug\netcoreapp2.1\05DrumSet.pdb
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\obj\Debug\netcoreapp2.1\05DrumSet.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\obj\Debug\netcoreapp2.1\05DrumSet.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\obj\Debug\netcoreapp2.1\05DrumSet.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\obj\Debug\netcoreapp2.1\05DrumSet.dll
+D:\Users\DINEV\source\repos\Lists-Lab\05DrumSet\obj\Debug\netcoreapp2.1\05DrumSet.pdb

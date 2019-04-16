@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\bin\Debug\netcoreapp2.1\02CarRace.deps.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\bin\Debug\netcoreapp2.1\02CarRace.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\bin\Debug\netcoreapp2.1\02CarRace.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\bin\Debug\netcoreapp2.1\02CarRace.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\bin\Debug\netcoreapp2.1\02CarRace.pdb
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\obj\Debug\netcoreapp2.1\02CarRace.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\obj\Debug\netcoreapp2.1\02CarRace.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\obj\Debug\netcoreapp2.1\02CarRace.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\obj\Debug\netcoreapp2.1\02CarRace.dll
+D:\Users\DINEV\source\repos\Lists-MoreExercise\02CarRace\obj\Debug\netcoreapp2.1\02CarRace.pdb

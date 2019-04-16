@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\bin\Debug\netcoreapp2.1\09PokemonDon'tGo.deps.json
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\bin\Debug\netcoreapp2.1\09PokemonDon'tGo.runtimeconfig.json
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\bin\Debug\netcoreapp2.1\09PokemonDon'tGo.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\bin\Debug\netcoreapp2.1\09PokemonDon'tGo.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\bin\Debug\netcoreapp2.1\09PokemonDon'tGo.pdb
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\obj\Debug\netcoreapp2.1\09PokemonDon'tGo.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\obj\Debug\netcoreapp2.1\09PokemonDon'tGo.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\obj\Debug\netcoreapp2.1\09PokemonDon'tGo.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\obj\Debug\netcoreapp2.1\09PokemonDon'tGo.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\obj\Debug\netcoreapp2.1\09PokemonDon'tGo.dll
+D:\Users\DINEV\source\repos\Lists-Exercise\09PokemonDon'tGo\obj\Debug\netcoreapp2.1\09PokemonDon'tGo.pdb
