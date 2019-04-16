@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\bin\Debug\netcoreapp2.1\01CompanyRoster.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\bin\Debug\netcoreapp2.1\01CompanyRoster.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\bin\Debug\netcoreapp2.1\01CompanyRoster.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\bin\Debug\netcoreapp2.1\01CompanyRoster.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\bin\Debug\netcoreapp2.1\01CompanyRoster.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\obj\Debug\netcoreapp2.1\01CompanyRoster.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\obj\Debug\netcoreapp2.1\01CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\obj\Debug\netcoreapp2.1\01CompanyRoster.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\obj\Debug\netcoreapp2.1\01CompanyRoster.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\obj\Debug\netcoreapp2.1\01CompanyRoster.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\01CompanyRoster\obj\Debug\netcoreapp2.1\01CompanyRoster.pdb

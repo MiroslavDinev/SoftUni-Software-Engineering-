@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\bin\Debug\netcoreapp2.1\02RandomizeWords.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\bin\Debug\netcoreapp2.1\02RandomizeWords.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\bin\Debug\netcoreapp2.1\02RandomizeWords.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\bin\Debug\netcoreapp2.1\02RandomizeWords.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\bin\Debug\netcoreapp2.1\02RandomizeWords.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\obj\Debug\netcoreapp2.1\02RandomizeWords.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\obj\Debug\netcoreapp2.1\02RandomizeWords.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\obj\Debug\netcoreapp2.1\02RandomizeWords.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\obj\Debug\netcoreapp2.1\02RandomizeWords.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\02RandomizeWords\obj\Debug\netcoreapp2.1\02RandomizeWords.pdb

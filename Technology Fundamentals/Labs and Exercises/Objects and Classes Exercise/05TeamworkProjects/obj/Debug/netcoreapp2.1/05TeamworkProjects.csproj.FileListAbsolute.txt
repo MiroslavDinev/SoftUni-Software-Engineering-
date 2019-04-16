@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.dll
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.dll
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.pdb

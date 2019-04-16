@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\bin\Debug\netcoreapp2.1\05ShoppingSpree.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\bin\Debug\netcoreapp2.1\05ShoppingSpree.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\bin\Debug\netcoreapp2.1\05ShoppingSpree.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\bin\Debug\netcoreapp2.1\05ShoppingSpree.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\bin\Debug\netcoreapp2.1\05ShoppingSpree.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\obj\Debug\netcoreapp2.1\05ShoppingSpree.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\obj\Debug\netcoreapp2.1\05ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\obj\Debug\netcoreapp2.1\05ShoppingSpree.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\obj\Debug\netcoreapp2.1\05ShoppingSpree.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\obj\Debug\netcoreapp2.1\05ShoppingSpree.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\05ShoppingSpree\obj\Debug\netcoreapp2.1\05ShoppingSpree.pdb

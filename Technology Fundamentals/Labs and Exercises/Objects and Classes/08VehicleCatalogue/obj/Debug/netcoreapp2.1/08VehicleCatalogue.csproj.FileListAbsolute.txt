@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\bin\Debug\netcoreapp2.1\08VehicleCatalogue.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\bin\Debug\netcoreapp2.1\08VehicleCatalogue.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\bin\Debug\netcoreapp2.1\08VehicleCatalogue.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\bin\Debug\netcoreapp2.1\08VehicleCatalogue.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\bin\Debug\netcoreapp2.1\08VehicleCatalogue.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\obj\Debug\netcoreapp2.1\08VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\obj\Debug\netcoreapp2.1\08VehicleCatalogue.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\obj\Debug\netcoreapp2.1\08VehicleCatalogue.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\obj\Debug\netcoreapp2.1\08VehicleCatalogue.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\08VehicleCatalogue\obj\Debug\netcoreapp2.1\08VehicleCatalogue.pdb

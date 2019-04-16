@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\bin\Debug\netcoreapp2.1\01AdvertisementMessage.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\bin\Debug\netcoreapp2.1\01AdvertisementMessage.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\bin\Debug\netcoreapp2.1\01AdvertisementMessage.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\bin\Debug\netcoreapp2.1\01AdvertisementMessage.dll
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\bin\Debug\netcoreapp2.1\01AdvertisementMessage.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\obj\Debug\netcoreapp2.1\01AdvertisementMessage.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\obj\Debug\netcoreapp2.1\01AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\obj\Debug\netcoreapp2.1\01AdvertisementMessage.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\obj\Debug\netcoreapp2.1\01AdvertisementMessage.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\obj\Debug\netcoreapp2.1\01AdvertisementMessage.dll
+D:\Users\DINEV\source\repos\ObjectsAndClassesExercise\01AdvertisementMessage\obj\Debug\netcoreapp2.1\01AdvertisementMessage.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\bin\Debug\netcoreapp2.1\07StoreBoxes.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\bin\Debug\netcoreapp2.1\07StoreBoxes.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\bin\Debug\netcoreapp2.1\07StoreBoxes.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\bin\Debug\netcoreapp2.1\07StoreBoxes.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\bin\Debug\netcoreapp2.1\07StoreBoxes.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\obj\Debug\netcoreapp2.1\07StoreBoxes.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\obj\Debug\netcoreapp2.1\07StoreBoxes.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\obj\Debug\netcoreapp2.1\07StoreBoxes.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\obj\Debug\netcoreapp2.1\07StoreBoxes.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\obj\Debug\netcoreapp2.1\07StoreBoxes.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\07StoreBoxes\obj\Debug\netcoreapp2.1\07StoreBoxes.pdb

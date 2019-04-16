@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\bin\Debug\netcoreapp2.1\03BigFactorial.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\bin\Debug\netcoreapp2.1\03BigFactorial.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\bin\Debug\netcoreapp2.1\03BigFactorial.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\bin\Debug\netcoreapp2.1\03BigFactorial.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\bin\Debug\netcoreapp2.1\03BigFactorial.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\obj\Debug\netcoreapp2.1\03BigFactorial.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\obj\Debug\netcoreapp2.1\03BigFactorial.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\obj\Debug\netcoreapp2.1\03BigFactorial.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\obj\Debug\netcoreapp2.1\03BigFactorial.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\obj\Debug\netcoreapp2.1\03BigFactorial.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\03BigFactorial\obj\Debug\netcoreapp2.1\03BigFactorial.pdb

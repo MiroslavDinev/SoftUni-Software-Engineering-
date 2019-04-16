@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\bin\Debug\netcoreapp2.1\04Songs.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\bin\Debug\netcoreapp2.1\04Songs.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\bin\Debug\netcoreapp2.1\04Songs.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\bin\Debug\netcoreapp2.1\04Songs.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\bin\Debug\netcoreapp2.1\04Songs.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\obj\Debug\netcoreapp2.1\04Songs.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\obj\Debug\netcoreapp2.1\04Songs.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\obj\Debug\netcoreapp2.1\04Songs.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\obj\Debug\netcoreapp2.1\04Songs.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\04Songs\obj\Debug\netcoreapp2.1\04Songs.pdb

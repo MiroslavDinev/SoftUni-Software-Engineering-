@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\bin\Debug\netcoreapp2.1\05Students.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\bin\Debug\netcoreapp2.1\05Students.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\bin\Debug\netcoreapp2.1\05Students.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\bin\Debug\netcoreapp2.1\05Students.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\bin\Debug\netcoreapp2.1\05Students.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\obj\Debug\netcoreapp2.1\05Students.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\obj\Debug\netcoreapp2.1\05Students.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\obj\Debug\netcoreapp2.1\05Students.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\obj\Debug\netcoreapp2.1\05Students.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\obj\Debug\netcoreapp2.1\05Students.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\05Students\obj\Debug\netcoreapp2.1\05Students.csprojAssemblyReference.cache

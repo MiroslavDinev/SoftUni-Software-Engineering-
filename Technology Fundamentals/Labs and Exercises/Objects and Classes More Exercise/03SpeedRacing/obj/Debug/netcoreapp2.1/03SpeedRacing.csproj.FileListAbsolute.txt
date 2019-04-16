@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\bin\Debug\netcoreapp2.1\03SpeedRacing.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\bin\Debug\netcoreapp2.1\03SpeedRacing.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\bin\Debug\netcoreapp2.1\03SpeedRacing.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\bin\Debug\netcoreapp2.1\03SpeedRacing.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\bin\Debug\netcoreapp2.1\03SpeedRacing.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\obj\Debug\netcoreapp2.1\03SpeedRacing.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\obj\Debug\netcoreapp2.1\03SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\obj\Debug\netcoreapp2.1\03SpeedRacing.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\obj\Debug\netcoreapp2.1\03SpeedRacing.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\obj\Debug\netcoreapp2.1\03SpeedRacing.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\03SpeedRacing\obj\Debug\netcoreapp2.1\03SpeedRacing.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-Lab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.pdb

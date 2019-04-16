@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\bin\Debug\netcoreapp2.1\04RawData.deps.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\bin\Debug\netcoreapp2.1\04RawData.runtimeconfig.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\bin\Debug\netcoreapp2.1\04RawData.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\bin\Debug\netcoreapp2.1\04RawData.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\bin\Debug\netcoreapp2.1\04RawData.pdb
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\obj\Debug\netcoreapp2.1\04RawData.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\obj\Debug\netcoreapp2.1\04RawData.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\obj\Debug\netcoreapp2.1\04RawData.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\obj\Debug\netcoreapp2.1\04RawData.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\obj\Debug\netcoreapp2.1\04RawData.dll
+D:\Users\DINEV\source\repos\ObjectsAndClasses-MoreExercise\04RawData\obj\Debug\netcoreapp2.1\04RawData.pdb
