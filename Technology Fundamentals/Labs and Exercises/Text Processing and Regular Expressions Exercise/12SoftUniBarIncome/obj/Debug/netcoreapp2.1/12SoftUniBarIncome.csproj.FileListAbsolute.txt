@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\bin\Debug\netcoreapp2.1\12SoftUniBarIncome.deps.json
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\bin\Debug\netcoreapp2.1\12SoftUniBarIncome.runtimeconfig.json
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\bin\Debug\netcoreapp2.1\12SoftUniBarIncome.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\bin\Debug\netcoreapp2.1\12SoftUniBarIncome.dll
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\bin\Debug\netcoreapp2.1\12SoftUniBarIncome.pdb
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\obj\Debug\netcoreapp2.1\12SoftUniBarIncome.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\obj\Debug\netcoreapp2.1\12SoftUniBarIncome.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\obj\Debug\netcoreapp2.1\12SoftUniBarIncome.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\obj\Debug\netcoreapp2.1\12SoftUniBarIncome.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\obj\Debug\netcoreapp2.1\12SoftUniBarIncome.dll
+D:\Users\DINEV\source\repos\Regex-Exercise\12SoftUniBarIncome\obj\Debug\netcoreapp2.1\12SoftUniBarIncome.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\obj\Debug\netcoreapp2.1\10RageQuit.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\obj\Debug\netcoreapp2.1\10RageQuit.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\obj\Debug\netcoreapp2.1\10RageQuit.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\bin\Debug\netcoreapp2.1\10RageQuit.deps.json
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\bin\Debug\netcoreapp2.1\10RageQuit.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\bin\Debug\netcoreapp2.1\10RageQuit.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\bin\Debug\netcoreapp2.1\10RageQuit.dll
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\bin\Debug\netcoreapp2.1\10RageQuit.pdb
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\obj\Debug\netcoreapp2.1\10RageQuit.dll
+D:\Users\DINEV\source\repos\StringAndREGEX\10RageQuit\obj\Debug\netcoreapp2.1\10RageQuit.pdb

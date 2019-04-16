@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\bin\Debug\netcoreapp2.1\06MatchFullName.deps.json
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\bin\Debug\netcoreapp2.1\06MatchFullName.runtimeconfig.json
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\bin\Debug\netcoreapp2.1\06MatchFullName.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\bin\Debug\netcoreapp2.1\06MatchFullName.dll
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\bin\Debug\netcoreapp2.1\06MatchFullName.pdb
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\obj\Debug\netcoreapp2.1\06MatchFullName.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\obj\Debug\netcoreapp2.1\06MatchFullName.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\obj\Debug\netcoreapp2.1\06MatchFullName.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\obj\Debug\netcoreapp2.1\06MatchFullName.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\obj\Debug\netcoreapp2.1\06MatchFullName.dll
+D:\Users\DINEV\source\repos\Regex-Lab\06MatchFullName\obj\Debug\netcoreapp2.1\06MatchFullName.pdb

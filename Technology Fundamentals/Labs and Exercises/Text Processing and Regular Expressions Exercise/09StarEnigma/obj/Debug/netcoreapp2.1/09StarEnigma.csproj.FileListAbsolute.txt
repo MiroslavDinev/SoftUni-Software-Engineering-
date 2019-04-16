@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\bin\Debug\netcoreapp2.1\09StarEnigma.deps.json
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\bin\Debug\netcoreapp2.1\09StarEnigma.runtimeconfig.json
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\bin\Debug\netcoreapp2.1\09StarEnigma.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\bin\Debug\netcoreapp2.1\09StarEnigma.dll
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\bin\Debug\netcoreapp2.1\09StarEnigma.pdb
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\obj\Debug\netcoreapp2.1\09StarEnigma.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\obj\Debug\netcoreapp2.1\09StarEnigma.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\obj\Debug\netcoreapp2.1\09StarEnigma.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\obj\Debug\netcoreapp2.1\09StarEnigma.dll
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\obj\Debug\netcoreapp2.1\09StarEnigma.pdb
+D:\Users\DINEV\source\repos\Regex-Exercise\09StarEnigma\obj\Debug\netcoreapp2.1\09StarEnigma.csprojAssemblyReference.cache

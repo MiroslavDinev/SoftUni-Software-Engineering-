@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\bin\Debug\netcoreapp2.1\04CaesarCipher.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\bin\Debug\netcoreapp2.1\04CaesarCipher.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\bin\Debug\netcoreapp2.1\04CaesarCipher.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\bin\Debug\netcoreapp2.1\04CaesarCipher.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\bin\Debug\netcoreapp2.1\04CaesarCipher.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\obj\Debug\netcoreapp2.1\04CaesarCipher.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\obj\Debug\netcoreapp2.1\04CaesarCipher.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\obj\Debug\netcoreapp2.1\04CaesarCipher.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\obj\Debug\netcoreapp2.1\04CaesarCipher.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\04CaesarCipher\obj\Debug\netcoreapp2.1\04CaesarCipher.pdb

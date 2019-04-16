@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\bin\Debug\netcoreapp2.1\07MatchDates.deps.json
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\bin\Debug\netcoreapp2.1\07MatchDates.runtimeconfig.json
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\bin\Debug\netcoreapp2.1\07MatchDates.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\bin\Debug\netcoreapp2.1\07MatchDates.dll
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\bin\Debug\netcoreapp2.1\07MatchDates.pdb
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\obj\Debug\netcoreapp2.1\07MatchDates.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\obj\Debug\netcoreapp2.1\07MatchDates.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\obj\Debug\netcoreapp2.1\07MatchDates.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\obj\Debug\netcoreapp2.1\07MatchDates.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\obj\Debug\netcoreapp2.1\07MatchDates.dll
+D:\Users\DINEV\source\repos\Regex-Lab\07MatchDates\obj\Debug\netcoreapp2.1\07MatchDates.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\bin\Debug\netcoreapp2.1\08MatchNumbers.deps.json
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\bin\Debug\netcoreapp2.1\08MatchNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\bin\Debug\netcoreapp2.1\08MatchNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\bin\Debug\netcoreapp2.1\08MatchNumbers.dll
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\bin\Debug\netcoreapp2.1\08MatchNumbers.pdb
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\obj\Debug\netcoreapp2.1\08MatchNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\obj\Debug\netcoreapp2.1\08MatchNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\obj\Debug\netcoreapp2.1\08MatchNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\obj\Debug\netcoreapp2.1\08MatchNumbers.dll
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchNumbers\obj\Debug\netcoreapp2.1\08MatchNumbers.pdb

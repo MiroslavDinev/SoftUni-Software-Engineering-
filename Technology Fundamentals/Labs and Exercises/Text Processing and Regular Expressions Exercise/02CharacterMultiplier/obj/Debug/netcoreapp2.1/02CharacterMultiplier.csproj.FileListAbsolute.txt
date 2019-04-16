@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.pdb

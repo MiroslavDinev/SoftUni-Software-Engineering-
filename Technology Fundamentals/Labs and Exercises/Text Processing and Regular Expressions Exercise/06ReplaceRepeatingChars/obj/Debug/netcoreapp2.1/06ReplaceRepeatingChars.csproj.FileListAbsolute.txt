@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChars.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChars.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChars.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChars.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChars.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChars.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChars.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\06ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChars.pdb

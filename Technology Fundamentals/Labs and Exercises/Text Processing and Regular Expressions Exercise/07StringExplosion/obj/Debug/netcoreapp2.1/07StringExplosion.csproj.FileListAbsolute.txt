@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\bin\Debug\netcoreapp2.1\07StringExplosion.deps.json
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\bin\Debug\netcoreapp2.1\07StringExplosion.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\bin\Debug\netcoreapp2.1\07StringExplosion.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\bin\Debug\netcoreapp2.1\07StringExplosion.dll
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\bin\Debug\netcoreapp2.1\07StringExplosion.pdb
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\obj\Debug\netcoreapp2.1\07StringExplosion.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\obj\Debug\netcoreapp2.1\07StringExplosion.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\obj\Debug\netcoreapp2.1\07StringExplosion.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\obj\Debug\netcoreapp2.1\07StringExplosion.dll
+D:\Users\DINEV\source\repos\StringAndREGEX\07StringExplosion\obj\Debug\netcoreapp2.1\07StringExplosion.pdb

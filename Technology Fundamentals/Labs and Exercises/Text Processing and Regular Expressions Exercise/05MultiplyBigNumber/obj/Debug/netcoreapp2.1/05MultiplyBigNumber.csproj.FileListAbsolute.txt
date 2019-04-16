@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\bin\Debug\netcoreapp2.1\05MultiplyBigNumber.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\bin\Debug\netcoreapp2.1\05MultiplyBigNumber.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\bin\Debug\netcoreapp2.1\05MultiplyBigNumber.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\bin\Debug\netcoreapp2.1\05MultiplyBigNumber.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\bin\Debug\netcoreapp2.1\05MultiplyBigNumber.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\obj\Debug\netcoreapp2.1\05MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\obj\Debug\netcoreapp2.1\05MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\obj\Debug\netcoreapp2.1\05MultiplyBigNumber.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\obj\Debug\netcoreapp2.1\05MultiplyBigNumber.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\05MultiplyBigNumber\obj\Debug\netcoreapp2.1\05MultiplyBigNumber.pdb

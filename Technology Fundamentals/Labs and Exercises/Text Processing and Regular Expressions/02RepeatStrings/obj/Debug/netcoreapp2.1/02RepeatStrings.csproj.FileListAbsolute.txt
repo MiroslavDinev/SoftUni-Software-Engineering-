@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.pdb

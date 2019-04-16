@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\bin\Debug\netcoreapp2.1\03Substring.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\bin\Debug\netcoreapp2.1\03Substring.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\bin\Debug\netcoreapp2.1\03Substring.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\bin\Debug\netcoreapp2.1\03Substring.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\bin\Debug\netcoreapp2.1\03Substring.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\obj\Debug\netcoreapp2.1\03Substring.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\obj\Debug\netcoreapp2.1\03Substring.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\obj\Debug\netcoreapp2.1\03Substring.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\obj\Debug\netcoreapp2.1\03Substring.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\03Substring\obj\Debug\netcoreapp2.1\03Substring.pdb

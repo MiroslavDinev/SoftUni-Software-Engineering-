@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\bin\Debug\netcoreapp2.1\08MatchPhoneNumber.deps.json
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\bin\Debug\netcoreapp2.1\08MatchPhoneNumber.runtimeconfig.json
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\bin\Debug\netcoreapp2.1\08MatchPhoneNumber.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\bin\Debug\netcoreapp2.1\08MatchPhoneNumber.dll
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\bin\Debug\netcoreapp2.1\08MatchPhoneNumber.pdb
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\obj\Debug\netcoreapp2.1\08MatchPhoneNumber.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\obj\Debug\netcoreapp2.1\08MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\obj\Debug\netcoreapp2.1\08MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\obj\Debug\netcoreapp2.1\08MatchPhoneNumber.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\obj\Debug\netcoreapp2.1\08MatchPhoneNumber.dll
+D:\Users\DINEV\source\repos\Regex-Lab\08MatchPhoneNumber\obj\Debug\netcoreapp2.1\08MatchPhoneNumber.pdb

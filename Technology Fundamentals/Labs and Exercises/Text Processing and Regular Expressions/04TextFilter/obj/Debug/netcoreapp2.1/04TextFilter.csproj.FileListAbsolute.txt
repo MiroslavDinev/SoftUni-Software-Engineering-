@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.pdb

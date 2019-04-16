@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\bin\Debug\netcoreapp2.1\11LettersChangeNumbers.deps.json
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\bin\Debug\netcoreapp2.1\11LettersChangeNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\bin\Debug\netcoreapp2.1\11LettersChangeNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\bin\Debug\netcoreapp2.1\11LettersChangeNumbers.dll
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\bin\Debug\netcoreapp2.1\11LettersChangeNumbers.pdb
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\obj\Debug\netcoreapp2.1\11LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\obj\Debug\netcoreapp2.1\11LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\obj\Debug\netcoreapp2.1\11LettersChangeNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\obj\Debug\netcoreapp2.1\11LettersChangeNumbers.dll
+D:\Users\DINEV\source\repos\StringAndREGEX\11LettersChangeNumbers\obj\Debug\netcoreapp2.1\11LettersChangeNumbers.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Exercise\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.pdb

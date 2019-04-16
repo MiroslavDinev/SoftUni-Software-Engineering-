@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.pdb

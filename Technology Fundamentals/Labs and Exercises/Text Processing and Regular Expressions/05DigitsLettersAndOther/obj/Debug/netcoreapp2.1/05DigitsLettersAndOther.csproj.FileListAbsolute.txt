@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\bin\Debug\netcoreapp2.1\05DigitsLettersAndOther.deps.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\bin\Debug\netcoreapp2.1\05DigitsLettersAndOther.runtimeconfig.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\bin\Debug\netcoreapp2.1\05DigitsLettersAndOther.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\bin\Debug\netcoreapp2.1\05DigitsLettersAndOther.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\bin\Debug\netcoreapp2.1\05DigitsLettersAndOther.pdb
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\obj\Debug\netcoreapp2.1\05DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\obj\Debug\netcoreapp2.1\05DigitsLettersAndOther.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\obj\Debug\netcoreapp2.1\05DigitsLettersAndOther.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\obj\Debug\netcoreapp2.1\05DigitsLettersAndOther.dll
+D:\Users\DINEV\source\repos\StringAndTextProcessing-Lab\05DigitsLettersAndOther\obj\Debug\netcoreapp2.1\05DigitsLettersAndOther.pdb
