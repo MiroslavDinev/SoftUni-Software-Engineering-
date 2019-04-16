@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\bin\Debug\netcoreapp2.1\05SoftUniParking.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\bin\Debug\netcoreapp2.1\05SoftUniParking.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\bin\Debug\netcoreapp2.1\05SoftUniParking.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\bin\Debug\netcoreapp2.1\05SoftUniParking.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\bin\Debug\netcoreapp2.1\05SoftUniParking.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\obj\Debug\netcoreapp2.1\05SoftUniParking.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\obj\Debug\netcoreapp2.1\05SoftUniParking.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\obj\Debug\netcoreapp2.1\05SoftUniParking.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\obj\Debug\netcoreapp2.1\05SoftUniParking.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05SoftUniParking\obj\Debug\netcoreapp2.1\05SoftUniParking.pdb

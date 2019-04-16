@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\bin\Debug\netcoreapp2.1\02AMinerTask.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\bin\Debug\netcoreapp2.1\02AMinerTask.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\bin\Debug\netcoreapp2.1\02AMinerTask.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\bin\Debug\netcoreapp2.1\02AMinerTask.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\bin\Debug\netcoreapp2.1\02AMinerTask.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\obj\Debug\netcoreapp2.1\02AMinerTask.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\obj\Debug\netcoreapp2.1\02AMinerTask.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\obj\Debug\netcoreapp2.1\02AMinerTask.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\obj\Debug\netcoreapp2.1\02AMinerTask.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02AMinerTask\obj\Debug\netcoreapp2.1\02AMinerTask.pdb

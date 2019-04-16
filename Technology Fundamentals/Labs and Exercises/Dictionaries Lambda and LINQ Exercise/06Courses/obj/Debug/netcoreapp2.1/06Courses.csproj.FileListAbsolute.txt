@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\bin\Debug\netcoreapp2.1\06Courses.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\bin\Debug\netcoreapp2.1\06Courses.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\bin\Debug\netcoreapp2.1\06Courses.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\bin\Debug\netcoreapp2.1\06Courses.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\bin\Debug\netcoreapp2.1\06Courses.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\obj\Debug\netcoreapp2.1\06Courses.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\obj\Debug\netcoreapp2.1\06Courses.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\obj\Debug\netcoreapp2.1\06Courses.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\obj\Debug\netcoreapp2.1\06Courses.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\obj\Debug\netcoreapp2.1\06Courses.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\06Courses\obj\Debug\netcoreapp2.1\06Courses.pdb

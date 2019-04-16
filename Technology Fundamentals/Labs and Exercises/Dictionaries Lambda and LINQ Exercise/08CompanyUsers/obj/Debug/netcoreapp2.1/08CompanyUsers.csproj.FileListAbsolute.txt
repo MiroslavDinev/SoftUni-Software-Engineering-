@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\bin\Debug\netcoreapp2.1\08CompanyUsers.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\bin\Debug\netcoreapp2.1\08CompanyUsers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\bin\Debug\netcoreapp2.1\08CompanyUsers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\bin\Debug\netcoreapp2.1\08CompanyUsers.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\bin\Debug\netcoreapp2.1\08CompanyUsers.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\obj\Debug\netcoreapp2.1\08CompanyUsers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\obj\Debug\netcoreapp2.1\08CompanyUsers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\obj\Debug\netcoreapp2.1\08CompanyUsers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\obj\Debug\netcoreapp2.1\08CompanyUsers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\obj\Debug\netcoreapp2.1\08CompanyUsers.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\08CompanyUsers\obj\Debug\netcoreapp2.1\08CompanyUsers.pdb

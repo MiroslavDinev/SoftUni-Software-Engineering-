@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\bin\Debug\netcoreapp2.1\03WordSynonyms.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\bin\Debug\netcoreapp2.1\03WordSynonyms.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\bin\Debug\netcoreapp2.1\03WordSynonyms.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\bin\Debug\netcoreapp2.1\03WordSynonyms.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\bin\Debug\netcoreapp2.1\03WordSynonyms.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\obj\Debug\netcoreapp2.1\03WordSynonyms.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\obj\Debug\netcoreapp2.1\03WordSynonyms.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\obj\Debug\netcoreapp2.1\03WordSynonyms.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\obj\Debug\netcoreapp2.1\03WordSynonyms.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03WordSynonyms\obj\Debug\netcoreapp2.1\03WordSynonyms.pdb

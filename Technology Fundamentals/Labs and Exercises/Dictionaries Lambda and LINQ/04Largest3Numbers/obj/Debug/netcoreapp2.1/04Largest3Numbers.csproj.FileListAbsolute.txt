@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\bin\Debug\netcoreapp2.1\04Largest3Numbers.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\bin\Debug\netcoreapp2.1\04Largest3Numbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\bin\Debug\netcoreapp2.1\04Largest3Numbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\bin\Debug\netcoreapp2.1\04Largest3Numbers.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\bin\Debug\netcoreapp2.1\04Largest3Numbers.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\obj\Debug\netcoreapp2.1\04Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\obj\Debug\netcoreapp2.1\04Largest3Numbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\obj\Debug\netcoreapp2.1\04Largest3Numbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\obj\Debug\netcoreapp2.1\04Largest3Numbers.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Largest3Numbers\obj\Debug\netcoreapp2.1\04Largest3Numbers.pdb

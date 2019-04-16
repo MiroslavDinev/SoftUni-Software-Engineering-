@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\bin\Debug\netcoreapp2.1\09ForceBook.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\bin\Debug\netcoreapp2.1\09ForceBook.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\bin\Debug\netcoreapp2.1\09ForceBook.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\bin\Debug\netcoreapp2.1\09ForceBook.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\bin\Debug\netcoreapp2.1\09ForceBook.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\obj\Debug\netcoreapp2.1\09ForceBook.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\obj\Debug\netcoreapp2.1\09ForceBook.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\obj\Debug\netcoreapp2.1\09ForceBook.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\obj\Debug\netcoreapp2.1\09ForceBook.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\obj\Debug\netcoreapp2.1\09ForceBook.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\09ForceBook\obj\Debug\netcoreapp2.1\09ForceBook.csprojAssemblyReference.cache

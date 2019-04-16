@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\bin\Debug\netcoreapp2.1\04Orders.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\bin\Debug\netcoreapp2.1\04Orders.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\bin\Debug\netcoreapp2.1\04Orders.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\bin\Debug\netcoreapp2.1\04Orders.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\bin\Debug\netcoreapp2.1\04Orders.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\obj\Debug\netcoreapp2.1\04Orders.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\obj\Debug\netcoreapp2.1\04Orders.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\obj\Debug\netcoreapp2.1\04Orders.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\obj\Debug\netcoreapp2.1\04Orders.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\04Orders\obj\Debug\netcoreapp2.1\04Orders.pdb

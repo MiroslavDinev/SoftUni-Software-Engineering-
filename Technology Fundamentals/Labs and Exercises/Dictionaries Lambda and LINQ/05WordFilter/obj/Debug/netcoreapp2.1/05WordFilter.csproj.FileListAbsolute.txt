@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\bin\Debug\netcoreapp2.1\05WordFilter.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\bin\Debug\netcoreapp2.1\05WordFilter.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\bin\Debug\netcoreapp2.1\05WordFilter.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\bin\Debug\netcoreapp2.1\05WordFilter.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\bin\Debug\netcoreapp2.1\05WordFilter.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\obj\Debug\netcoreapp2.1\05WordFilter.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\obj\Debug\netcoreapp2.1\05WordFilter.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\obj\Debug\netcoreapp2.1\05WordFilter.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\obj\Debug\netcoreapp2.1\05WordFilter.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\05WordFilter\obj\Debug\netcoreapp2.1\05WordFilter.pdb

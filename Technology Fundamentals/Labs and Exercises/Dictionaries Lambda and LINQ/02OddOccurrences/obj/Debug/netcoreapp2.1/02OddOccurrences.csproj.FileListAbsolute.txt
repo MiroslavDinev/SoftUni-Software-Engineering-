@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\bin\Debug\netcoreapp2.1\02OddOccurrences.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\bin\Debug\netcoreapp2.1\02OddOccurrences.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\bin\Debug\netcoreapp2.1\02OddOccurrences.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\bin\Debug\netcoreapp2.1\02OddOccurrences.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\bin\Debug\netcoreapp2.1\02OddOccurrences.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\obj\Debug\netcoreapp2.1\02OddOccurrences.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\obj\Debug\netcoreapp2.1\02OddOccurrences.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\obj\Debug\netcoreapp2.1\02OddOccurrences.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\obj\Debug\netcoreapp2.1\02OddOccurrences.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\02OddOccurrences\obj\Debug\netcoreapp2.1\02OddOccurrences.pdb

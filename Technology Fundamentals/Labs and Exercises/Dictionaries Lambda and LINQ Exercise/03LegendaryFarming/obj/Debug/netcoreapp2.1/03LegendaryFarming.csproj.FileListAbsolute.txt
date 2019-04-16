@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\bin\Debug\netcoreapp2.1\03LegendaryFarming.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\bin\Debug\netcoreapp2.1\03LegendaryFarming.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\bin\Debug\netcoreapp2.1\03LegendaryFarming.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\bin\Debug\netcoreapp2.1\03LegendaryFarming.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\bin\Debug\netcoreapp2.1\03LegendaryFarming.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\obj\Debug\netcoreapp2.1\03LegendaryFarming.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\obj\Debug\netcoreapp2.1\03LegendaryFarming.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\obj\Debug\netcoreapp2.1\03LegendaryFarming.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\obj\Debug\netcoreapp2.1\03LegendaryFarming.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\03LegendaryFarming\obj\Debug\netcoreapp2.1\03LegendaryFarming.pdb

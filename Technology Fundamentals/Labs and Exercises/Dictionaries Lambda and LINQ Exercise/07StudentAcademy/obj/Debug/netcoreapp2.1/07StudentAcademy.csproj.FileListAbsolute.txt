@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\bin\Debug\netcoreapp2.1\07StudentAcademy.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\bin\Debug\netcoreapp2.1\07StudentAcademy.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\bin\Debug\netcoreapp2.1\07StudentAcademy.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\bin\Debug\netcoreapp2.1\07StudentAcademy.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\bin\Debug\netcoreapp2.1\07StudentAcademy.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\obj\Debug\netcoreapp2.1\07StudentAcademy.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\obj\Debug\netcoreapp2.1\07StudentAcademy.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\obj\Debug\netcoreapp2.1\07StudentAcademy.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\obj\Debug\netcoreapp2.1\07StudentAcademy.dll
+D:\Users\DINEV\source\repos\Dictionaries-Exercise\07StudentAcademy\obj\Debug\netcoreapp2.1\07StudentAcademy.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\bin\Debug\netcoreapp2.1\01CountCharsInAString.deps.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\bin\Debug\netcoreapp2.1\01CountCharsInAString.runtimeconfig.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\bin\Debug\netcoreapp2.1\01CountCharsInAString.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\bin\Debug\netcoreapp2.1\01CountCharsInAString.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\bin\Debug\netcoreapp2.1\01CountCharsInAString.pdb
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\obj\Debug\netcoreapp2.1\01CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\obj\Debug\netcoreapp2.1\01CountCharsInAString.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\obj\Debug\netcoreapp2.1\01CountCharsInAString.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\obj\Debug\netcoreapp2.1\01CountCharsInAString.dll
+D:\Users\DINEV\source\repos\Dictionaries-Lab\01CountCharsInAString\obj\Debug\netcoreapp2.1\01CountCharsInAString.pdb
