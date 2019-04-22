@@ -6,3 +6,4 @@ Education as Software Engineer
 | Course | Certificate |
 | ------ | ----------- |
 | [Programming Basics](https://softuni.bg/trainings/2158/programming-basics-bulgaria-october-2018) | [Link](https://softuni.bg/certificates/details/60582/7d6920d7)|
+| [Technology Fundamentals](https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019) | [Link](https://softuni.bg/certificates/details/65235/1f6b0e4a)|
