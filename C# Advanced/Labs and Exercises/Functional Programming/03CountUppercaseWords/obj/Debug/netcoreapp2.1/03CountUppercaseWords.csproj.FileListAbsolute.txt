@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\bin\Debug\netcoreapp2.1\03CountUppercaseWords.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\bin\Debug\netcoreapp2.1\03CountUppercaseWords.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\bin\Debug\netcoreapp2.1\03CountUppercaseWords.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\bin\Debug\netcoreapp2.1\03CountUppercaseWords.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\bin\Debug\netcoreapp2.1\03CountUppercaseWords.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\obj\Debug\netcoreapp2.1\03CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\obj\Debug\netcoreapp2.1\03CountUppercaseWords.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\obj\Debug\netcoreapp2.1\03CountUppercaseWords.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\obj\Debug\netcoreapp2.1\03CountUppercaseWords.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\03CountUppercaseWords\obj\Debug\netcoreapp2.1\03CountUppercaseWords.pdb

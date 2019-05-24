@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\bin\Debug\netcoreapp2.1\07PredicateForNames.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\bin\Debug\netcoreapp2.1\07PredicateForNames.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\bin\Debug\netcoreapp2.1\07PredicateForNames.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\bin\Debug\netcoreapp2.1\07PredicateForNames.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\bin\Debug\netcoreapp2.1\07PredicateForNames.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\obj\Debug\netcoreapp2.1\07PredicateForNames.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\obj\Debug\netcoreapp2.1\07PredicateForNames.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\obj\Debug\netcoreapp2.1\07PredicateForNames.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\obj\Debug\netcoreapp2.1\07PredicateForNames.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\07PredicateForNames\obj\Debug\netcoreapp2.1\07PredicateForNames.pdb

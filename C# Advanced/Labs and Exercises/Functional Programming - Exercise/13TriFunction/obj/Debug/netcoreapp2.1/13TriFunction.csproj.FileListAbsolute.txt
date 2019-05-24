@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\bin\Debug\netcoreapp2.1\13TriFunction.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\bin\Debug\netcoreapp2.1\13TriFunction.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\bin\Debug\netcoreapp2.1\13TriFunction.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\bin\Debug\netcoreapp2.1\13TriFunction.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\bin\Debug\netcoreapp2.1\13TriFunction.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\obj\Debug\netcoreapp2.1\13TriFunction.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\obj\Debug\netcoreapp2.1\13TriFunction.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\obj\Debug\netcoreapp2.1\13TriFunction.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\obj\Debug\netcoreapp2.1\13TriFunction.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\13TriFunction\obj\Debug\netcoreapp2.1\13TriFunction.pdb

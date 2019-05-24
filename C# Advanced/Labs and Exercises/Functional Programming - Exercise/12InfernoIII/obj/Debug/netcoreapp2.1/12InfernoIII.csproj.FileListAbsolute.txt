@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\bin\Debug\netcoreapp2.1\12InfernoIII.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\bin\Debug\netcoreapp2.1\12InfernoIII.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\bin\Debug\netcoreapp2.1\12InfernoIII.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\bin\Debug\netcoreapp2.1\12InfernoIII.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\bin\Debug\netcoreapp2.1\12InfernoIII.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\obj\Debug\netcoreapp2.1\12InfernoIII.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\obj\Debug\netcoreapp2.1\12InfernoIII.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\obj\Debug\netcoreapp2.1\12InfernoIII.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\obj\Debug\netcoreapp2.1\12InfernoIII.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\obj\Debug\netcoreapp2.1\12InfernoIII.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\12InfernoIII\obj\Debug\netcoreapp2.1\12InfernoIII.pdb

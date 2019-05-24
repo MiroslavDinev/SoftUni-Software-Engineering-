@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\bin\Debug\netcoreapp2.1\06ReverseAndExclude.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\bin\Debug\netcoreapp2.1\06ReverseAndExclude.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\bin\Debug\netcoreapp2.1\06ReverseAndExclude.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\bin\Debug\netcoreapp2.1\06ReverseAndExclude.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\bin\Debug\netcoreapp2.1\06ReverseAndExclude.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\obj\Debug\netcoreapp2.1\06ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\obj\Debug\netcoreapp2.1\06ReverseAndExclude.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\obj\Debug\netcoreapp2.1\06ReverseAndExclude.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\obj\Debug\netcoreapp2.1\06ReverseAndExclude.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\06ReverseAndExclude\obj\Debug\netcoreapp2.1\06ReverseAndExclude.pdb

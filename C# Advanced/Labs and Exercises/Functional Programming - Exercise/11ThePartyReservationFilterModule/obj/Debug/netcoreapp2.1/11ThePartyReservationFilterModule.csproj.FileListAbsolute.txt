@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\11ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11ThePartyReservationFilterModule.pdb

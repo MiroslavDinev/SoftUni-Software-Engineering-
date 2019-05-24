@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\bin\Debug\netcoreapp2.1\02KnightsOfHonor.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\bin\Debug\netcoreapp2.1\02KnightsOfHonor.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\bin\Debug\netcoreapp2.1\02KnightsOfHonor.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\bin\Debug\netcoreapp2.1\02KnightsOfHonor.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\bin\Debug\netcoreapp2.1\02KnightsOfHonor.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\obj\Debug\netcoreapp2.1\02KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\obj\Debug\netcoreapp2.1\02KnightsOfHonor.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\obj\Debug\netcoreapp2.1\02KnightsOfHonor.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\obj\Debug\netcoreapp2.1\02KnightsOfHonor.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\02KnightsOfHonor\obj\Debug\netcoreapp2.1\02KnightsOfHonor.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\bin\Debug\netcoreapp2.1\02SumNumbers.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\bin\Debug\netcoreapp2.1\02SumNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\bin\Debug\netcoreapp2.1\02SumNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\bin\Debug\netcoreapp2.1\02SumNumbers.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\bin\Debug\netcoreapp2.1\02SumNumbers.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\obj\Debug\netcoreapp2.1\02SumNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\obj\Debug\netcoreapp2.1\02SumNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\obj\Debug\netcoreapp2.1\02SumNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\obj\Debug\netcoreapp2.1\02SumNumbers.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Lab\02SumNumbers\obj\Debug\netcoreapp2.1\02SumNumbers.pdb

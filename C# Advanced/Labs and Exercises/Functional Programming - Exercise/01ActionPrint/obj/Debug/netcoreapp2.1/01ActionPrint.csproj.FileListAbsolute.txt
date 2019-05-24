@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\bin\Debug\netcoreapp2.1\01ActionPrint.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\bin\Debug\netcoreapp2.1\01ActionPrint.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\bin\Debug\netcoreapp2.1\01ActionPrint.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\bin\Debug\netcoreapp2.1\01ActionPrint.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\bin\Debug\netcoreapp2.1\01ActionPrint.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\obj\Debug\netcoreapp2.1\01ActionPrint.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\obj\Debug\netcoreapp2.1\01ActionPrint.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\obj\Debug\netcoreapp2.1\01ActionPrint.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\obj\Debug\netcoreapp2.1\01ActionPrint.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\obj\Debug\netcoreapp2.1\01ActionPrint.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\01ActionPrint\obj\Debug\netcoreapp2.1\01ActionPrint.pdb

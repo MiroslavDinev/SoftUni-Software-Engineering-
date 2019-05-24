@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\bin\Debug\netcoreapp2.1\09ListOfPredicates.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\bin\Debug\netcoreapp2.1\09ListOfPredicates.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\bin\Debug\netcoreapp2.1\09ListOfPredicates.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\bin\Debug\netcoreapp2.1\09ListOfPredicates.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\bin\Debug\netcoreapp2.1\09ListOfPredicates.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\obj\Debug\netcoreapp2.1\09ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\obj\Debug\netcoreapp2.1\09ListOfPredicates.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\obj\Debug\netcoreapp2.1\09ListOfPredicates.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\obj\Debug\netcoreapp2.1\09ListOfPredicates.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\09ListOfPredicates\obj\Debug\netcoreapp2.1\09ListOfPredicates.pdb

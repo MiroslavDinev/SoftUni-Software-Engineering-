@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\bin\Debug\netcoreapp2.1\03CustomMinFunction.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\bin\Debug\netcoreapp2.1\03CustomMinFunction.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\bin\Debug\netcoreapp2.1\03CustomMinFunction.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\bin\Debug\netcoreapp2.1\03CustomMinFunction.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\bin\Debug\netcoreapp2.1\03CustomMinFunction.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\obj\Debug\netcoreapp2.1\03CustomMinFunction.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\obj\Debug\netcoreapp2.1\03CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\obj\Debug\netcoreapp2.1\03CustomMinFunction.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\obj\Debug\netcoreapp2.1\03CustomMinFunction.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\obj\Debug\netcoreapp2.1\03CustomMinFunction.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\03CustomMinFunction\obj\Debug\netcoreapp2.1\03CustomMinFunction.pdb

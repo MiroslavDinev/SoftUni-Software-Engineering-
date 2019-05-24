@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\bin\Debug\netcoreapp2.1\04FindEvensOrOdds.deps.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\bin\Debug\netcoreapp2.1\04FindEvensOrOdds.runtimeconfig.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\bin\Debug\netcoreapp2.1\04FindEvensOrOdds.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\bin\Debug\netcoreapp2.1\04FindEvensOrOdds.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\bin\Debug\netcoreapp2.1\04FindEvensOrOdds.pdb
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\obj\Debug\netcoreapp2.1\04FindEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\obj\Debug\netcoreapp2.1\04FindEvensOrOdds.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\obj\Debug\netcoreapp2.1\04FindEvensOrOdds.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\obj\Debug\netcoreapp2.1\04FindEvensOrOdds.dll
+D:\Users\DINEV\source\repos\FunctionalProgramming-Exercise\04FindEvensOrOdds\obj\Debug\netcoreapp2.1\04FindEvensOrOdds.pdb
