@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\bin\Debug\netcoreapp2.1\02LibraryIterator.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\bin\Debug\netcoreapp2.1\02LibraryIterator.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\bin\Debug\netcoreapp2.1\02LibraryIterator.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\bin\Debug\netcoreapp2.1\02LibraryIterator.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\bin\Debug\netcoreapp2.1\02LibraryIterator.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\obj\Debug\netcoreapp2.1\02LibraryIterator.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\obj\Debug\netcoreapp2.1\02LibraryIterator.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\obj\Debug\netcoreapp2.1\02LibraryIterator.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\obj\Debug\netcoreapp2.1\02LibraryIterator.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\obj\Debug\netcoreapp2.1\02LibraryIterator.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\02LibraryIterator\obj\Debug\netcoreapp2.1\02LibraryIterator.pdb

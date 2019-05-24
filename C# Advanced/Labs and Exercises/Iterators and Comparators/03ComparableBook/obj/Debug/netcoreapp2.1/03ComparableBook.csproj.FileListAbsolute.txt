@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\bin\Debug\netcoreapp2.1\03ComparableBook.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\bin\Debug\netcoreapp2.1\03ComparableBook.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\bin\Debug\netcoreapp2.1\03ComparableBook.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\bin\Debug\netcoreapp2.1\03ComparableBook.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\bin\Debug\netcoreapp2.1\03ComparableBook.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\obj\Debug\netcoreapp2.1\03ComparableBook.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\obj\Debug\netcoreapp2.1\03ComparableBook.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\obj\Debug\netcoreapp2.1\03ComparableBook.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\obj\Debug\netcoreapp2.1\03ComparableBook.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\obj\Debug\netcoreapp2.1\03ComparableBook.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\03ComparableBook\obj\Debug\netcoreapp2.1\03ComparableBook.pdb

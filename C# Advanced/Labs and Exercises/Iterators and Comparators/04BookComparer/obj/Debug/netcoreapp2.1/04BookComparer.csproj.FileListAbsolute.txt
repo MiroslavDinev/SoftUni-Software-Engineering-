@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\bin\Debug\netcoreapp2.1\04BookComparer.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\bin\Debug\netcoreapp2.1\04BookComparer.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\bin\Debug\netcoreapp2.1\04BookComparer.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\bin\Debug\netcoreapp2.1\04BookComparer.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\bin\Debug\netcoreapp2.1\04BookComparer.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\obj\Debug\netcoreapp2.1\04BookComparer.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\obj\Debug\netcoreapp2.1\04BookComparer.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\obj\Debug\netcoreapp2.1\04BookComparer.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\obj\Debug\netcoreapp2.1\04BookComparer.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Lab\04BookComparer\obj\Debug\netcoreapp2.1\04BookComparer.pdb
