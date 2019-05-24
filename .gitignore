@@ -3,3 +3,6 @@
 *.cache
 *.config
 *.dll
+*.json
+*.props
+*.targets

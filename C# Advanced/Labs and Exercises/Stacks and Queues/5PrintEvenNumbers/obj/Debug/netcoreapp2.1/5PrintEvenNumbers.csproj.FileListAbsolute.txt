@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\bin\Debug\netcoreapp2.1\5PrintEvenNumbers.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\bin\Debug\netcoreapp2.1\5PrintEvenNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\bin\Debug\netcoreapp2.1\5PrintEvenNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\bin\Debug\netcoreapp2.1\5PrintEvenNumbers.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\bin\Debug\netcoreapp2.1\5PrintEvenNumbers.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\obj\Debug\netcoreapp2.1\5PrintEvenNumbers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\obj\Debug\netcoreapp2.1\5PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\obj\Debug\netcoreapp2.1\5PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\obj\Debug\netcoreapp2.1\5PrintEvenNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\obj\Debug\netcoreapp2.1\5PrintEvenNumbers.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\5PrintEvenNumbers\obj\Debug\netcoreapp2.1\5PrintEvenNumbers.pdb

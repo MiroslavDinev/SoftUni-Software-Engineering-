@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\bin\Debug\netcoreapp2.1\2StackSum.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\bin\Debug\netcoreapp2.1\2StackSum.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\bin\Debug\netcoreapp2.1\2StackSum.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\bin\Debug\netcoreapp2.1\2StackSum.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\bin\Debug\netcoreapp2.1\2StackSum.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\obj\Debug\netcoreapp2.1\2StackSum.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\obj\Debug\netcoreapp2.1\2StackSum.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\obj\Debug\netcoreapp2.1\2StackSum.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\obj\Debug\netcoreapp2.1\2StackSum.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\2StackSum\obj\Debug\netcoreapp2.1\2StackSum.pdb

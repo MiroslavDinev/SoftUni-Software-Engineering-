@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\bin\Debug\netcoreapp2.1\6Supermarket.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\bin\Debug\netcoreapp2.1\6Supermarket.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\bin\Debug\netcoreapp2.1\6Supermarket.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\bin\Debug\netcoreapp2.1\6Supermarket.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\bin\Debug\netcoreapp2.1\6Supermarket.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\obj\Debug\netcoreapp2.1\6Supermarket.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\obj\Debug\netcoreapp2.1\6Supermarket.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\obj\Debug\netcoreapp2.1\6Supermarket.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\obj\Debug\netcoreapp2.1\6Supermarket.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\6Supermarket\obj\Debug\netcoreapp2.1\6Supermarket.pdb

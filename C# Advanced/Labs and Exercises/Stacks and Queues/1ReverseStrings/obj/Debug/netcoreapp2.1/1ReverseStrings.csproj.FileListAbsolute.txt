@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\bin\Debug\netcoreapp2.1\1ReverseStrings.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\1ReverseStrings\obj\Debug\netcoreapp2.1\1ReverseStrings.pdb

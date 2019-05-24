@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\bin\Debug\netcoreapp2.1\3SimpleCalculator.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\bin\Debug\netcoreapp2.1\3SimpleCalculator.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\bin\Debug\netcoreapp2.1\3SimpleCalculator.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\bin\Debug\netcoreapp2.1\3SimpleCalculator.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\bin\Debug\netcoreapp2.1\3SimpleCalculator.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\obj\Debug\netcoreapp2.1\3SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\obj\Debug\netcoreapp2.1\3SimpleCalculator.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\obj\Debug\netcoreapp2.1\3SimpleCalculator.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\obj\Debug\netcoreapp2.1\3SimpleCalculator.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\3SimpleCalculator\obj\Debug\netcoreapp2.1\3SimpleCalculator.pdb

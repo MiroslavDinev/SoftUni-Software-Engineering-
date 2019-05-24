@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\bin\Debug\netcoreapp2.1\7TrafficJam.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\bin\Debug\netcoreapp2.1\7TrafficJam.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\bin\Debug\netcoreapp2.1\7TrafficJam.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\bin\Debug\netcoreapp2.1\7TrafficJam.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\bin\Debug\netcoreapp2.1\7TrafficJam.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\obj\Debug\netcoreapp2.1\7TrafficJam.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\obj\Debug\netcoreapp2.1\7TrafficJam.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\obj\Debug\netcoreapp2.1\7TrafficJam.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\obj\Debug\netcoreapp2.1\7TrafficJam.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\7TrafficJam\obj\Debug\netcoreapp2.1\7TrafficJam.pdb

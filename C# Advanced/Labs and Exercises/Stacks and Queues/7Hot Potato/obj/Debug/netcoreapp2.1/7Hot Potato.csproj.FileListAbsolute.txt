@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\bin\Debug\netcoreapp2.1\7Hot Potato.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\bin\Debug\netcoreapp2.1\7Hot Potato.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\bin\Debug\netcoreapp2.1\7Hot Potato.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\bin\Debug\netcoreapp2.1\7Hot Potato.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\bin\Debug\netcoreapp2.1\7Hot Potato.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\obj\Debug\netcoreapp2.1\7Hot Potato.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\obj\Debug\netcoreapp2.1\7Hot Potato.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\obj\Debug\netcoreapp2.1\7Hot Potato.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\obj\Debug\netcoreapp2.1\7Hot Potato.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\obj\Debug\netcoreapp2.1\7Hot Potato.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\7Hot Potato\obj\Debug\netcoreapp2.1\7Hot Potato.pdb

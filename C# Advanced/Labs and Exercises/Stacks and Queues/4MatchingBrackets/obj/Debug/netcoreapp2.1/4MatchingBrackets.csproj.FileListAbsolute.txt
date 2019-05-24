@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.deps.json
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.runtimeconfig.json
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\bin\Debug\netcoreapp2.1\4MatchingBrackets.pdb
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.dll
+D:\Users\DINEV\source\repos\StacksAndQueues\4MatchingBrackets\obj\Debug\netcoreapp2.1\4MatchingBrackets.pdb
