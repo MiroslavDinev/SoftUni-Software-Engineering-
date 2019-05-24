@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\obj\Debug\netcoreapp2.1\06Wardrobe.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\obj\Debug\netcoreapp2.1\06Wardrobe.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\obj\Debug\netcoreapp2.1\06Wardrobe.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\bin\Debug\netcoreapp2.1\06Wardrobe.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\bin\Debug\netcoreapp2.1\06Wardrobe.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\bin\Debug\netcoreapp2.1\06Wardrobe.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\bin\Debug\netcoreapp2.1\06Wardrobe.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\bin\Debug\netcoreapp2.1\06Wardrobe.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\obj\Debug\netcoreapp2.1\06Wardrobe.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\06Wardrobe\obj\Debug\netcoreapp2.1\06Wardrobe.pdb

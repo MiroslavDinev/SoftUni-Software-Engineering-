@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\bin\Debug\netcoreapp2.1\08Ranking.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\bin\Debug\netcoreapp2.1\08Ranking.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\bin\Debug\netcoreapp2.1\08Ranking.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\bin\Debug\netcoreapp2.1\08Ranking.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\bin\Debug\netcoreapp2.1\08Ranking.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\obj\Debug\netcoreapp2.1\08Ranking.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\obj\Debug\netcoreapp2.1\08Ranking.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\obj\Debug\netcoreapp2.1\08Ranking.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\obj\Debug\netcoreapp2.1\08Ranking.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\obj\Debug\netcoreapp2.1\08Ranking.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\08Ranking\obj\Debug\netcoreapp2.1\08Ranking.pdb

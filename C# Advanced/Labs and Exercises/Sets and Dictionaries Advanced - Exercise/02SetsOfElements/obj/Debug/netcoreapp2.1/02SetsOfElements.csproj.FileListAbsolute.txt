@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\bin\Debug\netcoreapp2.1\02SetsOfElements.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\bin\Debug\netcoreapp2.1\02SetsOfElements.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\bin\Debug\netcoreapp2.1\02SetsOfElements.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\bin\Debug\netcoreapp2.1\02SetsOfElements.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\bin\Debug\netcoreapp2.1\02SetsOfElements.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\obj\Debug\netcoreapp2.1\02SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\obj\Debug\netcoreapp2.1\02SetsOfElements.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\obj\Debug\netcoreapp2.1\02SetsOfElements.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\obj\Debug\netcoreapp2.1\02SetsOfElements.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\02SetsOfElements\obj\Debug\netcoreapp2.1\02SetsOfElements.pdb

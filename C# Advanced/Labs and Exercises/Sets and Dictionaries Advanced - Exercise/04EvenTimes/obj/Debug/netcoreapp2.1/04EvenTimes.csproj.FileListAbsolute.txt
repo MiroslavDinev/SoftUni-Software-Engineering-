@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\bin\Debug\netcoreapp2.1\04EvenTimes.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\bin\Debug\netcoreapp2.1\04EvenTimes.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\bin\Debug\netcoreapp2.1\04EvenTimes.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\bin\Debug\netcoreapp2.1\04EvenTimes.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\bin\Debug\netcoreapp2.1\04EvenTimes.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\obj\Debug\netcoreapp2.1\04EvenTimes.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\obj\Debug\netcoreapp2.1\04EvenTimes.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\obj\Debug\netcoreapp2.1\04EvenTimes.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\obj\Debug\netcoreapp2.1\04EvenTimes.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\04EvenTimes\obj\Debug\netcoreapp2.1\04EvenTimes.pdb

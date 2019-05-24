@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\bin\Debug\netcoreapp2.1\07TheV-Logger.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\bin\Debug\netcoreapp2.1\07TheV-Logger.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\bin\Debug\netcoreapp2.1\07TheV-Logger.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\bin\Debug\netcoreapp2.1\07TheV-Logger.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\bin\Debug\netcoreapp2.1\07TheV-Logger.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\obj\Debug\netcoreapp2.1\07TheV-Logger.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\obj\Debug\netcoreapp2.1\07TheV-Logger.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\obj\Debug\netcoreapp2.1\07TheV-Logger.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\obj\Debug\netcoreapp2.1\07TheV-Logger.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\obj\Debug\netcoreapp2.1\07TheV-Logger.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\07TheV-Logger\obj\Debug\netcoreapp2.1\07TheV-Logger.pdb

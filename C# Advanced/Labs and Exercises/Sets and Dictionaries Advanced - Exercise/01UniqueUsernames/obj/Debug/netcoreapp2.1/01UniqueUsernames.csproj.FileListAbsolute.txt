@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\bin\Debug\netcoreapp2.1\01UniqueUsernames.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\bin\Debug\netcoreapp2.1\01UniqueUsernames.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\bin\Debug\netcoreapp2.1\01UniqueUsernames.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\bin\Debug\netcoreapp2.1\01UniqueUsernames.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\bin\Debug\netcoreapp2.1\01UniqueUsernames.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\obj\Debug\netcoreapp2.1\01UniqueUsernames.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\obj\Debug\netcoreapp2.1\01UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\obj\Debug\netcoreapp2.1\01UniqueUsernames.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\obj\Debug\netcoreapp2.1\01UniqueUsernames.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\obj\Debug\netcoreapp2.1\01UniqueUsernames.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\01UniqueUsernames\obj\Debug\netcoreapp2.1\01UniqueUsernames.pdb

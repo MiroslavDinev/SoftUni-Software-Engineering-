@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\bin\Debug\netcoreapp2.1\03PeriodicTable.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\bin\Debug\netcoreapp2.1\03PeriodicTable.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\bin\Debug\netcoreapp2.1\03PeriodicTable.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\bin\Debug\netcoreapp2.1\03PeriodicTable.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\bin\Debug\netcoreapp2.1\03PeriodicTable.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\obj\Debug\netcoreapp2.1\03PeriodicTable.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\obj\Debug\netcoreapp2.1\03PeriodicTable.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\obj\Debug\netcoreapp2.1\03PeriodicTable.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\obj\Debug\netcoreapp2.1\03PeriodicTable.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Exercise\03PeriodicTable\obj\Debug\netcoreapp2.1\03PeriodicTable.pdb
