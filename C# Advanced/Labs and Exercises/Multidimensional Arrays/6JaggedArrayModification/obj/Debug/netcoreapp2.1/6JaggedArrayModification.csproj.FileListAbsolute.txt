@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\bin\Debug\netcoreapp2.1\6JaggedArrayModification.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\6JaggedArrayModification\obj\Debug\netcoreapp2.1\6JaggedArrayModification.pdb

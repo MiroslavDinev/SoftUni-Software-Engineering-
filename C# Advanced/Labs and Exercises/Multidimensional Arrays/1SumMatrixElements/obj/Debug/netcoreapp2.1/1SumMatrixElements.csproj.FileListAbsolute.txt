@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\bin\Debug\netcoreapp2.1\1SumMatrixElements.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\1SumMatrixElements\obj\Debug\netcoreapp2.1\1SumMatrixElements.pdb

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\bin\Debug\netcoreapp2.1\4SymbolInMatrix.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Lab\4SymbolInMatrix\obj\Debug\netcoreapp2.1\4SymbolInMatrix.pdb
