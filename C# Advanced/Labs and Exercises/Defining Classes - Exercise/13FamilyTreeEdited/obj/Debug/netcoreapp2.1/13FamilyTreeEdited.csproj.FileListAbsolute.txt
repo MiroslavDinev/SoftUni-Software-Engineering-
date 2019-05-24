@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\bin\Debug\netcoreapp2.1\13FamilyTreeEdited.deps.json
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\bin\Debug\netcoreapp2.1\13FamilyTreeEdited.runtimeconfig.json
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\bin\Debug\netcoreapp2.1\13FamilyTreeEdited.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\bin\Debug\netcoreapp2.1\13FamilyTreeEdited.dll
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\bin\Debug\netcoreapp2.1\13FamilyTreeEdited.pdb
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\obj\Debug\netcoreapp2.1\13FamilyTreeEdited.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\obj\Debug\netcoreapp2.1\13FamilyTreeEdited.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\obj\Debug\netcoreapp2.1\13FamilyTreeEdited.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\obj\Debug\netcoreapp2.1\13FamilyTreeEdited.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\obj\Debug\netcoreapp2.1\13FamilyTreeEdited.dll
+D:\Users\ADMIN\source\repos\DefiningClasses\13FamilyTreeEdited\obj\Debug\netcoreapp2.1\13FamilyTreeEdited.pdb

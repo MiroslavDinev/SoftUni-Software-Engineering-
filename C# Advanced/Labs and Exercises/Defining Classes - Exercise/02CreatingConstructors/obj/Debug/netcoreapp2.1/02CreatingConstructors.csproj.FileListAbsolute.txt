@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\bin\Debug\netcoreapp2.1\02CreatingConstructors.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\bin\Debug\netcoreapp2.1\02CreatingConstructors.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\bin\Debug\netcoreapp2.1\02CreatingConstructors.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\bin\Debug\netcoreapp2.1\02CreatingConstructors.dll
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\bin\Debug\netcoreapp2.1\02CreatingConstructors.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\obj\Debug\netcoreapp2.1\02CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\obj\Debug\netcoreapp2.1\02CreatingConstructors.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\obj\Debug\netcoreapp2.1\02CreatingConstructors.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\obj\Debug\netcoreapp2.1\02CreatingConstructors.dll
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\obj\Debug\netcoreapp2.1\02CreatingConstructors.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\02CreatingConstructors\obj\Debug\netcoreapp2.1\02CreatingConstructors.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\DefiningClasses.pdb

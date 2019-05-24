@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.1\05DateModifier.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.1\05DateModifier.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.1\05DateModifier.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.1\05DateModifier.dll
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.1\05DateModifier.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.1\05DateModifier.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.1\05DateModifier.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.1\05DateModifier.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.1\05DateModifier.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.1\05DateModifier.dll
+D:\Users\DINEV\source\repos\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.1\05DateModifier.pdb

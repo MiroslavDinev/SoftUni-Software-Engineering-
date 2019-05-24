@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\bin\Debug\netcoreapp2.1\07SpeedRacing.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\bin\Debug\netcoreapp2.1\07SpeedRacing.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\bin\Debug\netcoreapp2.1\07SpeedRacing.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\bin\Debug\netcoreapp2.1\07SpeedRacing.dll
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\bin\Debug\netcoreapp2.1\07SpeedRacing.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\obj\Debug\netcoreapp2.1\07SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\obj\Debug\netcoreapp2.1\07SpeedRacing.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\obj\Debug\netcoreapp2.1\07SpeedRacing.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\obj\Debug\netcoreapp2.1\07SpeedRacing.dll
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\obj\Debug\netcoreapp2.1\07SpeedRacing.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\07SpeedRacing\obj\Debug\netcoreapp2.1\07SpeedRacing.csprojAssemblyReference.cache

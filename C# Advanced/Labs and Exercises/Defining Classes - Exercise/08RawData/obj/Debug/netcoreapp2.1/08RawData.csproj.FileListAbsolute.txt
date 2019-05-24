@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\bin\Debug\netcoreapp2.1\08RawData.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\bin\Debug\netcoreapp2.1\08RawData.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\bin\Debug\netcoreapp2.1\08RawData.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\bin\Debug\netcoreapp2.1\08RawData.dll
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\bin\Debug\netcoreapp2.1\08RawData.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\obj\Debug\netcoreapp2.1\08RawData.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\obj\Debug\netcoreapp2.1\08RawData.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\obj\Debug\netcoreapp2.1\08RawData.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\obj\Debug\netcoreapp2.1\08RawData.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\obj\Debug\netcoreapp2.1\08RawData.dll
+D:\Users\DINEV\source\repos\DefiningClasses\08RawData\obj\Debug\netcoreapp2.1\08RawData.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\bin\Debug\netcoreapp2.1\09RectangleIntersection.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\bin\Debug\netcoreapp2.1\09RectangleIntersection.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\bin\Debug\netcoreapp2.1\09RectangleIntersection.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\bin\Debug\netcoreapp2.1\09RectangleIntersection.dll
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\bin\Debug\netcoreapp2.1\09RectangleIntersection.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\obj\Debug\netcoreapp2.1\09RectangleIntersection.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\obj\Debug\netcoreapp2.1\09RectangleIntersection.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\obj\Debug\netcoreapp2.1\09RectangleIntersection.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\obj\Debug\netcoreapp2.1\09RectangleIntersection.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\obj\Debug\netcoreapp2.1\09RectangleIntersection.dll
+D:\Users\DINEV\source\repos\DefiningClasses\09RectangleIntersection\obj\Debug\netcoreapp2.1\09RectangleIntersection.pdb

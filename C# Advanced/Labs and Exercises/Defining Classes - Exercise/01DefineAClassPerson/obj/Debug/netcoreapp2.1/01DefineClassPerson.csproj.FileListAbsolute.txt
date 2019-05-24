@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\01DefineClassPerson.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\01DefineClassPerson.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\01DefineClassPerson.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\01DefineClassPerson.dll
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\bin\Debug\netcoreapp2.1\01DefineClassPerson.pdb
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\01DefineClassPerson.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\01DefineClassPerson.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\01DefineClassPerson.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\01DefineClassPerson.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\01DefineClassPerson.dll
+D:\Users\DINEV\source\repos\DefiningClasses\01DefineAClassPerson\obj\Debug\netcoreapp2.1\01DefineClassPerson.pdb
