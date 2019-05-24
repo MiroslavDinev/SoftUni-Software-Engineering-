@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\bin\Debug\netcoreapp2.1\05SpecialCars-AllInOne.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\bin\Debug\netcoreapp2.1\05SpecialCars-AllInOne.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\bin\Debug\netcoreapp2.1\05SpecialCars-AllInOne.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\bin\Debug\netcoreapp2.1\05SpecialCars-AllInOne.dll
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\bin\Debug\netcoreapp2.1\05SpecialCars-AllInOne.pdb
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\obj\Debug\netcoreapp2.1\05SpecialCars-AllInOne.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\obj\Debug\netcoreapp2.1\05SpecialCars-AllInOne.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\obj\Debug\netcoreapp2.1\05SpecialCars-AllInOne.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\obj\Debug\netcoreapp2.1\05SpecialCars-AllInOne.dll
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\05SpecialCars-AllInOne\obj\Debug\netcoreapp2.1\05SpecialCars-AllInOne.pdb

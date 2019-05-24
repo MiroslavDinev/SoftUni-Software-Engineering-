@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\bin\Debug\netcoreapp2.1\1Car.deps.json
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\bin\Debug\netcoreapp2.1\1Car.runtimeconfig.json
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\bin\Debug\netcoreapp2.1\1Car.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\bin\Debug\netcoreapp2.1\1Car.dll
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\bin\Debug\netcoreapp2.1\1Car.pdb
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\obj\Debug\netcoreapp2.1\1Car.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\obj\Debug\netcoreapp2.1\1Car.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\obj\Debug\netcoreapp2.1\1Car.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\obj\Debug\netcoreapp2.1\1Car.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\obj\Debug\netcoreapp2.1\1Car.dll
+D:\Users\DINEV\source\repos\DefiningClasses-Lab\1Car\obj\Debug\netcoreapp2.1\1Car.pdb
