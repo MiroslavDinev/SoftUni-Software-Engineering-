@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.deps.json
+D:\Users\ADMIN\source\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.runtimeconfig.json
+D:\Users\ADMIN\source\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.runtimeconfig.dev.json
+D:\Users\ADMIN\source\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.dll
+D:\Users\ADMIN\source\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.pdb
+D:\Users\ADMIN\source\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.AssemblyInfo.cs
+D:\Users\ADMIN\source\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.dll
+D:\Users\ADMIN\source\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.pdb

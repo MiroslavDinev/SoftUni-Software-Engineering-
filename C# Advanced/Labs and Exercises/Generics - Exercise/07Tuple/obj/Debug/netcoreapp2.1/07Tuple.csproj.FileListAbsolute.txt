@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.deps.json
+D:\Users\ADMIN\source\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.runtimeconfig.json
+D:\Users\ADMIN\source\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.runtimeconfig.dev.json
+D:\Users\ADMIN\source\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.dll
+D:\Users\ADMIN\source\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.pdb
+D:\Users\ADMIN\source\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.AssemblyInfo.cs
+D:\Users\ADMIN\source\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.dll
+D:\Users\ADMIN\source\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.pdb

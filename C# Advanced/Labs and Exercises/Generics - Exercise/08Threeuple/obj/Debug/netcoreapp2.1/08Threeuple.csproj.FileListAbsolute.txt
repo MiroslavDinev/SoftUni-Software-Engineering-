@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.deps.json
+D:\Users\ADMIN\source\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.runtimeconfig.json
+D:\Users\ADMIN\source\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.runtimeconfig.dev.json
+D:\Users\ADMIN\source\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.dll
+D:\Users\ADMIN\source\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.pdb
+D:\Users\ADMIN\source\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.AssemblyInfo.cs
+D:\Users\ADMIN\source\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.dll
+D:\Users\ADMIN\source\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.pdb
