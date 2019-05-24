@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\bin\Debug\netcoreapp2.1\7KnightGame.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\bin\Debug\netcoreapp2.1\7KnightGame.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\bin\Debug\netcoreapp2.1\7KnightGame.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\bin\Debug\netcoreapp2.1\7KnightGame.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\bin\Debug\netcoreapp2.1\7KnightGame.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\obj\Debug\netcoreapp2.1\7KnightGame.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\obj\Debug\netcoreapp2.1\7KnightGame.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\obj\Debug\netcoreapp2.1\7KnightGame.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\obj\Debug\netcoreapp2.1\7KnightGame.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\obj\Debug\netcoreapp2.1\7KnightGame.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\7KnightGame\obj\Debug\netcoreapp2.1\7KnightGame.csprojAssemblyReference.cache

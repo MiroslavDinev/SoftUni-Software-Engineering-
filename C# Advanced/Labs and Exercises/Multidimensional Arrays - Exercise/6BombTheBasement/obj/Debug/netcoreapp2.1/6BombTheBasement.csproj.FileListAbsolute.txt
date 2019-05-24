@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\bin\Debug\netcoreapp2.1\6BombTheBasement.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\bin\Debug\netcoreapp2.1\6BombTheBasement.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\bin\Debug\netcoreapp2.1\6BombTheBasement.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\bin\Debug\netcoreapp2.1\6BombTheBasement.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\bin\Debug\netcoreapp2.1\6BombTheBasement.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\obj\Debug\netcoreapp2.1\6BombTheBasement.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\obj\Debug\netcoreapp2.1\6BombTheBasement.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\obj\Debug\netcoreapp2.1\6BombTheBasement.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\obj\Debug\netcoreapp2.1\6BombTheBasement.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\obj\Debug\netcoreapp2.1\6BombTheBasement.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\6BombTheBasement\obj\Debug\netcoreapp2.1\6BombTheBasement.pdb

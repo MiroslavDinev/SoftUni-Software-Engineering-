@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\bin\Debug\netcoreapp2.1\2SquaresInMatrix.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\bin\Debug\netcoreapp2.1\2SquaresInMatrix.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\bin\Debug\netcoreapp2.1\2SquaresInMatrix.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\bin\Debug\netcoreapp2.1\2SquaresInMatrix.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\bin\Debug\netcoreapp2.1\2SquaresInMatrix.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\obj\Debug\netcoreapp2.1\2SquaresInMatrix.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\obj\Debug\netcoreapp2.1\2SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\obj\Debug\netcoreapp2.1\2SquaresInMatrix.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\obj\Debug\netcoreapp2.1\2SquaresInMatrix.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\obj\Debug\netcoreapp2.1\2SquaresInMatrix.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\2SquaresInMatrix\obj\Debug\netcoreapp2.1\2SquaresInMatrix.pdb

@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\bin\Debug\netcoreapp2.1\9Miner.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\bin\Debug\netcoreapp2.1\9Miner.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\bin\Debug\netcoreapp2.1\9Miner.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\bin\Debug\netcoreapp2.1\9Miner.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\bin\Debug\netcoreapp2.1\9Miner.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\obj\Debug\netcoreapp2.1\9Miner.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\obj\Debug\netcoreapp2.1\9Miner.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\obj\Debug\netcoreapp2.1\9Miner.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\obj\Debug\netcoreapp2.1\9Miner.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\obj\Debug\netcoreapp2.1\9Miner.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\9Miner\obj\Debug\netcoreapp2.1\9Miner.pdb

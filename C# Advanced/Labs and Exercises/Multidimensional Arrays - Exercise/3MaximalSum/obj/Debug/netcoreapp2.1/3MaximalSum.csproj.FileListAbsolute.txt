@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\bin\Debug\netcoreapp2.1\3MaximalSum.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\bin\Debug\netcoreapp2.1\3MaximalSum.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\bin\Debug\netcoreapp2.1\3MaximalSum.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\bin\Debug\netcoreapp2.1\3MaximalSum.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\bin\Debug\netcoreapp2.1\3MaximalSum.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\obj\Debug\netcoreapp2.1\3MaximalSum.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\obj\Debug\netcoreapp2.1\3MaximalSum.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\obj\Debug\netcoreapp2.1\3MaximalSum.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\obj\Debug\netcoreapp2.1\3MaximalSum.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\3MaximalSum\obj\Debug\netcoreapp2.1\3MaximalSum.pdb

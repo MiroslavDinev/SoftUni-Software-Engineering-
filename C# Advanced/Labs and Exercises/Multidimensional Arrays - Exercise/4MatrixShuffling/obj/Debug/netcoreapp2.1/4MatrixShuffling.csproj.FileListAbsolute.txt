@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\bin\Debug\netcoreapp2.1\4MatrixShuffling.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\bin\Debug\netcoreapp2.1\4MatrixShuffling.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\bin\Debug\netcoreapp2.1\4MatrixShuffling.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\bin\Debug\netcoreapp2.1\4MatrixShuffling.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\bin\Debug\netcoreapp2.1\4MatrixShuffling.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\obj\Debug\netcoreapp2.1\4MatrixShuffling.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\obj\Debug\netcoreapp2.1\4MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\obj\Debug\netcoreapp2.1\4MatrixShuffling.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\obj\Debug\netcoreapp2.1\4MatrixShuffling.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\obj\Debug\netcoreapp2.1\4MatrixShuffling.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\4MatrixShuffling\obj\Debug\netcoreapp2.1\4MatrixShuffling.pdb

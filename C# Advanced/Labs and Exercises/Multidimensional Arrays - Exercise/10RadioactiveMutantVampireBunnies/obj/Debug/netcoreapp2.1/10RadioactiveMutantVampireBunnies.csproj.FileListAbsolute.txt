@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\10RadioactiveMutantVampireBunnies.pdb

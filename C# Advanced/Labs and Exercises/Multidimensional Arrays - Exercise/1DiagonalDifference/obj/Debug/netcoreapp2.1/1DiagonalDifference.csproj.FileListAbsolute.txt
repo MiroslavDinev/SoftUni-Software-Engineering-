@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\bin\Debug\netcoreapp2.1\1DiagonalDifference.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\bin\Debug\netcoreapp2.1\1DiagonalDifference.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\bin\Debug\netcoreapp2.1\1DiagonalDifference.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\bin\Debug\netcoreapp2.1\1DiagonalDifference.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\bin\Debug\netcoreapp2.1\1DiagonalDifference.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\obj\Debug\netcoreapp2.1\1DiagonalDifference.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\obj\Debug\netcoreapp2.1\1DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\obj\Debug\netcoreapp2.1\1DiagonalDifference.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\obj\Debug\netcoreapp2.1\1DiagonalDifference.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\obj\Debug\netcoreapp2.1\1DiagonalDifference.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\1DiagonalDifference\obj\Debug\netcoreapp2.1\1DiagonalDifference.pdb

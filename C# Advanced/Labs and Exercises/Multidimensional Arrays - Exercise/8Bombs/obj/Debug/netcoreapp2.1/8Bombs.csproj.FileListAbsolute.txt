@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\bin\Debug\netcoreapp2.1\8Bombs.deps.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\bin\Debug\netcoreapp2.1\8Bombs.runtimeconfig.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\bin\Debug\netcoreapp2.1\8Bombs.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\bin\Debug\netcoreapp2.1\8Bombs.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\bin\Debug\netcoreapp2.1\8Bombs.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\obj\Debug\netcoreapp2.1\8Bombs.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\obj\Debug\netcoreapp2.1\8Bombs.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\obj\Debug\netcoreapp2.1\8Bombs.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\obj\Debug\netcoreapp2.1\8Bombs.dll
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\obj\Debug\netcoreapp2.1\8Bombs.pdb
+D:\Users\DINEV\source\repos\MultidimensionalArrays-Exercise\8Bombs\obj\Debug\netcoreapp2.1\8Bombs.csprojAssemblyReference.cache
