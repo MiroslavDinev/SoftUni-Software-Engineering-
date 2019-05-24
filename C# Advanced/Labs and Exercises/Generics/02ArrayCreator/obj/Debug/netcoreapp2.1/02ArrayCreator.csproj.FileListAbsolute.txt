@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\02ArrayCreator\bin\Debug\netcoreapp2.1\02ArrayCreator.deps.json
+D:\Users\ADMIN\source\repos\02ArrayCreator\bin\Debug\netcoreapp2.1\02ArrayCreator.runtimeconfig.json
+D:\Users\ADMIN\source\repos\02ArrayCreator\bin\Debug\netcoreapp2.1\02ArrayCreator.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\02ArrayCreator\bin\Debug\netcoreapp2.1\02ArrayCreator.dll
+D:\Users\ADMIN\source\repos\02ArrayCreator\bin\Debug\netcoreapp2.1\02ArrayCreator.pdb
+D:\Users\ADMIN\source\repos\02ArrayCreator\obj\Debug\netcoreapp2.1\02ArrayCreator.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\02ArrayCreator\obj\Debug\netcoreapp2.1\02ArrayCreator.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\02ArrayCreator\obj\Debug\netcoreapp2.1\02ArrayCreator.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\02ArrayCreator\obj\Debug\netcoreapp2.1\02ArrayCreator.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\02ArrayCreator\obj\Debug\netcoreapp2.1\02ArrayCreator.dll
+D:\Users\ADMIN\source\repos\02ArrayCreator\obj\Debug\netcoreapp2.1\02ArrayCreator.pdb

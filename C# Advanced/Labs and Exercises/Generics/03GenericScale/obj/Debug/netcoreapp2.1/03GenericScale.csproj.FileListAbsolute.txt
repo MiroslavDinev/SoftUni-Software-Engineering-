@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\03GenericScale\bin\Debug\netcoreapp2.1\03GenericScale.deps.json
+D:\Users\ADMIN\source\repos\03GenericScale\bin\Debug\netcoreapp2.1\03GenericScale.runtimeconfig.json
+D:\Users\ADMIN\source\repos\03GenericScale\bin\Debug\netcoreapp2.1\03GenericScale.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\03GenericScale\bin\Debug\netcoreapp2.1\03GenericScale.dll
+D:\Users\ADMIN\source\repos\03GenericScale\bin\Debug\netcoreapp2.1\03GenericScale.pdb
+D:\Users\ADMIN\source\repos\03GenericScale\obj\Debug\netcoreapp2.1\03GenericScale.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\03GenericScale\obj\Debug\netcoreapp2.1\03GenericScale.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\03GenericScale\obj\Debug\netcoreapp2.1\03GenericScale.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\03GenericScale\obj\Debug\netcoreapp2.1\03GenericScale.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\03GenericScale\obj\Debug\netcoreapp2.1\03GenericScale.dll
+D:\Users\ADMIN\source\repos\03GenericScale\obj\Debug\netcoreapp2.1\03GenericScale.pdb
