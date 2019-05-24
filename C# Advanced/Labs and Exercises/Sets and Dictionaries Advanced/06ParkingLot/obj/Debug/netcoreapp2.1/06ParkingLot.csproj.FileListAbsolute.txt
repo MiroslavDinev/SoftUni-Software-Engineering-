@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\bin\Debug\netcoreapp2.1\06ParkingLot.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\bin\Debug\netcoreapp2.1\06ParkingLot.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\bin\Debug\netcoreapp2.1\06ParkingLot.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\bin\Debug\netcoreapp2.1\06ParkingLot.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\bin\Debug\netcoreapp2.1\06ParkingLot.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\obj\Debug\netcoreapp2.1\06ParkingLot.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\obj\Debug\netcoreapp2.1\06ParkingLot.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\obj\Debug\netcoreapp2.1\06ParkingLot.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\obj\Debug\netcoreapp2.1\06ParkingLot.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\06ParkingLot\obj\Debug\netcoreapp2.1\06ParkingLot.pdb

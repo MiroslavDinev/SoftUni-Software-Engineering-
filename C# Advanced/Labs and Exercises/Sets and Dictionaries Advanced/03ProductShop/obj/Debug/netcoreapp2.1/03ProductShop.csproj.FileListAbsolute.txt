@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\bin\Debug\netcoreapp2.1\03ProductShop.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\bin\Debug\netcoreapp2.1\03ProductShop.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\bin\Debug\netcoreapp2.1\03ProductShop.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\bin\Debug\netcoreapp2.1\03ProductShop.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\bin\Debug\netcoreapp2.1\03ProductShop.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\obj\Debug\netcoreapp2.1\03ProductShop.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\obj\Debug\netcoreapp2.1\03ProductShop.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\obj\Debug\netcoreapp2.1\03ProductShop.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\obj\Debug\netcoreapp2.1\03ProductShop.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\obj\Debug\netcoreapp2.1\03ProductShop.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\03ProductShop\obj\Debug\netcoreapp2.1\03ProductShop.pdb

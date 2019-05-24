@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\bin\Debug\netcoreapp2.1\07SoftUniParty.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\bin\Debug\netcoreapp2.1\07SoftUniParty.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\bin\Debug\netcoreapp2.1\07SoftUniParty.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\bin\Debug\netcoreapp2.1\07SoftUniParty.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\bin\Debug\netcoreapp2.1\07SoftUniParty.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\obj\Debug\netcoreapp2.1\07SoftUniParty.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\obj\Debug\netcoreapp2.1\07SoftUniParty.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\obj\Debug\netcoreapp2.1\07SoftUniParty.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\obj\Debug\netcoreapp2.1\07SoftUniParty.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\07SoftUniParty\obj\Debug\netcoreapp2.1\07SoftUniParty.pdb

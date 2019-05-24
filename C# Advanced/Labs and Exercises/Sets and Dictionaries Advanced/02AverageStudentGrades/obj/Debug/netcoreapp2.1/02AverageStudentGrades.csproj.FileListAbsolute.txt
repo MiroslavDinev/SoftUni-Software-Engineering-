@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\bin\Debug\netcoreapp2.1\02AverageStudentGrades.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\bin\Debug\netcoreapp2.1\02AverageStudentGrades.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\bin\Debug\netcoreapp2.1\02AverageStudentGrades.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\bin\Debug\netcoreapp2.1\02AverageStudentGrades.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\bin\Debug\netcoreapp2.1\02AverageStudentGrades.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\obj\Debug\netcoreapp2.1\02AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\obj\Debug\netcoreapp2.1\02AverageStudentGrades.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\obj\Debug\netcoreapp2.1\02AverageStudentGrades.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\obj\Debug\netcoreapp2.1\02AverageStudentGrades.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\02AverageStudentGrades\obj\Debug\netcoreapp2.1\02AverageStudentGrades.pdb

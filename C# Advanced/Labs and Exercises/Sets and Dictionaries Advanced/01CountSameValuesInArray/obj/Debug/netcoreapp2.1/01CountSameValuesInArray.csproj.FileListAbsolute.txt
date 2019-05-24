@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\bin\Debug\netcoreapp2.1\01CountSameValuesInArray.deps.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\bin\Debug\netcoreapp2.1\01CountSameValuesInArray.runtimeconfig.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\bin\Debug\netcoreapp2.1\01CountSameValuesInArray.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\bin\Debug\netcoreapp2.1\01CountSameValuesInArray.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\bin\Debug\netcoreapp2.1\01CountSameValuesInArray.pdb
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\obj\Debug\netcoreapp2.1\01CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\obj\Debug\netcoreapp2.1\01CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\obj\Debug\netcoreapp2.1\01CountSameValuesInArray.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\obj\Debug\netcoreapp2.1\01CountSameValuesInArray.dll
+D:\Users\DINEV\source\repos\SetsAndDictionariesAdvanced-Lab\01CountSameValuesInArray\obj\Debug\netcoreapp2.1\01CountSameValuesInArray.pdb
