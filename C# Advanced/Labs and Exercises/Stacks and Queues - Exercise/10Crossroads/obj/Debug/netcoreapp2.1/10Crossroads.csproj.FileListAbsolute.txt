@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\bin\Debug\netcoreapp2.1\10Crossroads.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\bin\Debug\netcoreapp2.1\10Crossroads.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\bin\Debug\netcoreapp2.1\10Crossroads.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\bin\Debug\netcoreapp2.1\10Crossroads.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\bin\Debug\netcoreapp2.1\10Crossroads.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\obj\Debug\netcoreapp2.1\10Crossroads.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\obj\Debug\netcoreapp2.1\10Crossroads.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\obj\Debug\netcoreapp2.1\10Crossroads.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\obj\Debug\netcoreapp2.1\10Crossroads.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\obj\Debug\netcoreapp2.1\10Crossroads.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\10Crossroads\obj\Debug\netcoreapp2.1\10Crossroads.pdb

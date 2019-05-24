@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\bin\Debug\netcoreapp2.1\12CupsAndBottles.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\bin\Debug\netcoreapp2.1\12CupsAndBottles.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\bin\Debug\netcoreapp2.1\12CupsAndBottles.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\bin\Debug\netcoreapp2.1\12CupsAndBottles.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\bin\Debug\netcoreapp2.1\12CupsAndBottles.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\obj\Debug\netcoreapp2.1\12CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\obj\Debug\netcoreapp2.1\12CupsAndBottles.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\obj\Debug\netcoreapp2.1\12CupsAndBottles.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\obj\Debug\netcoreapp2.1\12CupsAndBottles.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\12CupsAndBottles\obj\Debug\netcoreapp2.1\12CupsAndBottles.pdb

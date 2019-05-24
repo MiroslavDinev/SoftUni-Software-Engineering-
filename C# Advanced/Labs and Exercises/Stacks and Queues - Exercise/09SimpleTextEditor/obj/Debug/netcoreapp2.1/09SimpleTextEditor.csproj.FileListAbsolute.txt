@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp2.1\09SimpleTextEditor.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp2.1\09SimpleTextEditor.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp2.1\09SimpleTextEditor.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp2.1\09SimpleTextEditor.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp2.1\09SimpleTextEditor.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp2.1\09SimpleTextEditor.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp2.1\09SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp2.1\09SimpleTextEditor.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp2.1\09SimpleTextEditor.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp2.1\09SimpleTextEditor.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp2.1\09SimpleTextEditor.pdb

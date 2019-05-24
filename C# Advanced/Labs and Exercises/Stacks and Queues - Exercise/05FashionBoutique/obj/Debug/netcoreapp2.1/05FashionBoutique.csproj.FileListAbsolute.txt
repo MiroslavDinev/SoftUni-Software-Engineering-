@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp2.1\05FashionBoutique.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp2.1\05FashionBoutique.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp2.1\05FashionBoutique.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp2.1\05FashionBoutique.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp2.1\05FashionBoutique.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp2.1\05FashionBoutique.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp2.1\05FashionBoutique.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp2.1\05FashionBoutique.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp2.1\05FashionBoutique.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp2.1\05FashionBoutique.pdb

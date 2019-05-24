@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.pdb

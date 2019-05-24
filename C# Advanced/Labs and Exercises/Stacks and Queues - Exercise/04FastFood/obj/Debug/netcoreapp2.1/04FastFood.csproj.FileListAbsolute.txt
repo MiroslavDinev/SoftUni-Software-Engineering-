@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.csprojAssemblyReference.cache

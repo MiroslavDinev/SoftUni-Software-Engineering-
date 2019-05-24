@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp2.1\07TruckTour.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp2.1\07TruckTour.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp2.1\07TruckTour.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp2.1\07TruckTour.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\bin\Debug\netcoreapp2.1\07TruckTour.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp2.1\07TruckTour.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp2.1\07TruckTour.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp2.1\07TruckTour.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp2.1\07TruckTour.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp2.1\07TruckTour.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\07TruckTour\obj\Debug\netcoreapp2.1\07TruckTour.csprojAssemblyReference.cache

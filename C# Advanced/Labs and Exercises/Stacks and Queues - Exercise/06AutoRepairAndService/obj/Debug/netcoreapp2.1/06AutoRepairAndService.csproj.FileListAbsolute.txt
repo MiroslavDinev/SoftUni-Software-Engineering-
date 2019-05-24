@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.deps.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.runtimeconfig.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.pdb
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.dll
+D:\Users\DINEV\source\repos\StackAndQueuesExercise\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.pdb
