@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\bin\Debug\netcoreapp2.1\06FullDirectoryTraversal.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\bin\Debug\netcoreapp2.1\06FullDirectoryTraversal.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\bin\Debug\netcoreapp2.1\06FullDirectoryTraversal.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\bin\Debug\netcoreapp2.1\06FullDirectoryTraversal.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\bin\Debug\netcoreapp2.1\06FullDirectoryTraversal.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\obj\Debug\netcoreapp2.1\06FullDirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\obj\Debug\netcoreapp2.1\06FullDirectoryTraversal.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\obj\Debug\netcoreapp2.1\06FullDirectoryTraversal.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\obj\Debug\netcoreapp2.1\06FullDirectoryTraversal.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\06FullDirectoryTraversal\obj\Debug\netcoreapp2.1\06FullDirectoryTraversal.pdb

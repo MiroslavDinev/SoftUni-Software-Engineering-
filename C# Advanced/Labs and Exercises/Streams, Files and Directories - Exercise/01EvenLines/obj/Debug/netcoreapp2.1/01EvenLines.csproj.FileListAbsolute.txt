@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\bin\Debug\netcoreapp2.1\01EvenLines.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\bin\Debug\netcoreapp2.1\01EvenLines.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\bin\Debug\netcoreapp2.1\01EvenLines.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\bin\Debug\netcoreapp2.1\01EvenLines.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\bin\Debug\netcoreapp2.1\01EvenLines.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\obj\Debug\netcoreapp2.1\01EvenLines.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\obj\Debug\netcoreapp2.1\01EvenLines.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\obj\Debug\netcoreapp2.1\01EvenLines.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\obj\Debug\netcoreapp2.1\01EvenLines.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\obj\Debug\netcoreapp2.1\01EvenLines.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\01EvenLines\obj\Debug\netcoreapp2.1\01EvenLines.pdb

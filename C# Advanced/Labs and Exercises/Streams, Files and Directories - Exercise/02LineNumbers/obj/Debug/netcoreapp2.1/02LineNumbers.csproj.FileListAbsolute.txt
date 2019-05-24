@@ -1,0 +1,11 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\bin\Debug\netcoreapp2.1\02LineNumbers.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\bin\Debug\netcoreapp2.1\02LineNumbers.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\bin\Debug\netcoreapp2.1\02LineNumbers.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\bin\Debug\netcoreapp2.1\02LineNumbers.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\bin\Debug\netcoreapp2.1\02LineNumbers.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\obj\Debug\netcoreapp2.1\02LineNumbers.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\obj\Debug\netcoreapp2.1\02LineNumbers.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\obj\Debug\netcoreapp2.1\02LineNumbers.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\obj\Debug\netcoreapp2.1\02LineNumbers.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\obj\Debug\netcoreapp2.1\02LineNumbers.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\02LineNumbers\obj\Debug\netcoreapp2.1\02LineNumbers.pdb

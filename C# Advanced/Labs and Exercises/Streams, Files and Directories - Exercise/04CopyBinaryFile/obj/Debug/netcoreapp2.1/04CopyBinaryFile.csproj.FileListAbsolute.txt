@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\bin\Debug\netcoreapp2.1\04CopyBinaryFile.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\bin\Debug\netcoreapp2.1\04CopyBinaryFile.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\bin\Debug\netcoreapp2.1\04CopyBinaryFile.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\bin\Debug\netcoreapp2.1\04CopyBinaryFile.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\bin\Debug\netcoreapp2.1\04CopyBinaryFile.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\obj\Debug\netcoreapp2.1\04CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\obj\Debug\netcoreapp2.1\04CopyBinaryFile.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\obj\Debug\netcoreapp2.1\04CopyBinaryFile.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\obj\Debug\netcoreapp2.1\04CopyBinaryFile.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Exercise\04CopyBinaryFile\obj\Debug\netcoreapp2.1\04CopyBinaryFile.pdb
