@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\bin\Debug\netcoreapp2.1\06StrategyPattern.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\bin\Debug\netcoreapp2.1\06StrategyPattern.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\bin\Debug\netcoreapp2.1\06StrategyPattern.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\bin\Debug\netcoreapp2.1\06StrategyPattern.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\bin\Debug\netcoreapp2.1\06StrategyPattern.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\obj\Debug\netcoreapp2.1\06StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\obj\Debug\netcoreapp2.1\06StrategyPattern.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\obj\Debug\netcoreapp2.1\06StrategyPattern.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\obj\Debug\netcoreapp2.1\06StrategyPattern.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\06StrategyPattern\obj\Debug\netcoreapp2.1\06StrategyPattern.pdb

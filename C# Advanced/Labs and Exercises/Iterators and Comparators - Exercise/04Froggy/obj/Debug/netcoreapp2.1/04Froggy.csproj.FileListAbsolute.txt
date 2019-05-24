@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\bin\Debug\netcoreapp2.1\04Froggy.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\bin\Debug\netcoreapp2.1\04Froggy.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\bin\Debug\netcoreapp2.1\04Froggy.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\bin\Debug\netcoreapp2.1\04Froggy.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\bin\Debug\netcoreapp2.1\04Froggy.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\obj\Debug\netcoreapp2.1\04Froggy.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\obj\Debug\netcoreapp2.1\04Froggy.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\obj\Debug\netcoreapp2.1\04Froggy.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\obj\Debug\netcoreapp2.1\04Froggy.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\04Froggy\obj\Debug\netcoreapp2.1\04Froggy.pdb

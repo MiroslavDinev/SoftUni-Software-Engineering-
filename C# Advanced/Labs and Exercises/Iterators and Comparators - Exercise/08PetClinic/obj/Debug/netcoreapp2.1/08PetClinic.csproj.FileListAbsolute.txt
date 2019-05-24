@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\bin\Debug\netcoreapp2.1\08PetClinic.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\bin\Debug\netcoreapp2.1\08PetClinic.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\bin\Debug\netcoreapp2.1\08PetClinic.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\bin\Debug\netcoreapp2.1\08PetClinic.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\bin\Debug\netcoreapp2.1\08PetClinic.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\obj\Debug\netcoreapp2.1\08PetClinic.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\obj\Debug\netcoreapp2.1\08PetClinic.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\obj\Debug\netcoreapp2.1\08PetClinic.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\obj\Debug\netcoreapp2.1\08PetClinic.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\obj\Debug\netcoreapp2.1\08PetClinic.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\08PetClinic\obj\Debug\netcoreapp2.1\08PetClinic.pdb

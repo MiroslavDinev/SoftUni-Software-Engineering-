@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\obj\Debug\netcoreapp2.1\02Collection.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\obj\Debug\netcoreapp2.1\02Collection.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\obj\Debug\netcoreapp2.1\02Collection.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\obj\Debug\netcoreapp2.1\02Collection.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\bin\Debug\netcoreapp2.1\02Collection.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\bin\Debug\netcoreapp2.1\02Collection.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\bin\Debug\netcoreapp2.1\02Collection.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\bin\Debug\netcoreapp2.1\02Collection.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\bin\Debug\netcoreapp2.1\02Collection.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\obj\Debug\netcoreapp2.1\02Collection.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\02Collection\obj\Debug\netcoreapp2.1\02Collection.pdb

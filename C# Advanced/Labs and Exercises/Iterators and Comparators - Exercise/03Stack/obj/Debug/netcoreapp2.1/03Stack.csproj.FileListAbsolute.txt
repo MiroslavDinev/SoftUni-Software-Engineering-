@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\bin\Debug\netcoreapp2.1\03Stack.deps.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\bin\Debug\netcoreapp2.1\03Stack.runtimeconfig.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\bin\Debug\netcoreapp2.1\03Stack.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\bin\Debug\netcoreapp2.1\03Stack.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\bin\Debug\netcoreapp2.1\03Stack.pdb
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\obj\Debug\netcoreapp2.1\03Stack.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\obj\Debug\netcoreapp2.1\03Stack.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\obj\Debug\netcoreapp2.1\03Stack.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\obj\Debug\netcoreapp2.1\03Stack.dll
+D:\Users\ADMIN\source\repos\IteratorsAndComparators-Exercise\03Stack\obj\Debug\netcoreapp2.1\03Stack.pdb
