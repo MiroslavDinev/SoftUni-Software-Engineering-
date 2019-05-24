@@ -1,0 +1,10 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\bin\Debug\netcoreapp2.1\06FolderSize.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\bin\Debug\netcoreapp2.1\06FolderSize.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\bin\Debug\netcoreapp2.1\06FolderSize.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\bin\Debug\netcoreapp2.1\06FolderSize.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\bin\Debug\netcoreapp2.1\06FolderSize.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\obj\Debug\netcoreapp2.1\06FolderSize.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\obj\Debug\netcoreapp2.1\06FolderSize.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\obj\Debug\netcoreapp2.1\06FolderSize.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\obj\Debug\netcoreapp2.1\06FolderSize.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\06FolderSize\obj\Debug\netcoreapp2.1\06FolderSize.pdb

@@ -1,0 +1,12 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\bin\Debug\netcoreapp2.1\03. Word Count\text.txt
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\bin\Debug\netcoreapp2.1\03. Word Count\words.txt
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\bin\Debug\netcoreapp2.1\03WordCount.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\bin\Debug\netcoreapp2.1\03WordCount.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\bin\Debug\netcoreapp2.1\03WordCount.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\bin\Debug\netcoreapp2.1\03WordCount.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\bin\Debug\netcoreapp2.1\03WordCount.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\obj\Debug\netcoreapp2.1\03WordCount.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\obj\Debug\netcoreapp2.1\03WordCount.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\obj\Debug\netcoreapp2.1\03WordCount.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\obj\Debug\netcoreapp2.1\03WordCount.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\03WordCount\obj\Debug\netcoreapp2.1\03WordCount.pdb

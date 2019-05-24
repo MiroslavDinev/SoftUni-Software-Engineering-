@@ -1,0 +1,12 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\bin\Debug\netcoreapp2.1\05. Slice File\sliceMe.txt
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\bin\Debug\netcoreapp2.1\05SliceFile.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\bin\Debug\netcoreapp2.1\05SliceFile.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\bin\Debug\netcoreapp2.1\05SliceFile.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\bin\Debug\netcoreapp2.1\05SliceFile.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\bin\Debug\netcoreapp2.1\05SliceFile.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\obj\Debug\netcoreapp2.1\05SliceFile.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\obj\Debug\netcoreapp2.1\05SliceFile.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\obj\Debug\netcoreapp2.1\05SliceFile.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\obj\Debug\netcoreapp2.1\05SliceFile.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\obj\Debug\netcoreapp2.1\05SliceFile.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\05SliceFile\obj\Debug\netcoreapp2.1\05SliceFile.pdb

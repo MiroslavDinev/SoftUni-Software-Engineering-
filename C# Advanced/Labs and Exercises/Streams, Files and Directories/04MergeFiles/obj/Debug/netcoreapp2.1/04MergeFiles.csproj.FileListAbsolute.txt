@@ -1,0 +1,12 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\bin\Debug\netcoreapp2.1\04. Merge Files\FileOne.txt
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\bin\Debug\netcoreapp2.1\04. Merge Files\FileTwo.txt
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\bin\Debug\netcoreapp2.1\04MergeFiles.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\bin\Debug\netcoreapp2.1\04MergeFiles.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\bin\Debug\netcoreapp2.1\04MergeFiles.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\bin\Debug\netcoreapp2.1\04MergeFiles.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\bin\Debug\netcoreapp2.1\04MergeFiles.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\obj\Debug\netcoreapp2.1\04MergeFiles.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\obj\Debug\netcoreapp2.1\04MergeFiles.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\obj\Debug\netcoreapp2.1\04MergeFiles.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\obj\Debug\netcoreapp2.1\04MergeFiles.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\04MergeFiles\obj\Debug\netcoreapp2.1\04MergeFiles.pdb

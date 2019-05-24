@@ -1,0 +1,12 @@
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\bin\Debug\netcoreapp2.1\Resources\01. Odd Lines\Input.txt
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\bin\Debug\netcoreapp2.1\01OddLines.deps.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\bin\Debug\netcoreapp2.1\01OddLines.runtimeconfig.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\bin\Debug\netcoreapp2.1\01OddLines.runtimeconfig.dev.json
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\bin\Debug\netcoreapp2.1\01OddLines.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\bin\Debug\netcoreapp2.1\01OddLines.pdb
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\obj\Debug\netcoreapp2.1\01OddLines.csprojAssemblyReference.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\obj\Debug\netcoreapp2.1\01OddLines.csproj.CoreCompileInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\obj\Debug\netcoreapp2.1\01OddLines.AssemblyInfoInputs.cache
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\obj\Debug\netcoreapp2.1\01OddLines.AssemblyInfo.cs
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\obj\Debug\netcoreapp2.1\01OddLines.dll
+D:\Users\DINEV\source\repos\StreamsFilesAndDirectories-Lab\01OddLines\obj\Debug\netcoreapp2.1\01OddLines.pdb
