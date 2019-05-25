@@ -6,3 +6,6 @@
 *.json
 *.props
 *.targets
+*.zip
+*.docx
+*.pptx
