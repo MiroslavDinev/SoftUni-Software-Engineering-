@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\bin\Debug\netcoreapp2.1\01ClubParty.deps.json
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\bin\Debug\netcoreapp2.1\01ClubParty.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\bin\Debug\netcoreapp2.1\01ClubParty.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\bin\Debug\netcoreapp2.1\01ClubParty.dll
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\bin\Debug\netcoreapp2.1\01ClubParty.pdb
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\obj\Debug\netcoreapp2.1\01ClubParty.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\obj\Debug\netcoreapp2.1\01ClubParty.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\obj\Debug\netcoreapp2.1\01ClubParty.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\obj\Debug\netcoreapp2.1\01ClubParty.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\obj\Debug\netcoreapp2.1\01ClubParty.dll
+D:\Users\ADMIN\source\repos\Exam24Feb19\Exam24Feb19\01ClubParty\obj\Debug\netcoreapp2.1\01ClubParty.pdb

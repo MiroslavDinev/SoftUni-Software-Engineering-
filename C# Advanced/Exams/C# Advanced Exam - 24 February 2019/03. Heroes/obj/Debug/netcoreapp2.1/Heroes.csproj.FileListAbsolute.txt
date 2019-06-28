@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.deps.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.pdb
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.pdb
