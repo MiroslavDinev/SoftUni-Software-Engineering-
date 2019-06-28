@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\bin\Debug\netcoreapp2.1\02Sneaking.deps.json
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\bin\Debug\netcoreapp2.1\02Sneaking.runtimeconfig.json
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\bin\Debug\netcoreapp2.1\02Sneaking.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\bin\Debug\netcoreapp2.1\02Sneaking.dll
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\bin\Debug\netcoreapp2.1\02Sneaking.pdb
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\obj\Debug\netcoreapp2.1\02Sneaking.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\obj\Debug\netcoreapp2.1\02Sneaking.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\obj\Debug\netcoreapp2.1\02Sneaking.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\obj\Debug\netcoreapp2.1\02Sneaking.dll
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\obj\Debug\netcoreapp2.1\02Sneaking.pdb
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\02Sneaking\obj\Debug\netcoreapp2.1\02Sneaking.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\bin\Debug\netcoreapp2.1\01Hospital.deps.json
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\bin\Debug\netcoreapp2.1\01Hospital.runtimeconfig.json
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\bin\Debug\netcoreapp2.1\01Hospital.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\bin\Debug\netcoreapp2.1\01Hospital.dll
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\bin\Debug\netcoreapp2.1\01Hospital.pdb
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\obj\Debug\netcoreapp2.1\01Hospital.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\obj\Debug\netcoreapp2.1\01Hospital.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\obj\Debug\netcoreapp2.1\01Hospital.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\obj\Debug\netcoreapp2.1\01Hospital.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\obj\Debug\netcoreapp2.1\01Hospital.dll
+D:\Users\ADMIN\source\repos\CSharpAdvancedSampleExam\CSharpAdvancedSampleExam\01Hospital\obj\Debug\netcoreapp2.1\01Hospital.pdb
