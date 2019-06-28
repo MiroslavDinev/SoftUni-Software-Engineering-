@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\bin\Debug\netcoreapp2.1\01Socks.deps.json
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\bin\Debug\netcoreapp2.1\01Socks.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\bin\Debug\netcoreapp2.1\01Socks.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\bin\Debug\netcoreapp2.1\01Socks.dll
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\bin\Debug\netcoreapp2.1\01Socks.pdb
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\obj\Debug\netcoreapp2.1\01Socks.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\obj\Debug\netcoreapp2.1\01Socks.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\obj\Debug\netcoreapp2.1\01Socks.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\obj\Debug\netcoreapp2.1\01Socks.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\obj\Debug\netcoreapp2.1\01Socks.dll
+D:\Users\ADMIN\source\repos\Exam17Feb19\Exam17Feb19\01Socks\obj\Debug\netcoreapp2.1\01Socks.pdb
