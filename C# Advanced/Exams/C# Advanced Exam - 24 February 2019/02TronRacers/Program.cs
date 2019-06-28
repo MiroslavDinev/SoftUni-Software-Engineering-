@@ -1,308 +1,249 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
+using System.Text;
+using System.Numerics;
 
-namespace _02TronRacers
+public class Program
 {
-    public class Program
+    public static void Main()
     {
-        static void Main(string[] args)
+        int rows = int.Parse(Console.ReadLine());
+
+        char[][] jagged = new char[rows][];
+
+        int firstRow = -1;
+        int firstCol = -1;
+        int secondRow = -1;
+        int secondCol = -1;
+
+        for (int row = 0; row < rows; row++)
         {
-            int n = int.Parse(Console.ReadLine());
+            char[] currRow = Console.ReadLine().ToCharArray();
 
-            char[,] matrix = new char[n, n];
+            jagged[row] = new char[currRow.Length];
 
-            int firstPlayerRow = -1;
-            int firstPlayerCol = -1;
-            int secondPlayerRow = -1;
-            int secondPlayerCol = -1;
-
-            for (int row = 0; row < n; row++)
+            for (int col = 0; col < jagged[row].Length; col++)
             {
-                char[] currRow = Console.ReadLine().ToCharArray();
+                jagged[row][col] = currRow[col];
 
-                for (int col = 0; col < n; col++)
+                if (jagged[row][col] == 'f')
                 {
-                    matrix[row, col] = currRow[col];
-
-                    if (matrix[row, col] == 'f')
-                    {
-                        firstPlayerRow = row;
-                        firstPlayerCol = col;
-                    }
-                    else if (matrix[row, col] == 's')
-                    {
-                        secondPlayerRow = row;
-                        secondPlayerCol = col;
-                    }
+                    firstRow = row;
+                    firstCol = col;
                 }
-            }
-
-            while (true)
-            {
-                string[] commands = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-
-                string playerOneMove = commands[0];
-                string playerTwoMove = commands[1];
-
-                if (playerOneMove == "up")
+                else if (jagged[row][col] == 's')
                 {
-                    if (firstPlayerRow - 1 >= 0)
-                    {
-                        firstPlayerRow -= 1;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
-                    else
-                    {
-                        firstPlayerRow = n - 1;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
+                    secondRow = row;
+                    secondCol = col;
                 }
-                else if (playerOneMove == "down")
-                {
-                    if (firstPlayerRow + 1 < n)
-                    {
-                        firstPlayerRow += 1;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
-                    else
-                    {
-                        firstPlayerRow = 0;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
-                }
-                else if (playerOneMove == "left")
-                {
-                    if (firstPlayerCol - 1 >= 0)
-                    {
-                        firstPlayerCol -= 1;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
-                    else
-                    {
-                        firstPlayerCol = n - 1;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
-                }
-                else if (playerOneMove == "right")
-                {
-                    if (firstPlayerCol + 1 < n)
-                    {
-                        firstPlayerCol += 1;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
-                    else
-                    {
-                        firstPlayerCol = 0;
-
-                        if (matrix[firstPlayerRow, firstPlayerCol] == 's')
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[firstPlayerRow, firstPlayerCol] = 'f';
-                        }
-                    }
-                }
-                if (playerTwoMove == "up")
-                {
-                    if (secondPlayerRow - 1 >= 0)
-                    {
-                        secondPlayerRow -= 1;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                    else
-                    {
-                        secondPlayerRow = n - 1;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                }
-                else if (playerTwoMove == "down")
-                {
-                    if (secondPlayerRow + 1 < n)
-                    {
-                        secondPlayerRow += 1;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                    else
-                    {
-                        secondPlayerRow = 0;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                }
-                else if (playerTwoMove == "right")
-                {
-                    if (secondPlayerCol + 1 < n)
-                    {
-                        secondPlayerCol += 1;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                    else
-                    {
-                        secondPlayerCol = 0;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                }
-                else if (playerTwoMove == "left")
-                {
-                    if (secondPlayerCol - 1 >= 0)
-                    {
-                        secondPlayerCol -= 1;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                    else
-                    {
-                        secondPlayerCol = n - 1;
-
-                        if (matrix[secondPlayerRow, secondPlayerCol] == 'f')
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 'x';
-                            break;
-                        }
-                        else
-                        {
-                            matrix[secondPlayerRow, secondPlayerCol] = 's';
-                        }
-                    }
-                }
-            }
-
-            for (int row = 0; row < n; row++)
-            {
-                for (int col = 0; col < n; col++)
-                {
-                    Console.Write(matrix[row, col]);
-                }
-                Console.WriteLine();
             }
         }
+
+        while (true)
+        {
+            string[] tokens = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+            string firstMove = tokens[0];
+            string secondMove = tokens[1];
+
+            if (firstMove == "up")
+            {
+                if (firstRow - 1 >= 0)
+                {
+                    firstRow -= 1;
+                }
+                else
+                {
+                    firstRow = rows - 1;
+                }
+
+                if (KillPlayerOne(jagged, firstRow, firstCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[firstRow][firstCol] = 'f';
+                }
+            }
+            else if (firstMove == "down")
+            {
+                if (firstRow + 1 < rows)
+                {
+                    firstRow += 1;
+                }
+                else
+                {
+                    firstRow = 0;
+                }
+
+                if (KillPlayerOne(jagged, firstRow, firstCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[firstRow][firstCol] = 'f';
+                }
+            }
+            else if (firstMove == "left")
+            {
+                if (firstCol - 1 >= 0)
+                {
+                    firstCol -= 1;
+                }
+                else
+                {
+                    firstCol = jagged[firstRow].Length - 1;
+                }
+
+                if (KillPlayerOne(jagged, firstRow, firstCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[firstRow][firstCol] = 'f';
+                }
+            }
+            else if (firstMove == "right")
+            {
+                if (firstCol + 1 < jagged[firstRow].Length)
+                {
+                    firstCol += 1;
+                }
+                else
+                {
+                    firstCol = 0;
+                }
+
+                if (KillPlayerOne(jagged, firstRow, firstCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[firstRow][firstCol] = 'f';
+                }
+            }
+
+            if (secondMove == "up")
+            {
+                if (secondRow - 1 >= 0)
+                {
+                    secondRow -= 1;
+                }
+                else
+                {
+                    secondRow = rows - 1;
+                }
+
+                if (KillPlayerTwo(jagged, secondRow, secondCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[secondRow][secondCol] = 's';
+                }
+            }
+            else if (secondMove == "down")
+            {
+                if (secondRow + 1 < rows)
+                {
+                    secondRow += 1;
+                }
+                else
+                {
+                    secondRow = 0;
+                }
+
+                if (KillPlayerTwo(jagged, secondRow, secondCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[secondRow][secondCol] = 's';
+                }
+            }
+            else if (secondMove == "left")
+            {
+                if (secondCol - 1 >= 0)
+                {
+                    secondCol -= 1;
+                }
+                else
+                {
+                    secondCol = jagged[secondRow].Length - 1;
+                }
+
+                if (KillPlayerTwo(jagged, secondRow, secondCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[secondRow][secondCol] = 's';
+                }
+            }
+            else if (secondMove == "right")
+            {
+                if (secondCol + 1 < jagged[secondRow].Length)
+                {
+                    secondCol += 1;
+                }
+                else
+                {
+                    secondCol = 0;
+                }
+
+                if (KillPlayerTwo(jagged, secondRow, secondCol))
+                {
+                    PrintField(jagged);
+                    return;
+                }
+                else
+                {
+                    jagged[secondRow][secondCol] = 's';
+                }
+            }
+        }
+    }
+
+    public static void PrintField(char[][] jagged)
+    {
+        foreach (var row in jagged)
+        {
+            Console.WriteLine(string.Join("", row));
+        }
+    }
+
+    public static bool KillPlayerOne(char[][] jagged, int firstRow, int firstCol)
+    {
+        if (jagged[firstRow][firstCol] == 's')
+        {
+            jagged[firstRow][firstCol] = 'x';
+            return true;
+        }
+        return false;
+    }
+
+    public static bool KillPlayerTwo(char[][] jagged, int secondRow, int secondCol)
+    {
+        if (jagged[secondRow][secondCol] == 'f')
+        {
+            jagged[secondRow][secondCol] = 'x';
+            return true;
+        }
+        return false;
     }
 }
