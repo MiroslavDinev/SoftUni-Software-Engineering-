@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\bin\Debug\netcoreapp2.1\01TheGarden.deps.json
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\bin\Debug\netcoreapp2.1\01TheGarden.runtimeconfig.json
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\bin\Debug\netcoreapp2.1\01TheGarden.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\bin\Debug\netcoreapp2.1\01TheGarden.dll
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\bin\Debug\netcoreapp2.1\01TheGarden.pdb
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\obj\Debug\netcoreapp2.1\01TheGarden.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\obj\Debug\netcoreapp2.1\01TheGarden.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\obj\Debug\netcoreapp2.1\01TheGarden.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\obj\Debug\netcoreapp2.1\01TheGarden.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\obj\Debug\netcoreapp2.1\01TheGarden.dll
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\01TheGarden\obj\Debug\netcoreapp2.1\01TheGarden.pdb

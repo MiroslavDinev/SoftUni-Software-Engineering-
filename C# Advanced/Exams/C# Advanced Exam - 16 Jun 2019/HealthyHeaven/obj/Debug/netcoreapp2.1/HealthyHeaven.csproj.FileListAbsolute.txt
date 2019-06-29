@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# Advanced\ExamPrepDefiningClasses\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb

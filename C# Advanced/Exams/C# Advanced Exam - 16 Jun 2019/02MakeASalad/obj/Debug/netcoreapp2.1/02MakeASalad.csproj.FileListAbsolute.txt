@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\bin\Debug\netcoreapp2.1\02MakeASalad.deps.json
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\bin\Debug\netcoreapp2.1\02MakeASalad.runtimeconfig.json
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\bin\Debug\netcoreapp2.1\02MakeASalad.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\bin\Debug\netcoreapp2.1\02MakeASalad.dll
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\bin\Debug\netcoreapp2.1\02MakeASalad.pdb
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\obj\Debug\netcoreapp2.1\02MakeASalad.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\obj\Debug\netcoreapp2.1\02MakeASalad.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\obj\Debug\netcoreapp2.1\02MakeASalad.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\obj\Debug\netcoreapp2.1\02MakeASalad.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\obj\Debug\netcoreapp2.1\02MakeASalad.dll
+D:\Users\ADMIN\source\repos\DemoExam16Jun19\DemoExam16Jun19\02MakeASalad\obj\Debug\netcoreapp2.1\02MakeASalad.pdb
