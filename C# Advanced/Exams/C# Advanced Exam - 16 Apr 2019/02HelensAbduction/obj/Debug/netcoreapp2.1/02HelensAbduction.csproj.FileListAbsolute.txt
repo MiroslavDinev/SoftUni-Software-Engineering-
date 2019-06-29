@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\bin\Debug\netcoreapp2.1\02HelensAbduction.deps.json
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\bin\Debug\netcoreapp2.1\02HelensAbduction.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\bin\Debug\netcoreapp2.1\02HelensAbduction.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\bin\Debug\netcoreapp2.1\02HelensAbduction.dll
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\bin\Debug\netcoreapp2.1\02HelensAbduction.pdb
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\obj\Debug\netcoreapp2.1\02HelensAbduction.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\obj\Debug\netcoreapp2.1\02HelensAbduction.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\obj\Debug\netcoreapp2.1\02HelensAbduction.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\obj\Debug\netcoreapp2.1\02HelensAbduction.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\obj\Debug\netcoreapp2.1\02HelensAbduction.dll
+D:\Users\ADMIN\source\repos\Exam16Apr19\Exam16Apr19\02HelensAbduction\obj\Debug\netcoreapp2.1\02HelensAbduction.pdb
