@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb

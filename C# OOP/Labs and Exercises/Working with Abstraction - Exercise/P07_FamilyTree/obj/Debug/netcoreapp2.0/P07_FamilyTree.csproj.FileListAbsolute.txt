@@ -1,0 +1,10 @@
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

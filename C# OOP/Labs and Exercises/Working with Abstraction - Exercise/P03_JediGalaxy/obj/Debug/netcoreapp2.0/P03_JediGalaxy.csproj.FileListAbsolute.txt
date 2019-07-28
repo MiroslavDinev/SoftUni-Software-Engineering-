@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

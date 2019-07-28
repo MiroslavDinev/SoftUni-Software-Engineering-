@@ -1,0 +1,10 @@
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\Exercise\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb
