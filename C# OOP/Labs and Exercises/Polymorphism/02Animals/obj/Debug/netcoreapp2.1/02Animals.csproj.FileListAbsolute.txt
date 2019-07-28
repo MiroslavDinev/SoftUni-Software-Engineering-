@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\bin\Debug\netcoreapp2.1\02Animals.deps.json
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\bin\Debug\netcoreapp2.1\02Animals.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\bin\Debug\netcoreapp2.1\02Animals.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\bin\Debug\netcoreapp2.1\02Animals.dll
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\bin\Debug\netcoreapp2.1\02Animals.pdb
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\obj\Debug\netcoreapp2.1\02Animals.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\obj\Debug\netcoreapp2.1\02Animals.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\obj\Debug\netcoreapp2.1\02Animals.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\obj\Debug\netcoreapp2.1\02Animals.dll
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\obj\Debug\netcoreapp2.1\02Animals.pdb
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\02Animals\obj\Debug\netcoreapp2.1\02Animals.csprojAssemblyReference.cache

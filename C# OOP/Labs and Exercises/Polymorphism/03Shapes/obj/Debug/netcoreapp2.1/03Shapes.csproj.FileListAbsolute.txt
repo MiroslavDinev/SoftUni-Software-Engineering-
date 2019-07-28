@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.deps.json
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.dll
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\bin\Debug\netcoreapp2.1\03Shapes.pdb
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.dll
+D:\Users\ADMIN\source\repos\Polymorphism-Lab\Polymorphism\03Shapes\obj\Debug\netcoreapp2.1\03Shapes.pdb
