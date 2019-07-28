@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.deps.json
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.dll
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\bin\Debug\netcoreapp2.1\04Team.pdb
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.dll
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\04Team\obj\Debug\netcoreapp2.1\04Team.pdb

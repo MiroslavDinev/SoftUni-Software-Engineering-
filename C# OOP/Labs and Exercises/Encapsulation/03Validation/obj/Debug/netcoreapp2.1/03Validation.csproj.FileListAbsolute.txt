@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.deps.json
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.dll
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\bin\Debug\netcoreapp2.1\03Validation.pdb
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.dll
+D:\Users\ADMIN\source\repos\Encapsulation\Encapsulation\03Validation\obj\Debug\netcoreapp2.1\03Validation.pdb

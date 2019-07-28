@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\bin\Debug\netcoreapp2.1\01ClassBox.deps.json
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\bin\Debug\netcoreapp2.1\01ClassBox.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\bin\Debug\netcoreapp2.1\01ClassBox.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\bin\Debug\netcoreapp2.1\01ClassBox.dll
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\bin\Debug\netcoreapp2.1\01ClassBox.pdb
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\obj\Debug\netcoreapp2.1\01ClassBox.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\obj\Debug\netcoreapp2.1\01ClassBox.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\obj\Debug\netcoreapp2.1\01ClassBox.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\obj\Debug\netcoreapp2.1\01ClassBox.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\obj\Debug\netcoreapp2.1\01ClassBox.dll
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\01ClassBox\obj\Debug\netcoreapp2.1\01ClassBox.pdb

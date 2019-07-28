@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\bin\Debug\netcoreapp2.1\ShoppingSpreeEdited.deps.json
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\bin\Debug\netcoreapp2.1\ShoppingSpreeEdited.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\bin\Debug\netcoreapp2.1\ShoppingSpreeEdited.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\bin\Debug\netcoreapp2.1\ShoppingSpreeEdited.dll
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\bin\Debug\netcoreapp2.1\ShoppingSpreeEdited.pdb
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\obj\Debug\netcoreapp2.1\ShoppingSpreeEdited.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\obj\Debug\netcoreapp2.1\ShoppingSpreeEdited.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\obj\Debug\netcoreapp2.1\ShoppingSpreeEdited.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\obj\Debug\netcoreapp2.1\ShoppingSpreeEdited.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\obj\Debug\netcoreapp2.1\ShoppingSpreeEdited.dll
+D:\Users\ADMIN\source\repos\Encapsulation-Exercise\Encapsulation-Exercise\ShoppingSpreeEdited\obj\Debug\netcoreapp2.1\ShoppingSpreeEdited.pdb
