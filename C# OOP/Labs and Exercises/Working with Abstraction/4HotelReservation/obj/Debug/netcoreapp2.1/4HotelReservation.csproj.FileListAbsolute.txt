@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.deps.json
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.runtimeconfig.json
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.dll
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.pdb
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.dll
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.pdb

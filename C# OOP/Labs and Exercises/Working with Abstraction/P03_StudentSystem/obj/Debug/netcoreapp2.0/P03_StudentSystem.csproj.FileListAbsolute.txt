@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\01WorkingWithAbstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb

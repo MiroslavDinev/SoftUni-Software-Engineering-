@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.deps.json
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.runtimeconfig.json
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.dll
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.pdb
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.dll
+D:\Users\ADMIN\source\repos\WorkingWithAbstraction-Lab\WorkingWithAbstraction\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.pdb
