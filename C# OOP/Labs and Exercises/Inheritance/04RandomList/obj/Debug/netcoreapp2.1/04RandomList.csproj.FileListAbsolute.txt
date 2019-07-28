@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\bin\Debug\netcoreapp2.1\04RandomList.deps.json
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\bin\Debug\netcoreapp2.1\04RandomList.runtimeconfig.json
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\bin\Debug\netcoreapp2.1\04RandomList.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\bin\Debug\netcoreapp2.1\04RandomList.dll
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\bin\Debug\netcoreapp2.1\04RandomList.pdb
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\obj\Debug\netcoreapp2.1\04RandomList.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\obj\Debug\netcoreapp2.1\04RandomList.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\obj\Debug\netcoreapp2.1\04RandomList.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\obj\Debug\netcoreapp2.1\04RandomList.dll
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\obj\Debug\netcoreapp2.1\04RandomList.pdb
+D:\Users\ADMIN\source\repos\Inheritance\Inheritance\04RandomList\obj\Debug\netcoreapp2.1\04RandomList.csprojAssemblyReference.cache
