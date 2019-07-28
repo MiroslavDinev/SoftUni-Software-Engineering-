@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\bin\Debug\netcoreapp2.1\01Logger.deps.json
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\bin\Debug\netcoreapp2.1\01Logger.runtimeconfig.json
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\bin\Debug\netcoreapp2.1\01Logger.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\bin\Debug\netcoreapp2.1\01Logger.dll
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\bin\Debug\netcoreapp2.1\01Logger.pdb
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\obj\Debug\netcoreapp2.1\01Logger.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\obj\Debug\netcoreapp2.1\01Logger.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\obj\Debug\netcoreapp2.1\01Logger.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\obj\Debug\netcoreapp2.1\01Logger.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\obj\Debug\netcoreapp2.1\01Logger.dll
+D:\Users\ADMIN\source\repos\SOLID-Exercise\SOLID-Exercise\01Logger\obj\Debug\netcoreapp2.1\01Logger.pdb
