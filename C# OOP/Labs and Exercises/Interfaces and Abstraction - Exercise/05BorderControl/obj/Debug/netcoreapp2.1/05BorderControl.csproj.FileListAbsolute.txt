@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\bin\Debug\netcoreapp2.1\05BorderControl.deps.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\bin\Debug\netcoreapp2.1\05BorderControl.runtimeconfig.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\bin\Debug\netcoreapp2.1\05BorderControl.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\bin\Debug\netcoreapp2.1\05BorderControl.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\bin\Debug\netcoreapp2.1\05BorderControl.pdb
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\obj\Debug\netcoreapp2.1\05BorderControl.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\obj\Debug\netcoreapp2.1\05BorderControl.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\obj\Debug\netcoreapp2.1\05BorderControl.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\obj\Debug\netcoreapp2.1\05BorderControl.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\obj\Debug\netcoreapp2.1\05BorderControl.pdb
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\05BorderControl\obj\Debug\netcoreapp2.1\05BorderControl.csprojAssemblyReference.cache

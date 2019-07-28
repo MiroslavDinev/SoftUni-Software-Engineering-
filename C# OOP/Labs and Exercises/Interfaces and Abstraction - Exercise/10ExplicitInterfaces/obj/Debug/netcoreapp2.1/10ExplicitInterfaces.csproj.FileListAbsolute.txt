@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\bin\Debug\netcoreapp2.1\10ExplicitInterfaces.deps.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\bin\Debug\netcoreapp2.1\10ExplicitInterfaces.runtimeconfig.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\bin\Debug\netcoreapp2.1\10ExplicitInterfaces.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\bin\Debug\netcoreapp2.1\10ExplicitInterfaces.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\bin\Debug\netcoreapp2.1\10ExplicitInterfaces.pdb
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\obj\Debug\netcoreapp2.1\10ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\obj\Debug\netcoreapp2.1\10ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\obj\Debug\netcoreapp2.1\10ExplicitInterfaces.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\obj\Debug\netcoreapp2.1\10ExplicitInterfaces.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\obj\Debug\netcoreapp2.1\10ExplicitInterfaces.pdb
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\10ExplicitInterfaces\obj\Debug\netcoreapp2.1\10ExplicitInterfaces.csprojAssemblyReference.cache

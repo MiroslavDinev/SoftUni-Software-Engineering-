@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\bin\Debug\netcoreapp2.1\01DefineIPerson.deps.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\bin\Debug\netcoreapp2.1\01DefineIPerson.runtimeconfig.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\bin\Debug\netcoreapp2.1\01DefineIPerson.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\bin\Debug\netcoreapp2.1\01DefineIPerson.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\bin\Debug\netcoreapp2.1\01DefineIPerson.pdb
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\obj\Debug\netcoreapp2.1\01DefineIPerson.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\obj\Debug\netcoreapp2.1\01DefineIPerson.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\obj\Debug\netcoreapp2.1\01DefineIPerson.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\obj\Debug\netcoreapp2.1\01DefineIPerson.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\obj\Debug\netcoreapp2.1\01DefineIPerson.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\01DefineIPerson\obj\Debug\netcoreapp2.1\01DefineIPerson.pdb

@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.deps.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.runtimeconfig.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.pdb
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.pdb

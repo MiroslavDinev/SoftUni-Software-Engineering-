@@ -1,0 +1,10 @@
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\bin\Debug\netcoreapp2.1\01Shapes.deps.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\bin\Debug\netcoreapp2.1\01Shapes.runtimeconfig.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\bin\Debug\netcoreapp2.1\01Shapes.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\bin\Debug\netcoreapp2.1\01Shapes.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\bin\Debug\netcoreapp2.1\01Shapes.pdb
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\obj\Debug\netcoreapp2.1\01Shapes.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\obj\Debug\netcoreapp2.1\01Shapes.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\obj\Debug\netcoreapp2.1\01Shapes.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\obj\Debug\netcoreapp2.1\01Shapes.dll
+D:\Users\ADMIN\source\repos\InterfacesAndAbstraction-Lab\InterfacesAndAbstraction-Lab\01Shapes\obj\Debug\netcoreapp2.1\01Shapes.pdb
