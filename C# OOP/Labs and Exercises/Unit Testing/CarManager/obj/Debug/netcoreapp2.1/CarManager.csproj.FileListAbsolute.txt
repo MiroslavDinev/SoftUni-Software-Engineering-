@@ -1,0 +1,8 @@
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\bin\Debug\netcoreapp2.1\CarManager.deps.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\bin\Debug\netcoreapp2.1\CarManager.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\bin\Debug\netcoreapp2.1\CarManager.pdb
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp2.1\CarManager.pdb

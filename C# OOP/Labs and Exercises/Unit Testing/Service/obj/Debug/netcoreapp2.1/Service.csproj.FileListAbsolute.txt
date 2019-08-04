@@ -1,0 +1,8 @@
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\bin\Debug\netcoreapp2.1\Service.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\bin\Debug\netcoreapp2.1\Service.pdb
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.pdb

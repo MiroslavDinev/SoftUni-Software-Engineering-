@@ -1,0 +1,9 @@
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\Unit Testing\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb
