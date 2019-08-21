@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\01. Structure_Skeleton\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb

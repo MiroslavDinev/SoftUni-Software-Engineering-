@@ -1,0 +1,9 @@
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+D:\Miro\SoftUni\C# Advanced\May 19\C# OOP\DemoExam\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb
