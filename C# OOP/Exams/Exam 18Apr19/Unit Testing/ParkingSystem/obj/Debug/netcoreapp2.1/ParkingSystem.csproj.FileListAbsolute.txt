@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\03. Unit Tests_Skeleton\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb

@@ -1,0 +1,11 @@
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\Miro\SoftUni\C# Advanced\Feb 19\C# OOP\Exams\18 Apr 19\01. Structure_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
