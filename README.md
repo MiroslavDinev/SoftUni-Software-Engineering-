@@ -9,3 +9,4 @@ Education as Software Engineer
 | [Technology Fundamentals](https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019) | [Link](https://softuni.bg/certificates/details/65235/1f6b0e4a)|
 | [C# Advanced](https://softuni.bg/trainings/2348/csharp-advanced-may-2019) | [Link](https://softuni.bg/certificates/details/67731/b8e8be3d)|
 | [C# OOP](https://softuni.bg/trainings/2349/csharp-oop-june-2019) | [Link](https://softuni.bg/certificates/details/69807/91230e78)|
+| [MS SQL Server](https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019) | [Link](https://softuni.bg/certificates/details/71145/0321ee8f)|
