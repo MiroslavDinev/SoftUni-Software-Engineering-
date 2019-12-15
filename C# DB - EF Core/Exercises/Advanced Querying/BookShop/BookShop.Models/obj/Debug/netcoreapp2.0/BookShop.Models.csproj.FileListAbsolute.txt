@@ -1,0 +1,7 @@
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.deps.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfo.cs
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.pdb

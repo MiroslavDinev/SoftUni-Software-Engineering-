@@ -1,0 +1,13 @@
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CopyComplete
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb

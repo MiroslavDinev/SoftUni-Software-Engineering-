@@ -1,0 +1,17 @@
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CopyComplete
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\08 Advanced Querying\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb
