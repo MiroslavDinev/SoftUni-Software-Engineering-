@@ -1,0 +1,10 @@
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 01 Sep 18\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb
