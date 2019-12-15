@@ -1,0 +1,10 @@
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 07 Apr 19\01. Model Definition _Skeleton + Datasets\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
