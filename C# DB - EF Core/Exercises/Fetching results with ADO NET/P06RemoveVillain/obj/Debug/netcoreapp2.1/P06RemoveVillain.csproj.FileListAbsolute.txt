@@ -1,0 +1,14 @@
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\bin\Debug\netcoreapp2.1\P06RemoveVillain.deps.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\bin\Debug\netcoreapp2.1\P06RemoveVillain.runtimeconfig.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\bin\Debug\netcoreapp2.1\P06RemoveVillain.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\bin\Debug\netcoreapp2.1\P06RemoveVillain.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\bin\Debug\netcoreapp2.1\P06RemoveVillain.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\bin\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\bin\Debug\netcoreapp2.1\P01InitialSetup.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\obj\Debug\netcoreapp2.1\P06RemoveVillain.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\obj\Debug\netcoreapp2.1\P06RemoveVillain.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\obj\Debug\netcoreapp2.1\P06RemoveVillain.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\obj\Debug\netcoreapp2.1\P06RemoveVillain.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\obj\Debug\netcoreapp2.1\P06RemoveVillain.csproj.CopyComplete
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\obj\Debug\netcoreapp2.1\P06RemoveVillain.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P06RemoveVillain\obj\Debug\netcoreapp2.1\P06RemoveVillain.pdb

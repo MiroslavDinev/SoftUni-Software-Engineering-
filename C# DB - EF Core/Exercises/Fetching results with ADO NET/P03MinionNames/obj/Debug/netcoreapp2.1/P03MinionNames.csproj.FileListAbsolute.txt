@@ -1,0 +1,13 @@
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\bin\Debug\netcoreapp2.1\P03MinionNames.deps.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\bin\Debug\netcoreapp2.1\P03MinionNames.runtimeconfig.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\bin\Debug\netcoreapp2.1\P03MinionNames.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\bin\Debug\netcoreapp2.1\P03MinionNames.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\bin\Debug\netcoreapp2.1\P03MinionNames.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\bin\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\bin\Debug\netcoreapp2.1\P01InitialSetup.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\obj\Debug\netcoreapp2.1\P03MinionNames.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\obj\Debug\netcoreapp2.1\P03MinionNames.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\obj\Debug\netcoreapp2.1\P03MinionNames.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\obj\Debug\netcoreapp2.1\P03MinionNames.csproj.CopyComplete
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\obj\Debug\netcoreapp2.1\P03MinionNames.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P03MinionNames\obj\Debug\netcoreapp2.1\P03MinionNames.pdb

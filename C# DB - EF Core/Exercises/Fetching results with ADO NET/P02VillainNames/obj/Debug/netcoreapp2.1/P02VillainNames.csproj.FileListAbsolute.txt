@@ -1,0 +1,14 @@
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\bin\Debug\netcoreapp2.1\P02VillainNames.deps.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\bin\Debug\netcoreapp2.1\P02VillainNames.runtimeconfig.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\bin\Debug\netcoreapp2.1\P02VillainNames.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\bin\Debug\netcoreapp2.1\P02VillainNames.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\bin\Debug\netcoreapp2.1\P02VillainNames.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\bin\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\bin\Debug\netcoreapp2.1\P01InitialSetup.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\obj\Debug\netcoreapp2.1\P02VillainNames.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\obj\Debug\netcoreapp2.1\P02VillainNames.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\obj\Debug\netcoreapp2.1\P02VillainNames.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\obj\Debug\netcoreapp2.1\P02VillainNames.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\obj\Debug\netcoreapp2.1\P02VillainNames.csproj.CopyComplete
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\obj\Debug\netcoreapp2.1\P02VillainNames.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P02VillainNames\obj\Debug\netcoreapp2.1\P02VillainNames.pdb

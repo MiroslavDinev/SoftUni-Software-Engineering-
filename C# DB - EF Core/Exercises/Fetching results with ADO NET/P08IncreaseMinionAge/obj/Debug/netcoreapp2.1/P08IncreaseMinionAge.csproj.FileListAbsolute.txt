@@ -1,0 +1,13 @@
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08IncreaseMinionAge.deps.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08IncreaseMinionAge.runtimeconfig.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08IncreaseMinionAge.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08IncreaseMinionAge.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08IncreaseMinionAge.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\bin\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\bin\Debug\netcoreapp2.1\P01InitialSetup.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08IncreaseMinionAge.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08IncreaseMinionAge.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08IncreaseMinionAge.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08IncreaseMinionAge.csproj.CopyComplete
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08IncreaseMinionAge.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P08IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08IncreaseMinionAge.pdb

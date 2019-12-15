@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\bin\Debug\netcoreapp2.1\P01InitialSetup.deps.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\bin\Debug\netcoreapp2.1\P01InitialSetup.runtimeconfig.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\bin\Debug\netcoreapp2.1\P01InitialSetup.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\bin\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\obj\Debug\netcoreapp2.1\P01InitialSetup.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\obj\Debug\netcoreapp2.1\P01InitialSetup.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\obj\Debug\netcoreapp2.1\P01InitialSetup.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\obj\Debug\netcoreapp2.1\P01InitialSetup.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\bin\Debug\netcoreapp2.1\P01InitialSetup.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\obj\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P01InitialSetup\obj\Debug\netcoreapp2.1\P01InitialSetup.pdb

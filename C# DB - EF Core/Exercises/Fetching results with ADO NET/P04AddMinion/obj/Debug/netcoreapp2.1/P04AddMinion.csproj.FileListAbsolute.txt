@@ -1,0 +1,14 @@
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\bin\Debug\netcoreapp2.1\P04AddMinion.deps.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\bin\Debug\netcoreapp2.1\P04AddMinion.runtimeconfig.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\bin\Debug\netcoreapp2.1\P04AddMinion.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\bin\Debug\netcoreapp2.1\P04AddMinion.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\bin\Debug\netcoreapp2.1\P04AddMinion.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\bin\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\bin\Debug\netcoreapp2.1\P01InitialSetup.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\obj\Debug\netcoreapp2.1\P04AddMinion.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\obj\Debug\netcoreapp2.1\P04AddMinion.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\obj\Debug\netcoreapp2.1\P04AddMinion.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\obj\Debug\netcoreapp2.1\P04AddMinion.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\obj\Debug\netcoreapp2.1\P04AddMinion.csproj.CopyComplete
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\obj\Debug\netcoreapp2.1\P04AddMinion.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P04AddMinion\obj\Debug\netcoreapp2.1\P04AddMinion.pdb

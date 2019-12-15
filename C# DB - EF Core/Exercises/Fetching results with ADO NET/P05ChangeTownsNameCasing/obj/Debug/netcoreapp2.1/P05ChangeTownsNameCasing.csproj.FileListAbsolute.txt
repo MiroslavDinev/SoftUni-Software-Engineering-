@@ -1,0 +1,14 @@
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\bin\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.deps.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\bin\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.runtimeconfig.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\bin\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\bin\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\bin\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\bin\Debug\netcoreapp2.1\P01InitialSetup.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\bin\Debug\netcoreapp2.1\P01InitialSetup.pdb
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\obj\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\obj\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\obj\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\obj\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\obj\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.csproj.CopyComplete
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\obj\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.dll
+D:\Users\ADMIN\source\repos\FetchingResultsetsWithADO.NET\FetchingResultsetsWithADO.NET\P05ChangeTownsNameCasing\obj\Debug\netcoreapp2.1\P05ChangeTownsNameCasing.pdb
