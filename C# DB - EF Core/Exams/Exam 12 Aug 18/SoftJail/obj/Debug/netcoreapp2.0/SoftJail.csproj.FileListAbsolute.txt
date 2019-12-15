@@ -1,0 +1,10 @@
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 12 Aug 18\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
