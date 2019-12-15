@@ -1,0 +1,11 @@
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.deps.json
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.runtimeconfig.json
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.runtimeconfig.dev.json
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.dll
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.csprojAssemblyReference.cache
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.csproj.CoreCompileInputs.cache
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfoInputs.cache
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfo.cs
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.pdb
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.dll
+D:\Users\ADMIN\source\repos\EntityRelations\EntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.pdb
