@@ -1,0 +1,10 @@
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+D:\Miro\SoftUni\C# DB\EF CORE\Feb 19\Again Exams\Exam 18 Apr 19\01. Model Defition_Skeleton + Datasets\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb
