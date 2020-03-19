@@ -11,3 +11,4 @@ Education as Software Engineer
 | [C# OOP](https://softuni.bg/trainings/2349/csharp-oop-june-2019) | [Link](https://softuni.bg/certificates/details/69807/91230e78)|
 | [MS SQL Server](https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019) | [Link](https://softuni.bg/certificates/details/71145/0321ee8f)|
 | [EF Core](https://softuni.bg/trainings/2457/entity-framework-core-october-2019) | [Link](https://softuni.bg/certificates/details/74233/2bcb292c)|
+| [JS Advanced](https://softuni.bg/trainings/2609/js-advanced-january-2020) | [Link](https://softuni.bg/certificates/details/76367/7e62ddf2)|
