@@ -1,0 +1,1 @@
+Please write "npm install" in terminal before continue
