@@ -13,3 +13,5 @@ Education as Software Engineer
 | [EF Core](https://softuni.bg/trainings/2457/entity-framework-core-october-2019) | [Link](https://softuni.bg/certificates/details/74233/2bcb292c)|
 | [JS Advanced](https://softuni.bg/trainings/2609/js-advanced-january-2020) | [Link](https://softuni.bg/certificates/details/76367/7e62ddf2)|
 | [JS Applications](https://softuni.bg/trainings/2610/js-applications-february-2020) | [Link](https://softuni.bg/certificates/details/80343/f57864ea)|
+| [C# Web Basics](https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022) | [Link](https://softuni.bg/certificates/details/126272/591d030c)|
+| [ASP.NET Core](https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022) | [Link](https://softuni.bg/certificates/details/132666/7fd0cc0d)|
