@@ -17,3 +17,4 @@ Education as Software Engineer
 | [ASP.NET Core](https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022) | [Link](https://softuni.bg/certificates/details/132666/7fd0cc0d)|
 | [HTML & CSS](https://softuni.bg/trainings/3855/html-and-css-september-2022) | [Link](https://softuni.bg/certificates/details/147169/eeaf6298)|
 | [Angular](https://softuni.bg/trainings/3856/angular-november-2022) | [Link](https://softuni.bg/certificates/details/152825/ae64e5d1)|
+| [Agile Essentials With Scrum](https://softuni.bg/trainings/4046/agile-essentials-with-scrum-february-2023) | [Link](https://softuni.bg/certificates/details/163482/0837cfe9)|
